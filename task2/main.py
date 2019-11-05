@@ -22,13 +22,15 @@ class Relation:
             self._subst_entities()
 
     def __str__(self):
-        return str({
-            "relation": self.relation_name,
-            "normalized_sentence": self.normalized_sentence,
-            "entities": self.entities,
-            "subject": self.subject,
-            "object": self.object
-        })
+        return str(
+            {
+                "relation": self.relation_name,
+                "normalized_sentence": self.normalized_sentence,
+                "entities": self.entities,
+                "subject": self.subject,
+                "object": self.object,
+            }
+        )
 
     def _extract_entities(self):
         matches = re.findall(r"\[\[ (.+?) \| (.+?) \]\]", self.normalized_sentence)
@@ -40,19 +42,15 @@ class Relation:
 
     def _normalize_sentence(self):
         tmp = re.sub(
-            "\[\[ {} \| {} \]\]".format(self.subject["name"], self.subject["mid"]),
-            # "\[\[ (.+?) \| {} \]\]".format(self.subject["mid"]),
+            "\[\[ {}(.+?) \| {} \]\]".format(self.subject["name"][0], self.subject["mid"]),
             "SUBJECT",
             self.raw_sentence,
         )
-        print(tmp)
         tmp = re.sub(
-            "\[\[ {} \| {} \]\]".format(self.object["name"], self.object["mid"]),
-            # "\[\[ (.+?) \| {} \]\]".format(self.object["mid"]),
+            "\[\[ {}(.+?) \| {} \]\]".format(self.object["name"][0], self.object["mid"]),
             "OBJECT",
             tmp,
         )
-        print(tmp)
         self.normalized_sentence = tmp
 
     def _subst_entities(self):
@@ -60,7 +58,7 @@ class Relation:
             self.normalized_sentence = re.sub(
                 "\[\[ {} \| {} \]\]".format(self.entities[i]["name"], self.entities[i]["mid"]),
                 self.entities[i]["subst"],
-                self.raw_sentence,
+                self.normalized_sentence,
             )
 
 
@@ -95,19 +93,4 @@ def main():
 
 
 if __name__ == "__main__":
-    # main()
-    test = {
-        "sentence": "First, I was asked to meet [[ Sooraj Barjatya | /m/026gbl_ ]] 's father [[ Raj Kumar Barjatya | /m/0jznp5 ]] ",
-        "pair": {
-            "subject": {
-                "name": "Rajkumar Barjatya",
-                "mid": "/m/0jznp5"
-            },
-            "object": {
-                "name": "Sooraj Barjatya",
-                "mid": "/m/026gbl_"
-            }
-        },
-        "relation": "people.person.children"
-    }
-    print(Relation(test["sentence"], test["pair"]["subject"], test["pair"]["object"], test["relation"]))
+    main()
