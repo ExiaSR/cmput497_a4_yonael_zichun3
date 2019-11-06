@@ -55,14 +55,18 @@ class Relation:
         self.object_paths = []
         self.shortest_path = set()  # (subject_path, object_path)
 
-        # subst object and subject by OBJECT and SUBJECT
-        self._normalize_sentence()
-        # ectract a list of entities from normalized sentence
-        self._extract_entities()
-
-        if self.entities:
-            # subst all actual entities with ENTITYi
-            self._subst_entities()
+        # extract all labeled entities
+        entities = self._extract_entities()
+        # filter out subject and object
+        cnt = 1
+        for each in entities:
+            if each["mid"] != self.subject["mid"] and each["mid"] != self.object["mid"]:
+                self.entities.append({**each, "subst": "ENTITY{}".format(cnt)})
+                cnt += 1
+        # replace entities by ENTITYi
+        sentence = self._subst_entities(self.raw_sentence)
+        # rename subject/object by SUBJECT/OBJECT
+        self.normalized_sentence = self._normalize_sentence(sentence)
 
     def __str__(self):
         return json.dumps(
@@ -100,8 +104,11 @@ class Relation:
 Subject Path: {}
 Object Path: {}
 Lowest common ancestor: {}""".format(
-            self.normalized_sentence, self._entities_mapping(),
-            str(subject_path), str(object_path), self.shortest_path[0][-1] if self.shortest_path else None
+            self.normalized_sentence,
+            self._entities_mapping(),
+            str(subject_path),
+            str(object_path),
+            self.shortest_path[0][-1] if self.shortest_path else None,
         )
         return output
 
@@ -120,33 +127,38 @@ Lowest common ancestor: {}""".format(
         )
 
     def _extract_entities(self):
-        matches = re.findall(r"\[\[ (.+?) \| (.+?) \]\]", self.normalized_sentence)
-
+        matches = re.findall(r"\[\[ (.+?) \| (.+?) \]\]", self.raw_sentence)
+        entities = []
         for i in range(len(matches)):
-            self.entities.append(
-                {"name": matches[i][0], "mid": matches[i][1], "subst": "ENTITY{}".format(i + 1)}
-            )
+            entities.append({"name": matches[i][0], "mid": matches[i][1]})
+        return entities
 
-    def _normalize_sentence(self):
-        tmp = re.sub(
-            "\[\[ {}(.+?) \| {} \]\]".format(self.subject["name"][0], self.subject["mid"]),
-            "SUBJECT",
-            self.raw_sentence,
-        )
-        tmp = re.sub(
-            "\[\[ {}(.+?) \| {} \]\]".format(self.object["name"][0], self.object["mid"]),
-            "OBJECT",
-            tmp,
-        )
-        self.normalized_sentence = tmp
+    def _normalize_sentence(self, sentence):
+        # find left over labled entities
+        matches = re.findall(r"\[\[ .+? \| .+? \]\]", sentence)
 
-    def _subst_entities(self):
+        for each in matches:
+            tmp = re.search(r"\[\[ (.+?) \| (.+?) \]\]", each)
+            if tmp.group(2) == self.subject["mid"]:
+                sentence = sentence.replace(each, SUBJECT)
+            elif tmp.group(2) == self.object["mid"]:
+                sentence = sentence.replace(each, OBJECT)
+            else:
+                print("Opps, something is wrong. Double check sentence below.")
+                print("{}: {}".format(self.relation_name, self.raw_sentence))
+
+        return sentence
+
+    def _subst_entities(self, sentence):
         for i in range(len(self.entities)):
-            self.normalized_sentence = re.sub(
-                "\[\[ {} \| {} \]\]".format(self.entities[i]["name"], self.entities[i]["mid"]),
+            sentence = re.sub(
+                "\[\[ {} \| {} \]\]".format(
+                    re.escape(self.entities[i]["name"]), self.entities[i]["mid"]
+                ),
                 self.entities[i]["subst"],
-                self.normalized_sentence,
+                sentence,
             )
+        return sentence
 
     def get_shortest_path_to_ancestors(self):
         """
@@ -261,19 +273,26 @@ def main(path="data", out="task2/runs"):
 if __name__ == "__main__":
     main()
     # text = {
-    #     "sentence": "The [[ Ginetta Sagan Award | /m/0h_c3y5 ]] was established to perpetuate the legacy of 1996 [[ Presidential Medal of Freedom | /m/05qck ]] winner [[ Ginetta Sagan | /m/0h_c3y5 ]] .",
+    #     "sentence": "Pipeline gas connections Mahanagar Gas Limited  and [[ Indraprastha Gas Limited | /m/0gvv0z6 ]] , [[ Joint Venture | /m/02mz24 ]] companies of [[ GAIL (India) Limited | /m/02vzp1l ]] are supplying [[ Piped Natural Gas | /m/05k4k ]]  to 1.70 lakh...........................",
     #     "pair": {
-    #         "subject": {"name": "Presidential Medal of Freedom", "mid": "/m/05qck"},
-    #         "object": {"name": "Ginetta Sagan", "mid": "/m/0h_c3y5"},
+    #         "subject": {"name": "Indraprastha Gas", "mid": "/m/0gvv0z6"},
+    #         "object": {"name": "Natural gas", "mid": "/m/05k4k"},
     #     },
-    #     "relation": "award.award_honor.award..award.award_honor.award_winner",
+    #     "relation": "business.business_operation.industry",
     # }
 
     # relation = Relation(
     #     text["sentence"], text["pair"]["subject"], text["pair"]["object"], text["relation"]
     # )
+    # print(relation)
 
     # doc = nlp(relation.normalized_sentence)
+    # displacy.serve(doc, style="dep")
+    # for each in doc:
+    #     if each.text == SUBJECT:
+    #         print([t for t in each.ancestors])
+    #     elif each.text == OBJECT:
+    #         print([t for t in each.ancestors])
     # relation.verbs, relation.subject_paths, relation.object_paths = get_paths_and_verbs(doc)
     # print(relation)
     # relation.get_shortest_path_to_ancestors()
