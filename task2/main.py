@@ -11,6 +11,7 @@ import os
 import json
 import re
 import errno
+import random
 from typing import Dict, List, Tuple
 
 import click
@@ -138,6 +139,8 @@ Lowest common ancestor: {}""".format(
         matches = re.findall(r"\[\[ .+? \| .+? \]\]", sentence)
 
         for each in matches:
+            # extract mid from labled entities to match with subject/object
+            # since name within the sentence is not consistent with metadata
             tmp = re.search(r"\[\[ (.+?) \| (.+?) \]\]", each)
             if tmp.group(2) == self.subject["mid"]:
                 sentence = sentence.replace(each, SUBJECT)
@@ -220,10 +223,11 @@ def safe_open_w(path, mode="wt"):
     return open(path, mode)
 
 
-def save_output(relations, path="task2/runs/"):
-    for filename, relations in relations.items():
+def save_output(all_relations, path="task2/runs/"):
+    for filename, relations in all_relations.items():
+        random_sample = random.sample(relations, 100)
         with safe_open_w(os.path.join(path, filename.replace(".json", ".txt")), "w") as output_f:
-            buffer = "\n\n\n".join([r.__output__() for r in relations])
+            buffer = "\n\n\n".join([r.__output__() for r in random_sample])
             output_f.write(buffer)
 
 
