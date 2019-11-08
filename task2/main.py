@@ -52,9 +52,13 @@ class Relation:
         self.entities = []
         self.normalized_sentence = None
         self.verbs = set()
+        self.lowest_common_ancestor = None
         self.subject_paths = []
         self.object_paths = []
         self.shortest_path = set()  # (subject_path, object_path)
+        self._doc: Doc = None
+        self._subject_idx = []
+        self._object_idx = []
 
         # extract all labeled entities
         entities = self._extract_entities()
@@ -76,11 +80,12 @@ class Relation:
                 "normalized_sentence": self.normalized_sentence,
                 "raw_sentence": self.raw_sentence,
                 "verbs": [v.text for v in self.verbs],
-                "subject_path": [[t.text for t in p] for p in self.subject_paths],
-                "object_path": [[t.text for t in p] for p in self.object_paths],
+                "subject_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths],
+                "object_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths],
                 "entities": self.entities,
                 "subject": self.subject,
                 "object": self.object,
+                "lowest_common_ancestor": self._lowest_common_ancestor()
             },
             indent=2,
         )
@@ -91,25 +96,53 @@ class Relation:
                 "relation": self.relation_name,
                 "normalized_sentence": self.normalized_sentence,
                 "raw_sentence": self.raw_sentence,
+                "verbs": [v.text for v in self.verbs],
+                "subject_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths],
+                "object_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths],
                 "entities": self.entities,
                 "subject": self.subject,
                 "object": self.object,
+                "lowest_common_ancestor": self._lowest_common_ancestor()
             }
         )
 
+    def __json__(self):
+        return {
+                "relation": self.relation_name,
+                "normalized_sentence": self.normalized_sentence,
+                "raw_sentence": self.raw_sentence,
+                "verbs": [v.text for v in self.verbs],
+                "subject_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths],
+                "object_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths],
+                "entities": self.entities,
+                "subject": self.subject,
+                "object": self.object,
+                "lowest_common_ancestor": self._lowest_common_ancestor()
+            }
+
     def __output__(self):
-        subject_path = [[t.text for t in p] for p in self.subject_paths]
-        object_path = [[t.text for t in p] for p in self.object_paths]
+        subject_path = "\n".join(
+            [
+                "Subject Path: {}".format(" -> ".join(["{}_{}".format(t.text, t.pos_) for t in p]))
+                for p in self.subject_paths
+            ]
+        )
+        object_path = "\n".join(
+            [
+                "Object Path: {}".format(" -> ".join(["{}_{}".format(t.text, t.pos_) for t in p]))
+                for p in self.object_paths
+            ]
+        )
         output = """{}
 {}
-Subject Path: {}
-Object Path: {}
+{}
+{}
 Lowest common ancestor: {}""".format(
             self.normalized_sentence,
             self._entities_mapping(),
             str(subject_path),
             str(object_path),
-            self.shortest_path[0][-1] if self.shortest_path else None,
+            self._lowest_common_ancestor(),
         )
         return output
 
@@ -163,25 +196,17 @@ Lowest common ancestor: {}""".format(
             )
         return sentence
 
-    def get_shortest_path_to_ancestors(self):
-        """
-        Get lowest common path to root for SUBJECT and OBJECT
-        """
-        if not self.object_paths or not self.subject_paths:
-            return
+    def _lowest_common_ancestor(self):
+        lca_matrix = self._doc.get_lca_matrix();
+        common_ancestor = set()
+        for i in self._subject_idx:
+            for j in self._object_idx:
+                idx = lca_matrix[i][j]
+                if idx != -1:
+                    token: Token = self._doc[idx]
+                    common_ancestor.add("{}_{}".format(token.text, token.pos_))
 
-        common_paths = []
-        for i in self.subject_paths:
-            for j in self.object_paths:
-                if i[-1].text == j[-1].text:
-                    common_paths.append((i, j))
-        # find shortest
-        if not common_paths:
-            return
-
-        lens_arr = [len(pair[0]) + len(pair[1]) for pair in common_paths]
-        self.shortest_path = common_paths[lens_arr.index(min(lens_arr))]
-
+        return ", ".join(list(common_ancestor))
 
 def get_relations(dir="data") -> Dict[str, List[Relation]]:
     if not os.path.isdir(dir):
@@ -224,11 +249,19 @@ def safe_open_w(path, mode="wt"):
 
 
 def save_output(all_relations, path="task2/runs/"):
+    with safe_open_w(os.path.join(path, "output_full.json"), "w") as out_f:
+        json.dump({k: [r.__json__() for r in relations] for k, relations in all_relations.items()}, out_f)
+
+    relations_samples = {}
     for filename, relations in all_relations.items():
         random_sample = random.sample(relations, 100)
+        relations_samples[filename] = random_sample
         with safe_open_w(os.path.join(path, filename.replace(".json", ".txt")), "w") as output_f:
             buffer = "\n\n\n".join([r.__output__() for r in random_sample])
             output_f.write(buffer)
+
+    with safe_open_w(os.path.join(path, "output_samples.json"), "w") as out_f:
+        json.dump({k: [r.__json__() for r in relations] for k, relations in relations_samples.items()}, out_f)
 
 
 def get_paths_and_verbs(doc: Doc) -> Tuple[set, list, list]:
@@ -240,23 +273,28 @@ def get_paths_and_verbs(doc: Doc) -> Tuple[set, list, list]:
     subject_path = []
     object_path = []
 
+    subject_idx = []
+    object_idx = []
+    cnt = 0
     for token in doc:
         if token.head.pos == VERB:
             verbs.add(token.head)
 
         # find path from object/subject back to
         if token.text == SUBJECT:
+            subject_idx.append(cnt)
             subject_ancestors = [t for t in token.ancestors]
-            if subject_ancestors and subject_ancestors[-1].pos == VERB:
+            if subject_ancestors:
                 subject_ancestors.insert(0, token)
                 subject_path.append(subject_ancestors)
         elif token.text == OBJECT:
+            object_idx.append(cnt)
             object_ancestors = [t for t in token.ancestors]
-            if object_ancestors and object_ancestors[-1].pos == VERB:
+            if object_ancestors:
                 object_ancestors.insert(0, token)
                 object_path.append(object_ancestors)
-
-    return verbs, subject_path, object_path
+        cnt += 1
+    return verbs, subject_path, object_path, subject_idx, object_idx
 
 
 @click.command()
@@ -267,9 +305,10 @@ def main(path="data", out="task2/runs"):
 
     for relation_name, relations in all_relations.items():
         for relation in relations:
-            doc = nlp(relation.normalized_sentence)
-            relation.verbs, relation.subject_paths, relation.object_paths = get_paths_and_verbs(doc)
-            relation.get_shortest_path_to_ancestors()
+            relation._doc = nlp(relation.normalized_sentence)
+            relation.verbs, relation.subject_paths, relation.object_paths, relation._subject_idx, relation._object_idx = get_paths_and_verbs(
+                relation._doc
+            )
 
     save_output(all_relations, path=out)
 
@@ -277,27 +316,20 @@ def main(path="data", out="task2/runs"):
 if __name__ == "__main__":
     main()
     # text = {
-    #     "sentence": "Pipeline gas connections Mahanagar Gas Limited  and [[ Indraprastha Gas Limited | /m/0gvv0z6 ]] , [[ Joint Venture | /m/02mz24 ]] companies of [[ GAIL (India) Limited | /m/02vzp1l ]] are supplying [[ Piped Natural Gas | /m/05k4k ]]  to 1.70 lakh...........................",
+    #     "sentence": "*In 1930 Mr. [[ Kellogg | /m/01l8vs ]] was given the [[ Nobel Peace Prize | /m/05f3q ]] for 1929, the prize for that year having been reserved.",
     #     "pair": {
-    #         "subject": {"name": "Indraprastha Gas", "mid": "/m/0gvv0z6"},
-    #         "object": {"name": "Natural gas", "mid": "/m/05k4k"},
+    #         "subject": {"name": "Nobel Peace Prize", "mid": "/m/05f3q"},
+    #         "object": {"name": "Frank B. Kellogg", "mid": "/m/01l8vs"},
     #     },
-    #     "relation": "business.business_operation.industry",
+    #     "relation": "award.award_honor.award..award.award_honor.award_winner",
     # }
 
     # relation = Relation(
     #     text["sentence"], text["pair"]["subject"], text["pair"]["object"], text["relation"]
     # )
-    # print(relation)
-
-    # doc = nlp(relation.normalized_sentence)
-    # displacy.serve(doc, style="dep")
-    # for each in doc:
-    #     if each.text == SUBJECT:
-    #         print([t for t in each.ancestors])
-    #     elif each.text == OBJECT:
-    #         print([t for t in each.ancestors])
-    # relation.verbs, relation.subject_paths, relation.object_paths = get_paths_and_verbs(doc)
-    # print(relation)
-    # relation.get_shortest_path_to_ancestors()
+    # relation._doc = nlp(relation.normalized_sentence)
+    # lca_matrix = relation._doc.get_lca_matrix()
+    # relation.verbs, relation.subject_paths, relation.object_paths, relation._subject_idx, relation._object_idx = get_paths_and_verbs(
+    #     relation._doc
+    # )
     # print(relation.__output__())
