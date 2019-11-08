@@ -1,1 +1,1 @@
-business.business_operation.industry.json had 32 filtered sentences
+business.business_operation.industry.json had 32 filtered sentencesbusiness.business_operation.industry.json had 32 mistagged entities

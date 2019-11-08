@@ -44,17 +44,17 @@ class MisIdent:
                 cleaned_sentences.append((clean_sent, cleaned_tokens))
             self.cleaned_sentences[fn] = cleaned_sentences
     
-    # tags the 
+    # tags the cleaned sentences using spaCy's POS tagger
     def tag(self):
         for fn in self.cleaned_sentences.keys():
             filename = 'task1/runs/{}.txt'.format(fn)
             # opens the file to show output of sentence, words with tags and incorrect identification 
             with open(filename, "w+") as f: 
                 filtered_sentences = 0
+                mistagged_sentences = 0 
                 sentences = self.cleaned_sentences[fn]
                 for sent in sentences:
                     # sometimes there are two mistakes in one sentence. we should just count it once
-                    filtered = 0 
                     doc = nlp(sent[0])
                     mistagged = []
                     tagged = []
@@ -71,16 +71,17 @@ class MisIdent:
                             f.write("\n{} {}".format(tag[0], tag[1]))
                         for mistag in mistagged:
                             f.write("\n{} {} Incorrect".format(mistag[0], mistag[1]))
+                            mistagged_sentences += 1
+                        filtered_sentences += 1
                         
                         f.write('\n')
                         f.write('\n')
                         f.write('\n')
 
-                        filtered_sentences += 1
-                
             #  opens the file to show the statistics
             with open("task1/stats/"+fn+"_stats.txt", "w+") as f2: 
                 f2.write("{} had {} filtered sentences".format(fn, filtered_sentences))
+                f2.write("{} had {} mistagged entities".format(fn, mistagged_sentences))
 
     #https://stackoverflow.com/questions/37192606/python-regex-how-to-delete-all-matches-from-a-string
    # cleans the tokens of the whitespace and freebase characters
@@ -111,13 +112,9 @@ def get_relations(dir="data"):
 
     return relations
 
-    
-
 def main():
     relations = get_relations(dir="data")
     misIdent = MisIdent(relations) 
     misIdent.run()
     
-
-
 main()
