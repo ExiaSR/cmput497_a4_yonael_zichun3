@@ -1,0 +1,717 @@
+Kurylenko won her first on-screen role in 2005, where she played Iris in the French drama   L'Annulaire
+Kurylenko NNP
+won VBD
+her PRP
+first JJ
+on IN
+- HYPH
+screen NN
+role NN
+in IN
+2005 CD
+, ,
+where WRB
+she PRP
+played VBD
+Iris NNP
+in IN
+the DT
+drama NN
+   _SP
+L'Annulaire NNP
+French JJ Incorrect
+
+
+However, Nyssa , a sexy fighting vampire played by the hot Chilean actress Leonor Varela took the crown
+However RB
+, ,
+Nyssa NNP
+, ,
+a DT
+sexy JJ
+fighting NN
+vampire NN
+played VBN
+by IN
+the DT
+hot JJ
+actress NN
+Leonor NNP
+Varela NNP
+took VBD
+the DT
+crown NN
+Chilean JJ Incorrect
+
+
+Warren Mitchell  plays Herr Weiss ?the rather nervous Swiss assassin
+Warren NNP
+Mitchell NNP
+  _SP
+plays VBZ
+Herr NNP
+Weiss NNP
+? .
+the DT
+rather RB
+nervous JJ
+assassin NN
+Swiss JJ Incorrect
+
+
+Warren Mitchell  plays Herr Weiss ,the rather nervous Swiss assassin
+Warren NNP
+Mitchell NNP
+  _SP
+plays VBZ
+Herr NNP
+Weiss NNP
+, ,
+the DT
+rather RB
+nervous JJ
+assassin NN
+Swiss JJ Incorrect
+
+
+Also showing up is Liev Schreiber , the fourth returnee from the other   Scream   movies, as Cotton Weary .
+Also RB
+showing VBG
+up RP
+is VBZ
+Liev NNP
+Schreiber NNP
+, ,
+the DT
+fourth JJ
+returnee NN
+from IN
+the DT
+other JJ
+   _SP
+   _SP
+movies NNS
+, ,
+as IN
+Cotton NNP
+Weary NNP
+. .
+Scream VB Incorrect
+
+
+On the other side of the female spectrum is Nikki Gardner , played by British actress Rosamund Pike
+On IN
+the DT
+other JJ
+side NN
+of IN
+the DT
+female JJ
+spectrum NN
+is VBZ
+Nikki NNP
+Gardner NNP
+, ,
+played VBN
+by IN
+actress NN
+Rosamund NNP
+Pike NNP
+British JJ Incorrect
+
+
+On the other side of the female spectrum is Nikki Gardner , played by British actress Rosamund Pike .
+On IN
+the DT
+other JJ
+side NN
+of IN
+the DT
+female JJ
+spectrum NN
+is VBZ
+Nikki NNP
+Gardner NNP
+, ,
+played VBN
+by IN
+actress NN
+Rosamund NNP
+Pike NNP
+. .
+British JJ Incorrect
+
+
+Foster plays Casey , a 14- year old American orphan living on the streets of Los Angeles
+Foster NNP
+plays VBZ
+Casey NNP
+, ,
+a DT
+14- CD
+year NN
+old JJ
+orphan NN
+living VBG
+on IN
+the DT
+streets NNS
+of IN
+Los NNP
+Angeles NNP
+American JJ Incorrect
+
+
+Carole Bouquet  is a French best known as Bond girl Melina Havelock in
+Carole NNP
+Bouquet NNP
+  _SP
+is VBZ
+a DT
+best RBS
+known VBN
+as IN
+Bond NNP
+girl NN
+Melina NNP
+Havelock NNP
+in IN
+French JJ Incorrect
+
+
+Lana Turner plays Samarra , the high priestess of a pagan cult in this colourful Biblical epic.
+Lana NNP
+Turner NNP
+plays VBZ
+Samarra NNP
+, ,
+the DT
+high JJ
+priestess NN
+of IN
+a DT
+pagan JJ
+cult NN
+in IN
+this DT
+colourful JJ
+epic NN
+. .
+Biblical JJ Incorrect
+
+
+Mel Blanc returned as Barney Rubble , and Jean Vander Pyl is again Wilma
+Mel NNP
+Blanc NNP
+returned VBD
+as IN
+Barney NNP
+Rubble NNP
+, ,
+and CC
+Jean NNP
+Vander NNP
+Pyl NNP
+is VBZ
+again RB
+Wilma JJ Incorrect
+
+
+Lotte Lenya plays Rosa Klebb , the defecting Russian agent
+Lotte NNP
+Lenya NNP
+plays VBZ
+Rosa NNP
+Klebb NNP
+, ,
+the DT
+defecting VBG
+agent NN
+Russian JJ Incorrect
+
+
+Alley rose to prominence in the 1982 movie , playing Vulcan officer Saavik .
+Alley NNP
+rose VBD
+to IN
+prominence NN
+in IN
+the DT
+1982 CD
+movie NN
+, ,
+playing VBG
+officer NN
+Saavik NNP
+. .
+Vulcan JJ Incorrect
+
+
+Alley rose to prominence in the 1982 movie Star Trek: The Wrath of Khan , playing Vulcan officer Saavik .
+Alley NNP
+rose VBD
+to IN
+prominence NN
+in IN
+the DT
+1982 CD
+movie NN
+Star NNP
+Trek NNP
+: :
+The DT
+Wrath NNP
+of IN
+Khan NNP
+, ,
+playing VBG
+officer NN
+Saavik NNP
+. .
+Vulcan JJ Incorrect
+
+
+Alley won a supporting role in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Lieutenant Saavik
+Alley NNP
+won VBD
+a DT
+supporting VBG
+role NN
+in IN
+the DT
+1982 CD
+movie NN
+Star NNP
+Trek NNP
+II NNP
+: :
+The DT
+Wrath NNP
+of IN
+Khan NNP
+, ,
+playing VBG
+officer NN
+Lieutenant NNP
+Saavik NNP
+Vulcan JJ Incorrect
+
+
+Alley rose to prominence in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Saavik
+Alley NNP
+rose VBD
+to IN
+prominence NN
+in IN
+the DT
+1982 CD
+movie NN
+Star NNP
+Trek NNP
+II NNP
+: :
+The DT
+Wrath NNP
+of IN
+Khan NNP
+, ,
+playing VBG
+officer NN
+Saavik NNP
+Vulcan JJ Incorrect
+
+
+Career Alley won a supporting role in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Lieutenant Saavik
+Career NNP
+Alley NNP
+won VBD
+a DT
+supporting VBG
+role NN
+in IN
+the DT
+1982 CD
+movie NN
+Star NNP
+Trek NNP
+II NNP
+: :
+The DT
+Wrath NNP
+of IN
+Khan NNP
+, ,
+playing VBG
+officer NN
+Lieutenant NNP
+Saavik NNP
+Vulcan JJ Incorrect
+
+
+Alley rose to prominence in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Saavik .
+Alley NNP
+rose VBD
+to IN
+prominence NN
+in IN
+the DT
+1982 CD
+movie NN
+Star NNP
+Trek NNP
+II NNP
+: :
+The DT
+Wrath NNP
+of IN
+Khan NNP
+, ,
+playing VBG
+officer NN
+Saavik NNP
+. .
+Vulcan JJ Incorrect
+
+
+? Olga Kurylenko ?s character, Camille , is half Ukrainian and half South American .
+? .
+Olga NNP
+Kurylenko NNP
+? .
+s POS
+character NN
+, ,
+Camille NNP
+, ,
+is VBZ
+half PDT
+and CC
+half NN
+South NNP
+American NNP
+. .
+Ukrainian JJ Incorrect
+
+
+As 007 gets deeper into Dominc's dealings, he encounters the beautiful Camille , played by Russian actress Olga Kurylenko .
+As IN
+007 CD
+gets VBZ
+deeper JJR
+into IN
+Dominc NNP
+'s POS
+dealings NNS
+, ,
+he PRP
+encounters VBZ
+the DT
+beautiful JJ
+Camille NNP
+, ,
+played VBN
+by IN
+actress NN
+Olga NNP
+Kurylenko NNP
+. .
+Russian JJ Incorrect
+
+
+Source: Mi6.co.uk Ukranian actress Olga Kurylenko told press last week that her character Camille has  a masculine spirit.
+Source NN
+: :
+Mi6.co.uk JJ
+actress NN
+Olga NNP
+Kurylenko NNP
+told VBD
+press NN
+last JJ
+week NN
+that IN
+her PRP$
+character NN
+Camille NNP
+has VBZ
+  _SP
+a DT
+masculine JJ
+spirit NN
+. .
+Ukranian JJ Incorrect
+
+
+Along this path of retribution, he meets the sultry, spirited Camille  rendered by equally sultry Eurasian actress Olga Kurylenko .
+Along IN
+this DT
+path NN
+of IN
+retribution NN
+, ,
+he PRP
+meets VBZ
+the DT
+sultry NN
+, ,
+spirited VBD
+Camille NNP
+  _SP
+rendered VBN
+by IN
+equally RB
+sultry JJ
+actress NN
+Olga NNP
+Kurylenko NNP
+. .
+Eurasian JJ Incorrect
+
+
+Spade and Goodman have great chemistry, but Patrick Warburton  really steals the show as the lovable Kronk .
+and CC
+Goodman NNP
+have VBP
+great JJ
+chemistry NN
+, ,
+but CC
+Patrick NNP
+Warburton NNP
+  _SP
+really RB
+steals VBZ
+the DT
+show NN
+as IN
+the DT
+lovable JJ
+Kronk NNP
+. .
+Spade VB Incorrect
+
+
+Also a shock to my system: French beauty JULIETTE BINOCHE as the kleptomaniacal, Brillo-haired, pear-shaped mother, Miriam
+Also RB
+a DT
+shock NN
+to IN
+my PRP$
+system NN
+: :
+beauty NN
+JULIETTE NNP
+BINOCHE NNP
+as IN
+the DT
+kleptomaniacal JJ
+, ,
+Brillo NNP
+- HYPH
+haired NNP
+, ,
+pear NN
+- HYPH
+shaped JJ
+mother NN
+, ,
+Miriam NNP
+French JJ Incorrect
+
+
+Also a shock to my system: French beauty JULIETTE BINOCHE as the kleptomaniacal, Brillo-haired, pear-shaped mother, Miriam .
+Also RB
+a DT
+shock NN
+to IN
+my PRP$
+system NN
+: :
+beauty NN
+JULIETTE NNP
+BINOCHE NNP
+as IN
+the DT
+kleptomaniacal JJ
+, ,
+Brillo NNP
+- HYPH
+haired NNP
+, ,
+pear NN
+- HYPH
+shaped JJ
+mother NN
+, ,
+Miriam NNP
+. .
+French JJ Incorrect
+
+
+James Arness  is an Emmy -nominated American actor best known for portraying Marshal Matt Dillon on Gunsmoke for 20 years
+James NNP
+Arness NNP
+  _SP
+is VBZ
+an DT
+Emmy NNP
+-nominated NNP
+actor NN
+best RBS
+known VBN
+for IN
+portraying VBG
+Marshal NNP
+Matt NNP
+Dillon NNP
+on IN
+Gunsmoke NNP
+for IN
+20 CD
+years NNS
+American JJ Incorrect
+
+
+And back when she first got the renewed Moneypenny role, Samantha Bond would have made an interesting Westbrook
+And CC
+back RB
+when WRB
+she PRP
+first RB
+got VBD
+the DT
+renewed VBN
+role NN
+, ,
+Samantha NNP
+Bond NNP
+would MD
+have VB
+made VBN
+an DT
+interesting JJ
+Westbrook NN
+Moneypenny JJ Incorrect
+
+
+Marsden fantastically plays Prince Edward , Giselle ?s love in her fairy tale world
+fantastically RB
+plays VBZ
+Prince NNP
+Edward NNP
+, ,
+Giselle NNP
+? .
+s POS
+love VBP
+in IN
+her PRP$
+fairy NN
+tale NN
+world NN
+Marsden JJ Incorrect
+
+
+Australian actor Paul Hogan , better known as Mick Dundee from the popular Crocodile Dundee movies, apparently has tax problems in Australia
+actor NN
+Paul NNP
+Hogan NNP
+, ,
+better RB
+known VBN
+as IN
+Mick NNP
+Dundee NNP
+from IN
+the DT
+popular JJ
+Crocodile NNP
+Dundee NNP
+movies NNS
+, ,
+apparently RB
+has VBZ
+tax NN
+problems NNS
+in IN
+Australia NNP
+Australian JJ Incorrect
+
+
+Australian actor Paul Hogan , better known as Mick Dundee from..
+actor NN
+Paul NNP
+Hogan NNP
+, ,
+better RB
+known VBN
+as IN
+Mick NNP
+Dundee NNP
+from IN
+.. .
+Australian JJ Incorrect
+
+
+Dorian ?s friend Basil Hallward is played by the veteran British actor Richard Todd
+Dorian NNP
+? .
+s PRP
+friend NN
+Basil NNP
+Hallward NNP
+is VBZ
+played VBN
+by IN
+the DT
+veteran JJ
+actor NN
+Richard NNP
+Todd NNP
+British JJ Incorrect
+
+
+Fiennes is frightening as Goeth , who kills Jews for pleasure, yet has a fetish for his Jewish maid
+Fiennes NNP
+is VBZ
+frightening JJ
+as IN
+Goeth NNP
+, ,
+who WP
+kills VBZ
+Jews NNPS
+for IN
+pleasure NN
+, ,
+yet RB
+has VBZ
+a DT
+fetish NN
+for IN
+his PRP$
+maid NN
+Jewish JJ Incorrect
+
+
+James Mason plays Johnny McQueen , an Irish freedom fighter who is seriously wounded early in the film
+James NNP
+Mason NNP
+plays VBZ
+Johnny NNP
+McQueen NNP
+, ,
+an DT
+freedom NN
+fighter NN
+who WP
+is VBZ
+seriously RB
+wounded VBN
+early RB
+in IN
+the DT
+film NN
+Irish JJ Incorrect
+
+

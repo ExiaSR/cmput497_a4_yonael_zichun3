@@ -1,0 +1,561 @@
+Save -the-date October 24-26, 2008 for the fall Alumnae/i College featuring Francis Collins , winner of the Presidential Medal of Freedom .
+-the NN
+- HYPH
+date NN
+October NNP
+24 CD
+- SYM
+26 CD
+, ,
+2008 CD
+for IN
+the DT
+fall NN
+Alumnae NNP
+/ SYM
+i PRP
+College NNP
+featuring VBG
+Francis NNP
+Collins NNP
+, ,
+winner NN
+of IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Save VB Incorrect
+
+
+Greenspan collected a Presidential Medal of Freedom here, a British knighthood and a French Legion of Honor there
+Greenspan NNP
+collected VBD
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+here RB
+, ,
+a DT
+knighthood NN
+and CC
+a DT
+French NNP
+Legion NNP
+of IN
+Honor NNP
+there RB
+British JJ Incorrect
+
+
+Greenspan collected a Presidential Medal of Freedom here, a British knighthood and a French Legion of Honor there.
+Greenspan NNP
+collected VBD
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+here RB
+, ,
+a DT
+knighthood NN
+and CC
+a DT
+French NNP
+Legion NNP
+of IN
+Honor NNP
+there RB
+. .
+British JJ Incorrect
+
+
+On Monday November 5, 2007 Harper Lee , author of classic American novel was awarded the Presidential Medal of Freedom .
+On IN
+Monday NNP
+November NNP
+5 CD
+, ,
+2007 CD
+Harper NNP
+Lee NNP
+, ,
+author NN
+of IN
+classic JJ
+novel NN
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+American JJ Incorrect
+
+
+Also separate portraits of Ariel and Will receiving the Medal of Freedom from President Gerald Ford
+Also RB
+separate JJ
+portraits NNS
+of IN
+Ariel NNP
+and CC
+receiving VBG
+the DT
+Medal NNP
+of IN
+Freedom NNP
+from IN
+President NNP
+Gerald NNP
+Ford NNP
+Will MD Incorrect
+
+
+Eastwood s  Changeling  poses as Best Picture
+Eastwood NNP
+s ADD
+  _SP
+  _SP
+poses NNS
+as IN
+Best NNP
+Picture NN
+Changeling VBG Incorrect
+
+
+4. Unforgiven This is Clint Eastwood Oscar winning Western .
+4 LS
+. .
+Unforgiven NNP
+This DT
+is VBZ
+Clint NNP
+Eastwood NNP
+Oscar NNP
+winning VBG
+. .
+Western JJ Incorrect
+
+
+On November 9, 2005 Kahn and Cerf were presented with the Presidential Medal of Freedom for their contribution to American culture.
+On IN
+November NNP
+9 CD
+, ,
+2005 CD
+Kahn NNP
+and CC
+Cerf NNP
+were VBD
+presented VBN
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+their PRP$
+contribution NN
+to IN
+culture NN
+. .
+American JJ Incorrect
+
+
+Kahn and Cerf were honored with the Presidential Medal of Freedom on November 9, 2005 for their contribution to American culture
+Kahn NNP
+and CC
+Cerf NNP
+were VBD
+honored VBN
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+on IN
+November NNP
+9 CD
+, ,
+2005 CD
+for IN
+their PRP$
+contribution NN
+to IN
+culture NN
+American JJ Incorrect
+
+
+On November 9, 2005 Kahn and Cerf were presented with the Presidential Medal of Freedom for their contribution to American culture
+On IN
+November NNP
+9 CD
+, ,
+2005 CD
+Kahn NNP
+and CC
+Cerf NNP
+were VBD
+presented VBN
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+their PRP$
+contribution NN
+to IN
+culture NN
+American JJ Incorrect
+
+
+On November 92005 Kahn and Cerf were presented with the Presidential Medal of Freedom for their contribution to American culture
+On IN
+November NNP
+92005 CD
+Kahn NNP
+and CC
+Cerf NNP
+were VBD
+presented VBN
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+their PRP$
+contribution NN
+to IN
+culture NN
+American JJ Incorrect
+
+
+Prime Minister Tony Blair and former Australian leader John Howard was given the Presidential Medal of Freedom
+Prime NNP
+Minister NNP
+Tony NNP
+Blair NNP
+and CC
+former JJ
+leader NN
+John NNP
+Howard NNP
+was VBD
+given VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Australian JJ Incorrect
+
+
+Former British prime minister Tony Blair is to become a recipient of the Presidential Medal of Freedom
+Former JJ
+prime JJ
+minister NN
+Tony NNP
+Blair NNP
+is VBZ
+to TO
+become VB
+a DT
+recipient NN
+of IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+British JJ Incorrect
+
+
+Philip Pullman joins Japanese illustrator Ryoji Arai as winner of the 2005 Astrid Lindgren Memorial Award
+Philip NNP
+Pullman NNP
+joins VBZ
+illustrator NN
+Ryoji NNP
+Arai NNP
+as IN
+winner NN
+of IN
+the DT
+2005 CD
+Astrid NNP
+Lindgren NNP
+Memorial NNP
+Award NNP
+Japanese JJ Incorrect
+
+
+Swiss poet and novelist Carl Spitteler is awarded the Nobel Prize for Literature
+poet NN
+and CC
+novelist NN
+Carl NNP
+Spitteler NNP
+is VBZ
+awarded VBN
+the DT
+Nobel NNP
+Prize NNP
+for IN
+Literature NNP
+Swiss JJ Incorrect
+
+
+In 1998, President Clinton awarded Korematsu the Presidential Medal of Freedom for challenging the Japanese internment
+In IN
+1998 CD
+, ,
+President NNP
+Clinton NNP
+awarded VBD
+Korematsu NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+challenging VBG
+the DT
+internment NN
+Japanese JJ Incorrect
+
+
+Clarke won the Bancroft Prize for the best book on American history in 2005.
+Clarke NNP
+won VBD
+the DT
+Bancroft NNP
+Prize NNP
+for IN
+the DT
+best JJS
+book NN
+on IN
+history NN
+in IN
+2005 CD
+. .
+American JJ Incorrect
+
+
+Here's Jon Stewart hot off his Emmy win for Outstanding Variety, Music or Comedy Series learning for the first time OJ Simpson is in jail
+Here RB
+'s VBZ
+Jon NNP
+Stewart NNP
+hot RB
+off RP
+his PRP$
+win NN
+for IN
+Outstanding NNP
+Variety NNP
+, ,
+Music NNP
+or CC
+Comedy NNP
+Series NNP
+learning VBG
+for IN
+the DT
+first JJ
+time NN
+OJ NNP
+Simpson NNP
+is VBZ
+in IN
+jail NN
+Emmy JJ Incorrect
+
+
+And it was Lawrence Cremin , through his Bancroft Prize -winning The Transformation of the School , who brought American educational historiography up to date
+And CC
+it PRP
+was VBD
+Lawrence NNP
+Cremin NNP
+, ,
+through IN
+his PRP$
+Bancroft NNP
+Prize NNP
+-winning NNP
+The DT
+Transformation NNP
+of IN
+the DT
+School NNP
+, ,
+who WP
+brought VBD
+educational JJ
+historiography NN
+up IN
+to IN
+date NN
+American JJ Incorrect
+
+
+Former Australian prime minister John Howard received the Presidential Medal of Freedom from outgoing United States
+Former JJ
+prime JJ
+minister NN
+John NNP
+Howard NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+from IN
+outgoing VBG
+United NNP
+States NNP
+Australian JJ Incorrect
+
+
+Howard receives Medal of Freedom Video: Former Australian prime minister John Howard awarded the Presidential Medal of Freedom
+Howard NNP
+receives VBZ
+Medal NNP
+of IN
+Freedom NNP
+Video NN
+: :
+Former JJ
+prime JJ
+minister NN
+John NNP
+Howard NNP
+awarded VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+Australian JJ Incorrect
+
+
+After all, the Medal of Freedom is the US 's highest civilian award, and Howard , along with former British
+After RB
+all RB
+, ,
+the DT
+Medal NNP
+of IN
+Freedom NNP
+is VBZ
+the DT
+US NNP
+'s POS
+highest JJS
+civilian JJ
+award NN
+, ,
+and CC
+Howard NNP
+, ,
+along IN
+with IN
+former JJ
+British JJ Incorrect
+
+
+Long recognized as the leading contemporary Greek poet, George Seferis was awarded the Nobel Prize for Literature in 1963
+Long RB
+recognized VBD
+as IN
+the DT
+leading VBG
+contemporary JJ
+poet NN
+, ,
+George NNP
+Seferis NNP
+was VBD
+awarded VBN
+the DT
+Nobel NNP
+Prize NNP
+for IN
+Literature NNP
+in IN
+1963 CD
+Greek JJ Incorrect
+
+
+George Seferis  was a Greek poet and diplomat who won the Nobel Prize for Literature in 1963
+George NNP
+Seferis NNP
+  _SP
+was VBD
+a DT
+poet NN
+and CC
+diplomat NN
+who WP
+won VBD
+the DT
+Nobel NNP
+Prize NNP
+for IN
+Literature NNP
+in IN
+1963 CD
+Greek JJ Incorrect
+
+
+Greek poet George Seferis  is awarded the Nobel Prize for Literature
+poet NN
+George NNP
+Seferis NNP
+  _SP
+is VBZ
+awarded VBN
+the DT
+Nobel NNP
+Prize NNP
+for IN
+Literature NNP
+Greek JJ Incorrect
+
+
+Bush is awarding the Presidential Medal of Freedom to Colombian President Alvaro Uribe and to ...
+Bush NNP
+is VBZ
+awarding VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+to IN
+President NNP
+Alvaro NNP
+Uribe NNP
+and CC
+to IN
+... .
+Colombian JJ Incorrect
+
+

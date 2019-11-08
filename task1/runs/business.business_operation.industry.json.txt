@@ -1,0 +1,601 @@
+AEROSPACE group Rolls-Royce has won a ? 502.6m deal to supply jet engines and services to Middle Eastern airline Etihad.
+group NN
+Rolls NNP
+- HYPH
+Royce NNP
+has VBZ
+won VBN
+a DT
+? .
+502.6 CD
+m NN
+deal VBP
+to TO
+supply VB
+jet NN
+engines NNS
+and CC
+services NNS
+to IN
+Middle JJ
+Eastern JJ
+airline NN
+Etihad NNP
+. .
+AEROSPACE JJ Incorrect
+
+
+BioTech is an affiliate of a US company Clonaid is owned by the Raelian movement
+BioTech NNP
+is VBZ
+an DT
+affiliate NN
+of IN
+a DT
+US NNP
+company NN
+Clonaid NNP
+is VBZ
+owned VBN
+by IN
+the DT
+movement NN
+Raelian JJ Incorrect
+
+
+According to the Evalueserve s study, India 's top Knowledge Process Outsourcing firm, Indian KPOs will formulate almost 280,000 jobs &
+According VBG
+to IN
+the DT
+Evalueserve NNP
+s NNP
+study NN
+, ,
+India NNP
+'s POS
+top JJ
+Knowledge NNP
+Process NNP
+Outsourcing NNP
+firm NN
+, ,
+KPOs NNS
+will MD
+formulate VB
+almost RB
+280,000 CD
+jobs NNS
+& CC
+Indian JJ Incorrect
+
+
+Newspapers: Television: Marketplace: CanWest Countries: 2005 - 2008 Canwest squinting Media , a division of Canwest Publishing Inc .
+Newspapers NNS
+: :
+Television NN
+: :
+Marketplace NN
+: :
+CanWest JJS
+Countries NNS
+: :
+2005 CD
+- SYM
+2008 CD
+squinting NN
+Media NNS
+, ,
+a DT
+division NN
+of IN
+Canwest NNP
+Publishing NNP
+Inc NNP
+. .
+Canwest JJS Incorrect
+
+
+Rebuilt Ford engines, Ford engine parts, Automotive , custom,rebuilds.
+Rebuilt NNP
+Ford NNP
+engines NNS
+, ,
+Ford NNP
+engine NN
+parts NNS
+, ,
+, ,
+custom NN
+, ,
+rebuilds NNS
+. .
+Automotive JJ Incorrect
+
+
+With the Biotech and Health Care industries growing rapidly, 23andMe could be Google
+With IN
+the DT
+Biotech NNP
+and CC
+Health NNP
+Care NNP
+industries NNS
+growing VBG
+rapidly RB
+, ,
+could MD
+be VB
+Google NNP
+23andMe CD Incorrect
+
+
+Verizon has Wireless quietly introduced Motorola RAZR the to WMAs and then V3m,.
+Verizon NNP
+has VBZ
+quietly RB
+introduced VBN
+Motorola NNP
+RAZR NNP
+the DT
+to IN
+WMAs NNS
+and CC
+then RB
+V3 NNP
+m NNP
+, ,
+. .
+Wireless RB Incorrect
+
+
+David Arquette  is an American actor and former Professional Wrestler with World Championship Wrestling .
+David NNP
+Arquette NNP
+  _SP
+is VBZ
+an DT
+actor NN
+and CC
+former JJ
+Professional NNP
+Wrestler NNP
+with IN
+World NNP
+Championship NNP
+Wrestling NNP
+. .
+American JJ Incorrect
+
+
+Vatican Airlines , operated by the Italian cargo company Mistral Air
+Vatican NNP
+Airlines NNP
+, ,
+operated VBN
+by IN
+the DT
+cargo NN
+company NN
+Mistral NNP
+Air NNP
+Italian JJ Incorrect
+
+
+LEADING GREEK FRANCHISE Merrill Lynch has a long-standing presence in the Greek market, primarily through Private Clients and Investment Banking services.
+LEADING VBG
+GREEK NNP
+FRANCHISE NNP
+Merrill NNP
+Lynch NNP
+has VBZ
+a DT
+long RB
+- HYPH
+standing VBG
+presence NN
+in IN
+the DT
+market NN
+, ,
+primarily RB
+through IN
+Private JJ
+Clients NNPS
+and CC
+Investment NNP
+Banking NNP
+services NNS
+. .
+Greek JJ Incorrect
+
+
+Dutch telecom KPN might have broken the Telecommunication law in Holland .
+telecom NN
+KPN NNP
+might MD
+have VB
+broken VBN
+the DT
+Telecommunication NNP
+law NN
+in IN
+Holland NNP
+. .
+Dutch JJ Incorrect
+
+
+8X8 also offers a number of voice-only VoIP plans starting at $19.95/month.
+also RB
+offers VBZ
+a DT
+number NN
+of IN
+voice NN
+- HYPH
+only RB
+VoIP NN
+plans NNS
+starting VBG
+at IN
+$ $
+19.95 CD
+/ SYM
+month NN
+. .
+8X8 CD Incorrect
+
+
+German VoIP provider SipGate announced an open API to their VoIP
+VoIP NN
+provider NN
+SipGate NNP
+announced VBD
+an DT
+open JJ
+API NN
+to IN
+their PRP$
+VoIP NN
+German JJ Incorrect
+
+
+Vertex is the BPO subsidiary of British utility company, United Utilities
+Vertex NNP
+is VBZ
+the DT
+BPO NNP
+subsidiary NN
+of IN
+utility NN
+company NN
+, ,
+United NNP
+Utilities NNP
+British JJ Incorrect
+
+
+Great West Lifeco is the largest Canadian life and Health Insurance Company and serves s...
+Great NNP
+West NNP
+Lifeco NNP
+is VBZ
+the DT
+largest JJS
+life NN
+and CC
+Health NNP
+Insurance NNP
+Company NNP
+and CC
+serves VBZ
+s VBZ
+... :
+Canadian JJ Incorrect
+
+
+Belgian Railways - NMBS / SNCB ? NMBS / SNCB is the National Railway Company of Belgium .
+Railways NNP
+- HYPH
+NMBS NNP
+/ SYM
+SNCB NNP
+? .
+NMBS NNP
+/ SYM
+SNCB NNP
+is VBZ
+the DT
+National NNP
+Railway NNP
+Company NNP
+of IN
+Belgium NNP
+. .
+Belgian JJ Incorrect
+
+
+MUMBAI , Jan 20, 2009  , FMCG player Emami is looking for acquisitions in the personal healthcare business.
+MUMBAI NNP
+, ,
+Jan NNP
+20 CD
+, ,
+2009 CD
+  _SP
+, ,
+player NN
+Emami NNP
+is VBZ
+looking VBG
+for IN
+acquisitions NNS
+in IN
+the DT
+personal JJ
+healthcare NN
+business NN
+. .
+FMCG JJ Incorrect
+
+
+In fact, just this week, German PV manufacturer, Solarworld AG , announced that its 2005 profits nearly tripled from 2004.
+In IN
+fact NN
+, ,
+just RB
+this DT
+week NN
+, ,
+PV NNP
+manufacturer NN
+, ,
+Solarworld NNP
+AG NNP
+, ,
+announced VBD
+that IN
+its PRP$
+2005 CD
+profits NNS
+nearly RB
+tripled VBD
+from IN
+2004 CD
+. .
+German JJ Incorrect
+
+
+Computhink provides best-in-class ECM solutions for secure information sharing and compliance, targeting small and medium size organizations.
+provides VBZ
+best JJS
+- HYPH
+in IN
+- HYPH
+class NN
+ECM NN
+solutions NNS
+for IN
+secure JJ
+information NN
+sharing NN
+and CC
+compliance NN
+, ,
+targeting VBG
+small JJ
+and CC
+medium JJ
+size NN
+organizations NNS
+. .
+Computhink VB Incorrect
+
+
+Tags: 250-C20, Aero engines, Aerospace , Airbus , Aircraft engines...
+Tags NNS
+: :
+250-C20 CD
+, ,
+engines NNS
+, ,
+Aerospace NNP
+, ,
+Airbus NNP
+, ,
+Aircraft NN
+engines NNS
+... :
+Aero JJ Incorrect
+
+
+US : Ford confirms Lincoln MKT 'concept' for production: Automotive .
+US NNP
+: :
+Ford NNP
+confirms VBZ
+Lincoln NNP
+MKT NNP
+' POS
+concept NN
+' ''
+for IN
+production NN
+: :
+. .
+Automotive JJ Incorrect
+
+
+The Victorian ACS branch recently organised a fruitful seminar on IT 's future in Australia
+The DT
+ACS NNP
+branch NN
+recently RB
+organised VBD
+a DT
+fruitful JJ
+seminar NN
+on IN
+IT NNP
+'s POS
+future NN
+in IN
+Australia NNP
+Victorian JJ Incorrect
+
+
+It's partnering with Australian VoIP equipment manufacturer Freshtel
+It PRP
+'s VBZ
+partnering VBG
+with IN
+VoIP NN
+equipment NN
+manufacturer NN
+Freshtel NNP
+Australian JJ Incorrect
+
+
+RAIL : Ferrovie dello Stato  is the Italian
+RAIL NN
+: :
+Ferrovie NNP
+dello NN
+Stato NNP
+  _SP
+is VBZ
+the DT
+Italian JJ Incorrect
+
+
+Pharmaceutical manufactures? Pfizer
+manufactures NNS
+? .
+Pfizer NNS
+Pharmaceutical JJ Incorrect
+
+
+We all know of the exciting things Tesla Motors is doing for the Automotive world.
+We PRP
+all DT
+know VBP
+of IN
+the DT
+exciting JJ
+things NNS
+Tesla NNP
+Motors NNPS
+is VBZ
+doing VBG
+for IN
+the DT
+world NN
+. .
+Automotive JJ Incorrect
+
+
+Air Jamaica was voted Caribbean s Leading Airlines .
+Air NNP
+Jamaica NNP
+was VBD
+voted VBN
+s NNP
+Leading NNP
+Airlines NNPS
+. .
+Caribbean JJ Incorrect
+
+
+Tags: 250-c20, Aero engines, Aerospace , Airbus , Aircraft engines...
+Tags NNS
+: :
+250-c20 CD
+, ,
+engines NNS
+, ,
+Aerospace NNP
+, ,
+Airbus NNP
+, ,
+Aircraft NN
+engines NNS
+... :
+Aero JJ Incorrect
+
+
+Zopa is the marketplace for Social Lending .
+is VBZ
+the DT
+marketplace NN
+for IN
+Social NNP
+Lending NNP
+. .
+Zopa DT Incorrect
+
+
+NetEase provides Chinese language services centered around Internet content, community, and e-commerce
+NetEase NNP
+provides VBZ
+language NN
+services NNS
+centered VBN
+around IN
+Internet NN
+content NN
+, ,
+community NN
+, ,
+and CC
+e NN
+- HYPH
+commerce NN
+Chinese JJ Incorrect
+
+
+The price was a Stressless chair, produced by the Norwegian company Ekornes and donated by Macys Home Furnishing .
+The DT
+price NN
+was VBD
+a DT
+Stressless NNP
+chair NN
+, ,
+produced VBN
+by IN
+the DT
+company NN
+Ekornes NNP
+and CC
+donated VBN
+by IN
+Macys NNP
+Home NNP
+Furnishing NNP
+. .
+Norwegian JJ Incorrect
+
+
+The Data security company, Norman ASA , has signed an ISP agreement with the Swedish telecom group, Telia .
+The DT
+Data NNP
+security NN
+company NN
+, ,
+Norman NNP
+ASA NNP
+, ,
+has VBZ
+signed VBN
+an DT
+ISP NNP
+agreement NN
+with IN
+the DT
+telecom NN
+group NN
+, ,
+Telia NNP
+. .
+Swedish JJ Incorrect
+
+

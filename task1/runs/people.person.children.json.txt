@@ -1,0 +1,644 @@
+2 January ? Hubbard returns to La Quinta ; Mary Sue Hubbard moves to LA
+2 CD
+January NNP
+? .
+returns VBZ
+to IN
+La NNP
+Quinta NNP
+; :
+Mary NNP
+Sue NNP
+Hubbard NNP
+moves VBZ
+to IN
+LA NNP
+Hubbard VB Incorrect
+
+
+Edward Hardwicke  is a British actor, the son of Sir Cedric Hardwicke and actress Helena Pickard
+Edward NNP
+Hardwicke NNP
+  _SP
+is VBZ
+a DT
+actor NN
+, ,
+the DT
+son NN
+of IN
+Sir NNP
+Cedric NNP
+Hardwicke NNP
+and CC
+actress NN
+Helena NNP
+Pickard NNP
+British JJ Incorrect
+
+
+... Edward Hardwicke  is a British actor, the son of Sir Cedric Hardwicke and actress Helena Pickard
+... :
+Edward NNP
+Hardwicke NNP
+  _SP
+is VBZ
+a DT
+actor NN
+, ,
+the DT
+son NN
+of IN
+Sir NNP
+Cedric NNP
+Hardwicke NNP
+and CC
+actress NN
+Helena NNP
+Pickard NNP
+British JJ Incorrect
+
+
+Eros Ramazzotti was married to famous Swiss model and television host Michelle Hunziker and has one daughter Aurora Sophie with her
+Eros NNP
+Ramazzotti NNP
+was VBD
+married VBN
+to IN
+famous JJ
+model NN
+and CC
+television NN
+host NN
+Michelle NNP
+Hunziker NNP
+and CC
+has VBZ
+one CD
+daughter NN
+Aurora NNP
+Sophie NNP
+with IN
+her PRP
+Swiss JJ Incorrect
+
+
+Weaver is the daughter of the late NBC television executive Pat Weaver and Desir?e Hawkins Ingles, a British actress
+Weaver NNP
+is VBZ
+the DT
+daughter NN
+of IN
+the DT
+late JJ
+NBC NNP
+television NN
+executive NN
+Pat NNP
+Weaver NNP
+and CC
+Desir?e NNP
+Hawkins NNP
+Ingles NNPS
+, ,
+a DT
+actress NN
+British JJ Incorrect
+
+
+Weaver is the daughter of the late NBC television executive Pat Weaver and Desir?e Hawkins Ingles, a British actress.
+Weaver NNP
+is VBZ
+the DT
+daughter NN
+of IN
+the DT
+late JJ
+NBC NNP
+television NN
+executive NN
+Pat NNP
+Weaver NNP
+and CC
+Desir?e NNP
+Hawkins NNP
+Ingles NNPS
+, ,
+a DT
+actress NN
+. .
+British JJ Incorrect
+
+
+Carradine is the son of noted American actor John Carradine
+Carradine NNP
+is VBZ
+the DT
+son NN
+of IN
+noted VBN
+actor NN
+John NNP
+Carradine NNP
+American JJ Incorrect
+
+
+Background and family Carradine is the son of noted American actor John Carradine
+Background NN
+and CC
+family NN
+Carradine NNP
+is VBZ
+the DT
+son NN
+of IN
+noted VBN
+actor NN
+John NNP
+Carradine NNP
+American JJ Incorrect
+
+
+She is named after Heather 's mother Beatrice and Paul 's auntie Milly
+She PRP
+is VBZ
+named VBN
+after IN
+Heather NNP
+'s POS
+mother NN
+Beatrice NNP
+and CC
+Paul NNP
+'s POS
+auntie NN
+Milly RB Incorrect
+
+
+The French name Aubry is the last name of the baby's father, Berry 's boyfriend Gabriel Aubry
+The DT
+name NN
+Aubry NNP
+is VBZ
+the DT
+last JJ
+name NN
+of IN
+the DT
+baby NN
+'s POS
+father NN
+, ,
+Berry NNP
+'s POS
+boyfriend NN
+Gabriel NNP
+Aubry NNP
+French JJ Incorrect
+
+
+John Stuart Mill was born in Pentonville, London , the oldest son of the Scottish philosopher and historian James Mill
+John NNP
+Stuart NNP
+Mill NNP
+was VBD
+born VBN
+in IN
+Pentonville NNP
+, ,
+London NNP
+, ,
+the DT
+oldest JJS
+son NN
+of IN
+the DT
+philosopher NN
+and CC
+historian NN
+James NNP
+Mill NNP
+Scottish JJ Incorrect
+
+
+Born in 1806, Mill was himself the son of a philosopher, Scottish historian James Mill
+Born VBN
+in IN
+1806 CD
+, ,
+Mill NNP
+was VBD
+himself PRP
+the DT
+son NN
+of IN
+a DT
+philosopher NN
+, ,
+historian NN
+James NNP
+Mill NNP
+Scottish JJ Incorrect
+
+
+Claude Mauriac  was a French author and journalist, eldest son of the author François Mauriac .
+Claude NNP
+Mauriac NNP
+  _SP
+was VBD
+a DT
+author NN
+and CC
+journalist NN
+, ,
+eldest NNP
+son NN
+of IN
+the DT
+author NN
+François NNP
+Mauriac NNP
+. .
+French JJ Incorrect
+
+
+Distraught Rachael , 26, daughter of TV legend Diana Rigg and Scottish landowner Archie Stirling , said:  It's sad really
+Distraught NNP
+Rachael NNP
+, ,
+26 CD
+, ,
+daughter NN
+of IN
+TV NN
+legend NN
+Diana NNP
+Rigg NNP
+and CC
+landowner NN
+Archie NNP
+Stirling NNP
+, ,
+said VBD
+: :
+  _SP
+It PRP
+'s VBZ
+sad JJ
+really RB
+Scottish JJ Incorrect
+
+
+She married again in 1982 to a Scottish landowner, Archie Stirling , and had Rachael at the age of 39
+She PRP
+married VBD
+again RB
+in IN
+1982 CD
+to IN
+a DT
+landowner NN
+, ,
+Archie NNP
+Stirling NNP
+, ,
+and CC
+had VBD
+Rachael NNP
+at IN
+the DT
+age NN
+of IN
+39 CD
+Scottish JJ Incorrect
+
+
+The Lydian people are mentioned in the Bible as the descendants of Lud , son of Shem
+The DT
+people NNS
+are VBP
+mentioned VBN
+in IN
+the DT
+Bible NNP
+as IN
+the DT
+descendants NNS
+of IN
+Lud NNP
+, ,
+son NN
+of IN
+Shem NNP
+Lydian JJ Incorrect
+
+
+Borges 's mother, Leonor Acevedo Suárez , came from a traditional Uruguayan family
+Borges NNS
+'s POS
+mother NN
+, ,
+Leonor NNP
+Acevedo NNP
+Suárez NNP
+, ,
+came VBD
+from IN
+a DT
+traditional JJ
+family NN
+Uruguayan JJ Incorrect
+
+
+Borges ?s mother, Leonor Acevedo Suárez , came from an old Uruguayan family
+Borges NNS
+? .
+s NN
+mother NN
+, ,
+Leonor NNP
+Acevedo NNP
+Suárez NNP
+, ,
+came VBD
+from IN
+an DT
+old JJ
+family NN
+Uruguayan JJ Incorrect
+
+
+Borges 's mother, Leonor Acevedo Suárez , came from an old Uruguayan family
+Borges NNS
+'s POS
+mother NN
+, ,
+Leonor NNP
+Acevedo NNP
+Suárez NNP
+, ,
+came VBD
+from IN
+an DT
+old JJ
+family NN
+Uruguayan JJ Incorrect
+
+
+Elizabeth 's senior relative is James VI of Scotland , Protestant son of Elizabeth 's cousin Mary Queen of Scots .
+Elizabeth NNP
+'s POS
+senior JJ
+relative NN
+is VBZ
+James NNP
+VI NNP
+of IN
+Scotland NNP
+, ,
+son NN
+of IN
+Elizabeth NNP
+'s POS
+cousin NN
+Mary NNP
+Queen NNP
+of IN
+Scots NNPS
+. .
+Protestant JJ Incorrect
+
+
+- Early Life The son of Lord Darnley and Mary Queen of Scots , James succeeded to the Scottish throne ...
+- :
+Early RB
+Life NNP
+The DT
+son NN
+of IN
+Lord NNP
+Darnley NNP
+and CC
+Mary NNP
+Queen NNP
+of IN
+Scots NNPS
+, ,
+James NNP
+succeeded VBD
+to IN
+the DT
+throne NN
+... :
+Scottish JJ Incorrect
+
+
+were martyred there under James ' Catholic mother, Mary Queen of Scots
+were VBD
+martyred VBN
+there RB
+under IN
+James NNP
+' POS
+mother NN
+, ,
+Mary NNP
+Queen NNP
+of IN
+Scots NNPS
+Catholic JJ Incorrect
+
+
+has on display Scottish regalia and it is said that Mary, Queen of Scots gave birth here to James VI .
+has VBZ
+on IN
+display NN
+regalia NN
+and CC
+it PRP
+is VBZ
+said VBN
+that IN
+Mary NNP
+, ,
+Queen NNP
+of IN
+Scots NNPS
+gave VBD
+birth NN
+here RB
+to IN
+James NNP
+VI NNP
+. .
+Scottish JJ Incorrect
+
+
+Although, James is protestant his mother was the Catholic martyr   Mary Queen Of Scots  .
+Although IN
+, ,
+James NNP
+is VBZ
+protestant JJ
+his PRP$
+mother NN
+was VBD
+the DT
+martyr NN
+   _SP
+Mary NNP
+Queen NNP
+Of IN
+Scots NNP
+  _SP
+. .
+Catholic JJ Incorrect
+
+
+Rose Gentle is the mother of Gordon Gentle , a British soldier killed in Iraq this year
+Rose NNP
+Gentle NNP
+is VBZ
+the DT
+mother NN
+of IN
+Gordon NNP
+Gentle NNP
+, ,
+a DT
+soldier NN
+killed VBN
+in IN
+Iraq NNP
+this DT
+year NN
+British JJ Incorrect
+
+
+Stella Nina McCartney  is an English fashion designer and daughter of Paul McCartney and Linda McCartney .
+Stella NNP
+Nina NNP
+McCartney NNP
+  _SP
+is VBZ
+an DT
+fashion NN
+designer NN
+and CC
+daughter NN
+of IN
+Paul NNP
+McCartney NNP
+and CC
+Linda NNP
+McCartney NNP
+. .
+English JJ Incorrect
+
+
+That's the exciting word circulating in fashion circles since Delphine Arnault , daughter of Bernard Arnault , who rules the? LVMH
+That DT
+'s VBZ
+the DT
+exciting JJ
+word NN
+circulating VBG
+in IN
+fashion NN
+circles NNS
+since IN
+Delphine NNP
+Arnault NNP
+, ,
+daughter NN
+of IN
+Bernard NNP
+Arnault NNP
+, ,
+who WP
+rules VBZ
+the DT
+? .
+LVMH VBN Incorrect
+
+
+And lastly, one fact I learnt ? Spike Hughes was the son of the Irish composer Herbert Hughes .
+And CC
+lastly RB
+, ,
+one CD
+fact NN
+I PRP
+learnt VBD
+? .
+Spike NNP
+Hughes NNP
+was VBD
+the DT
+son NN
+of IN
+the DT
+composer NN
+Herbert NNP
+Hughes NNP
+. .
+Irish JJ Incorrect
+
+
+Novelist, playwright and broadcaster Carlo Gébler was born in Dublin in 1954, the son of famous Irish novelist Edna O'Brien .
+Novelist JJ
+, ,
+playwright NN
+and CC
+broadcaster NN
+Carlo NNP
+Gébler NNP
+was VBD
+born VBN
+in IN
+Dublin NNP
+in IN
+1954 CD
+, ,
+the DT
+son NN
+of IN
+famous JJ
+novelist NN
+Edna NNP
+O'Brien NNP
+. .
+Irish JJ Incorrect
+
+
+According to Egyptian records, Amenhotep II and Thutmose IV deported over 80,000 Canaanites
+According VBG
+to IN
+records NNS
+, ,
+Amenhotep NNP
+II NNP
+and CC
+Thutmose NNP
+IV NNP
+deported VBD
+over IN
+80,000 CD
+Canaanites NNPS
+Egyptian JJ Incorrect
+
+
+Ambani brothers Mukesh and Anil head each group, respectively.
+brothers NNS
+Mukesh NNP
+and CC
+Anil NNP
+head VBP
+each DT
+group NN
+, ,
+respectively RB
+. .
+Ambani JJ Incorrect
+
+

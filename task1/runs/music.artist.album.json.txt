@@ -1,0 +1,894 @@
+Dave, The Chantays were a surf guitar group, and the Pipeline is the name of a Hawaiian surf break
+Dave NNP
+, ,
+The DT
+Chantays NNP
+were VBD
+a DT
+surf NN
+guitar NN
+group NN
+, ,
+and CC
+the DT
+Pipeline NNP
+is VBZ
+the DT
+name NN
+of IN
+a DT
+surf NN
+break NN
+Hawaiian JJ Incorrect
+
+
+A well-drafted, De-vision and Green Court , Shining  CD5, Shining  different paragraphs first
+A DT
+well RB
+- HYPH
+drafted VBN
+, ,
+De NNP
+- HYPH
+vision NNP
+and CC
+Green NNP
+Court NNP
+, ,
+  _SP
+CD5 NNP
+, ,
+  _SP
+different JJ
+paragraphs NNS
+first RB
+Shining VBG Incorrect
+Shining VBG Incorrect
+
+
+While preparing for the Eurovision Song Contest the German band No Angels has released their album; Destiny Reloaded .
+While IN
+preparing VBG
+for IN
+the DT
+Eurovision NNP
+Song NNP
+Contest NNP
+the DT
+band NN
+No DT
+Angels NNPS
+has VBZ
+released VBN
+their PRP$
+album NN
+; :
+Destiny NNP
+Reloaded NNP
+. .
+German JJ Incorrect
+
+
+Hipeponymous brings the music of The Tragically Hip to youLive!
+brings VBZ
+the DT
+music NN
+of IN
+The DT
+Tragically NNP
+Hip NNP
+to IN
+youLive NNP
+! .
+Hipeponymous JJ Incorrect
+
+
+Phantom Power is the sixth full-length album by Canadian rock band The Tragically Hip .
+Phantom NNP
+Power NNP
+is VBZ
+the DT
+sixth JJ
+full JJ
+- HYPH
+length NN
+album NN
+by IN
+rock NN
+band NN
+The DT
+Tragically NNP
+Hip NNP
+. .
+Canadian JJ Incorrect
+
+
+The French avant-garde musician Pascal Comelade included several cover versions on his 1987 album El Primitivismo
+The DT
+avant JJ
+- HYPH
+garde FW
+musician NN
+Pascal NNP
+Comelade NNP
+included VBD
+several JJ
+cover NN
+versions NNS
+on IN
+his PRP$
+1987 CD
+album NN
+El NNP
+Primitivismo NNP
+French JJ Incorrect
+
+
+Regina Belle is enjoying the success of her first Gospel CD,   Love Forever Shines   featuring the song,   God is Good  .
+Regina NNP
+Belle NNP
+is VBZ
+enjoying VBG
+the DT
+success NN
+of IN
+her PRP$
+first JJ
+Gospel NNP
+CD NNP
+, ,
+   _SP
+Love NNP
+Forever NNP
+Shines VBZ
+   _SP
+featuring VBG
+the DT
+song NN
+, ,
+   _SP
+God NNP
+is VBZ
+  _SP
+. .
+Good JJ Incorrect
+
+
+Des visages des figures is an album by French rock band Noir Désir
+Des NNP
+visages VBZ
+des NNP
+figures NNS
+is VBZ
+an DT
+album NN
+by IN
+rock NN
+band NN
+Noir NNP
+Désir NNP
+French JJ Incorrect
+
+
+He also explains that the Skatalites '   Latin Goes Ska   is an instrumental version of the Cuban song  Pachito El Che.
+He PRP
+also RB
+explains VBZ
+that IN
+the DT
+Skatalites NNPS
+' POS
+   _SP
+Latin NNP
+Goes VBZ
+Ska NNP
+   _SP
+is VBZ
+an DT
+instrumental JJ
+version NN
+of IN
+the DT
+song NN
+  _SP
+Pachito NNP
+El NNP
+Che NNP
+. .
+Cuban JJ Incorrect
+
+
+Dolby gave Lovich his song   New Toy ,  which became a British hit in 1981
+Dolby NNP
+gave VBD
+Lovich NNP
+his PRP$
+song NN
+   _SP
+New NNP
+Toy NNP
+, ,
+  _SP
+which WDT
+became VBD
+a DT
+hit NN
+in IN
+1981 CD
+British JJ Incorrect
+
+
+Finnish female-fronted metal band AMBERIAN DAWN will release its debut album,   River of Tuoni  , on January 30, 2008 via Suomen Musiikki.
+female NN
+- HYPH
+fronted VBN
+metal NN
+band NN
+AMBERIAN NNP
+DAWN NNP
+will MD
+release VB
+its PRP$
+debut NN
+album NN
+, ,
+   _SP
+River NNP
+of IN
+Tuoni NNP
+  _SP
+, ,
+on IN
+January NNP
+30 CD
+, ,
+2008 CD
+via IN
+Suomen NNP
+Musiikki NNP
+. .
+Finnish JJ Incorrect
+
+
+La Maravilla   is the debut studio album by Dominican - American reggaeton singer-songwriter Arcangel , officially released in April 2008.
+La NNP
+Maravilla NNP
+   _SP
+is VBZ
+the DT
+debut NN
+studio NN
+album NN
+by IN
+Dominican NNP
+- HYPH
+reggaeton NNP
+singer NN
+- HYPH
+songwriter NN
+Arcangel NNP
+, ,
+officially RB
+released VBN
+in IN
+April NNP
+2008 CD
+. .
+American JJ Incorrect
+
+
+Kate Ryan For fans of European vocal trance, it would be hard to beat Kate Ryan s Stronger .
+Kate NNP
+Ryan NNP
+For IN
+fans NNS
+of IN
+vocal JJ
+trance NN
+, ,
+it PRP
+would MD
+be VB
+hard JJ
+to TO
+beat VB
+Kate NNP
+Ryan NNP
+s VBZ
+. .
+European JJ Incorrect
+Stronger JJR Incorrect
+
+
+Oh, I had to laugh when I heard the title of Lori McKenna ?s latest CD, Unglamorous
+Oh UH
+, ,
+I PRP
+had VBD
+to TO
+laugh VB
+when WRB
+I PRP
+heard VBD
+the DT
+title NN
+of IN
+Lori NNP
+McKenna NNP
+? .
+s VBZ
+latest JJS
+CD NNP
+, ,
+Unglamorous JJ Incorrect
+
+
+Spooky   is The first album of Lush and produced by Robin Guthrie
+   _SP
+is VBZ
+The DT
+first JJ
+album NN
+of IN
+Lush NNP
+and CC
+produced VBN
+by IN
+Robin NNP
+Guthrie NNP
+Spooky IN Incorrect
+
+
+John-Michael Howson is co-writer of the hit Australian musical   Dusty   about the life of 60s singer, Dusty Springfield .
+John NNP
+- HYPH
+Michael NNP
+Howson NNP
+is VBZ
+co NN
+- NN
+writer NN
+of IN
+the DT
+hit VBN
+musical JJ
+   _SP
+   _SP
+about IN
+the DT
+life NN
+of IN
+60s NNS
+singer NN
+, ,
+Dusty NNP
+Springfield NNP
+. .
+Australian JJ Incorrect
+Dusty JJ Incorrect
+
+
+On May 28th, 2007 American industrial rockers Ministry will release remix album ? Rio Grande Dub ?
+On IN
+May NNP
+28th NN
+, ,
+2007 CD
+industrial JJ
+rockers NNS
+Ministry NNP
+will MD
+release VB
+remix JJ
+album NN
+? .
+Rio NNP
+Grande NNP
+Dub NNP
+? .
+American JJ Incorrect
+
+
+As the lead singer of the teen group Grupo Mania , Crespo was a Latino pop star by age twenty-two
+As IN
+the DT
+lead JJ
+singer NN
+of IN
+the DT
+teen NN
+group NN
+Grupo NNP
+Mania NNP
+, ,
+Crespo NNP
+was VBD
+a DT
+pop NN
+star NN
+by IN
+age NN
+twenty CD
+- HYPH
+two CD
+Latino JJ Incorrect
+
+
+Wir Werden Sehen typifies Schelmish ?s folk-rock style which seems to be growing in popularity in Germany lately.
+Wir NNP
+Werden NNP
+Sehen NNP
+typifies VBZ
+? .
+s VBZ
+folk NN
+- HYPH
+rock NN
+style NN
+which WDT
+seems VBZ
+to TO
+be VB
+growing VBG
+in IN
+popularity NN
+in IN
+Germany NNP
+lately RB
+. .
+Schelmish JJ Incorrect
+
+
+In 1969 he made his recording debut on guitar behind British folk singer Michael Chapman on his album   Fully Qualified Survivor
+In IN
+1969 CD
+he PRP
+made VBD
+his PRP$
+recording NN
+debut NN
+on IN
+guitar NN
+behind IN
+folk NN
+singer NN
+Michael NNP
+Chapman NNP
+on IN
+his PRP$
+album NN
+   _SP
+Fully RB
+Qualified JJ
+Survivor NNP
+British JJ Incorrect
+
+
+Anthony ?s debut album, When the Night Is Over released in 1991 was straight Latin hip-hop
+Anthony NNP
+? .
+s PRP
+debut NN
+album NN
+, ,
+When WRB
+the DT
+Night NN
+Is VBZ
+Over RB
+released VBN
+in IN
+1991 CD
+was VBD
+straight RB
+hip NN
+- HYPH
+hop NN
+Latin JJ Incorrect
+
+
+On July 11, 2006 Marc Anthony released   Sigo Siendo Yo  , a Spanish greatest-hits album.
+On IN
+July NNP
+11 CD
+, ,
+2006 CD
+Marc NNP
+Anthony NNP
+released VBD
+   _SP
+Sigo NNP
+Siendo NNP
+Yo NNP
+  _SP
+, ,
+a DT
+greatest JJS
+- HYPH
+hits NNS
+album NN
+. .
+Spanish JJ Incorrect
+
+
+Shorter released Alegría , his first all-acoustic studio recording as a leader since 1967, in 2003
+released VBN
+Alegría NN
+, ,
+his PRP$
+first JJ
+all DT
+- HYPH
+acoustic JJ
+studio NN
+recording NN
+as IN
+a DT
+leader NN
+since IN
+1967 CD
+, ,
+in IN
+2003 CD
+Shorter JJR Incorrect
+
+
+Then Dolly flopped with   Rhinestone    co-starring Sylvester Stallone in his first comedy attempt
+Then RB
+flopped VBD
+with IN
+   _SP
+Rhinestone NN
+    _SP
+co NN
+- JJ
+starring VBG
+Sylvester NNP
+Stallone NNP
+in IN
+his PRP$
+first JJ
+comedy NN
+attempt NN
+Dolly RB Incorrect
+
+
+In 1989, Dolly returned to Nashville and the resulting album was White Limozeen
+In IN
+1989 CD
+, ,
+returned VBD
+to IN
+Nashville NNP
+and CC
+the DT
+resulting VBG
+album NN
+was VBD
+White NNP
+Limozeen NNP
+Dolly RB Incorrect
+
+
+Jolene reviews Dolly Parton 's   My Tennessee Mountain Home   CD
+reviews NNS
+Dolly RB
+Parton NNP
+'s POS
+   _SP
+My PRP$
+Tennessee NNP
+Mountain NNP
+Home NNP
+   _SP
+CD NN
+Jolene JJ Incorrect
+
+
+Want Two is the fourth album by American - Canadian singer-songwriter Rufus Wainwright .
+Want VB
+Two CD
+is VBZ
+the DT
+fourth JJ
+album NN
+by IN
+- HYPH
+singer NN
+- HYPH
+songwriter NN
+Rufus NNP
+Wainwright NNP
+. .
+American JJ Incorrect
+Canadian JJ Incorrect
+
+
+Gentleman Reg is the recording name for Canadian singer/songwriter Reg Vermue , who released his fourth album, Jet Black , today.
+Gentleman NNP
+Reg NNP
+is VBZ
+the DT
+recording VBG
+name NN
+for IN
+singer NN
+/ SYM
+songwriter NN
+Reg NNP
+Vermue NNP
+, ,
+who WP
+released VBD
+his PRP$
+fourth JJ
+album NN
+, ,
+Jet NNP
+Black NNP
+, ,
+today NN
+. .
+Canadian JJ Incorrect
+
+
+Home & Garden will have 4 songs on the upcoming Colette record   Hypnotized   on Om Records .
+Home NNP
+& CC
+Garden NNP
+will MD
+have VB
+4 CD
+songs NNS
+on IN
+the DT
+upcoming JJ
+Colette NNP
+record NN
+   _SP
+   _SP
+on IN
+Om NNP
+Records NNPS
+. .
+Hypnotized JJ Incorrect
+
+
+? Goodbye ? pushed the album to platinum, and Loveless followed with the critically acclaimed When Fallen Angels Fly
+? .
+? .
+pushed VBD
+the DT
+album NN
+to IN
+platinum NN
+, ,
+and CC
+Loveless NNP
+followed VBD
+with IN
+the DT
+critically RB
+acclaimed VBN
+When WRB
+Fallen VBN
+Angels NNS
+Fly VBD
+Goodbye UH Incorrect
+
+
+An engineer who assisted on the recordings the Stones made in Japan for Stripped
+An DT
+engineer NN
+who WP
+assisted VBD
+on IN
+the DT
+recordings NNS
+the DT
+Stones NNPS
+made VBN
+in IN
+Japan NNP
+for IN
+Stripped VBN Incorrect
+
+
+Leavell joined the Stones in 1982 and played on the European leg of their   Tattoo You   tour
+Leavell NNP
+joined VBD
+the DT
+Stones NNPS
+in IN
+1982 CD
+and CC
+played VBD
+on IN
+the DT
+leg NN
+of IN
+their PRP$
+   _SP
+Tattoo NNP
+You PRP
+   _SP
+tour NN
+European JJ Incorrect
+
+
+A Bigger Bang   is the Stones album I've been hoping for since 1983's   Undercover .
+A DT
+Bigger JJR
+Bang NNP
+   _SP
+is VBZ
+the DT
+Stones NNP
+album NN
+I PRP
+'ve VB
+been VBN
+hoping VBG
+for IN
+since IN
+1983 CD
+'s POS
+   _SP
+. .
+Undercover JJ Incorrect
+
+
+Tru Thoughts are pleased to present the third Quantic album Mishaps Happening .
+Tru NNP
+Thoughts NNPS
+are VBP
+pleased JJ
+to TO
+present VB
+the DT
+third JJ
+album NN
+Mishaps NNP
+Happening VBG
+. .
+Quantic JJ Incorrect
+
+
+Empty, God Lives Underwater don be to hard Empty , God Lives Underwater provided.
+, ,
+God NNP
+Lives VBZ
+Underwater NNP
+don NN
+be VB
+to IN
+hard JJ
+Empty NNP
+, ,
+God NNP
+Lives VBZ
+Underwater NNP
+provided VBN
+. .
+Empty JJ Incorrect
+
+
+British magazine Mojo recently put Capossela ?s Ovunque proteggi album second in its world music top ten list.
+magazine NN
+Mojo NNP
+recently RB
+put VBD
+Capossela NNP
+? .
+s VBZ
+Ovunque JJ
+proteggi NN
+album NN
+second RB
+in IN
+its PRP$
+world NN
+music NN
+top JJ
+ten CD
+list NN
+. .
+British JJ Incorrect
+
+
+Talkie Walkie comes five years after their landmark Moon Safari and Parisian mood-enhancers Air are back doing what they do best.
+Talkie NNP
+Walkie NNP
+comes VBZ
+five CD
+years NNS
+after IN
+their PRP$
+landmark NN
+Moon NNP
+Safari NNP
+and CC
+mood NN
+- HYPH
+enhancers NNS
+Air NNP
+are VBP
+back RB
+doing VBG
+what WP
+they PRP
+do VBP
+best RBS
+. .
+Parisian JJ Incorrect
+
+
+The latest Young and Crazy Horse album, Broken Arrow , has received mixed reviews
+The DT
+latest JJS
+and CC
+Crazy NNP
+Horse NNP
+album NN
+, ,
+Broken NNP
+Arrow NNP
+, ,
+has VBZ
+received VBN
+mixed JJ
+reviews NNS
+Young JJ Incorrect
+
+
+Walrus/Groon is a collaborative 12  EP between Merzbow  and Japanese experimental doom band Boris .
+Walrus NNP
+/ SYM
+Groon NNP
+is VBZ
+a DT
+collaborative JJ
+12 CD
+  _SP
+EP NNP
+between IN
+Merzbow NNP
+  _SP
+and CC
+experimental JJ
+doom NN
+band NN
+Boris NNP
+. .
+Japanese JJ Incorrect
+
+
+On this latest album   Anicca   released on the excellent British Cold Spring-label, Merzbow presents three pieces of ear-shattering noise
+On IN
+this DT
+latest JJS
+album NN
+   _SP
+Anicca NNP
+   _SP
+released VBD
+on IN
+the DT
+excellent JJ
+Cold NNP
+Spring NNP
+- HYPH
+label NN
+, ,
+Merzbow NNP
+presents VBZ
+three CD
+pieces NNS
+of IN
+ear NN
+- HYPH
+shattering VBG
+noise NN
+British JJ Incorrect
+
+

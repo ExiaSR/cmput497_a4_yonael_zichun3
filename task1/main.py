@@ -14,53 +14,74 @@ nlp = en_core_web_sm.load()
 logger = logging.getLogger("cmput497")
 
 class MisIdent:
-    def __init__(self, raw_data=[], sentences=[], relations=[]):
-        self.raw_data = raw_data
-        self.relations = relations
-        self.sentences = sentences 
-        self.cleaned_sentences = []
+    def __init__(self, relations):
+        self.relations = relations 
+        # tuple of sentence, tokens
+        self.cleaned_sentences = {}
+    
+    def run(self):
+        self.clean_sentences()
+        self.tag()
+ 
 
-
+    # cleans the sentences of the free base tokens 
     def clean_sentences(self):
-        for sent in self.sentences:
-            clean_sent = sent 
-            freebase_tokens = re.findall(r'(?<=\[)(.*?)(?=\|)', sent)
-            full_tokens = re.findall(r'(\[.*?\]])', sent)
-            cleaned_tokens = self.clean_tokens(freebase_tokens)
+        # goes through files and gets all the relation sentences
+        for fn in self.relations.keys():
+            sentences = self.relations[fn]
+            cleaned_sentences = []
+            # goes through all the relation sentences and cleans them 
+            for sent in sentences:
+                clean_sent = sent 
+                freebase_tokens = re.findall(r'(?<=\[)(.*?)(?=\|)', sent)
+                full_tokens = re.findall(r'(\[.*?\]])', sent)
+                cleaned_tokens = self.clean_tokens(freebase_tokens)
 
-            for i in range(len(full_tokens)):
-                clean_sent = clean_sent.replace(full_tokens[i], cleaned_tokens[i]).strip()
-        
-            self.cleaned_sentences.append(clean_sent)
+                # goes through all tokens and replaces instance in the original sentence 
+                for i in range(len(full_tokens)):
+                    clean_sent = clean_sent.replace(full_tokens[i], cleaned_tokens[i]).strip()
+            
+                cleaned_sentences.append((clean_sent, cleaned_tokens))
+            self.cleaned_sentences[fn] = cleaned_sentences
+    
+    # tags the 
+    def tag(self):
+        for fn in self.cleaned_sentences.keys():
+            filename = 'task1/runs/{}.txt'.format(fn)
+            # opens the file to show output of sentence, words with tags and incorrect identification 
+            with open(filename, "w+") as f: 
+                filtered_sentences = 0
+                sentences = self.cleaned_sentences[fn]
+                for sent in sentences:
+                    # sometimes there are two mistakes in one sentence. we should just count it once
+                    filtered = 0 
+                    doc = nlp(sent[0])
+                    mistagged = []
+                    tagged = []
+                    for token in doc:
+                        if ((token.text in sent[1]) and (token.tag_[0] != 'N')):
+                            mistagged.append((token.text, token.tag_))
+                        
+                        else:
+                            tagged.append((token.text, token.tag_))
 
-            noun_phrases = self.tagger(clean_sent)
-            for tok in cleaned_tokens:
-                exist = 0
-                for np in noun_phrases:
-                   
-                    # checks if substring of token is in noun phrases
-                    if tok in np:
-                        exist = 1
-                    
-                    # checks if substring of np is in token
-                    elif np in tok: 
-                        exist = 1
+                    if (len(mistagged) > 0):
+                        f.write("{}".format(sent[0]))
+                        for tag in tagged:
+                            f.write("\n{} {}".format(tag[0], tag[1]))
+                        for mistag in mistagged:
+                            f.write("\n{} {} Incorrect".format(mistag[0], mistag[1]))
+                        
+                        f.write('\n')
+                        f.write('\n')
+                        f.write('\n')
+
+                        filtered_sentences += 1
                 
-                if exist != 1: 
-                    print("The token = {} \nis a misidentified noun in \n{}".format(tok, sent))
+            #  opens the file to show the statistics
+            with open("task1/stats/"+fn+"_stats.txt", "w+") as f2: 
+                f2.write("{} had {} filtered sentences".format(fn, filtered_sentences))
 
-            # print("These are the noun phrases = {}".format(noun_phrases))
-            # print("These are the tagged entities = {}".format(cleaned_tokens))
-    
-    #https://stackoverflow.com/questions/48925328/how-to-get-all-noun-phrases-in-spacy
-    def tagger(self, sentence): 
-        doc = nlp(sentence)
-        noun_phrases = []
-        for np in doc.noun_chunks:
-            noun_phrases.append(np.text)
-
-        return noun_phrases
-    
     #https://stackoverflow.com/questions/37192606/python-regex-how-to-delete-all-matches-from-a-string
    # cleans the tokens of the whitespace and freebase characters
     def clean_tokens(self, rgx_list):
@@ -71,32 +92,31 @@ class MisIdent:
 
         return clean_list
 
-# TODO : Go through all 
-def get_relations(dir="data") -> dict:
-        if not os.path.isdir(dir):
-            raise Exception('Directory "{}" does not exist.'.format(dir))
+# goes through json code and extracts all the sentences and enters them in dictionary (KEY = Filename)
+def get_relations(dir="data"):
+    if not os.path.isdir(dir):
+        raise Exception('Directory "{}" does not exist.'.format(dir))
 
-        (dirpath, _, filenames) = next(os.walk(dir))
-        filenames = sorted([filename for filename in filenames if filename.endswith(".json")])
+    (dirpath, _, filenames) = next(os.walk(dir))
+    filenames = sorted([filename for filename in filenames if filename.endswith(".json")])
 
-        data = {}
-        for filename in filenames:
-            with open(os.path.join(dirpath, filename)) as input_f:
-                raw_data = json.load(input_f) 
-                sentences = []
-                relations = []
+    relations = {}
+    for filename in filenames:
+        with open(os.path.join(dirpath, filename)) as input_f:
+            raw_data = json.load(input_f)
+            sentences = []
+            for i in raw_data:
+                sentences.append(i['sentence'])
+            relations[filename] = sentences
 
-                for i in raw_data:
-                    sentences.append(i['sentence'])
-                    relations.append(i['pair'])
+    return relations
 
-                # raw data is the Raw JSON, Sentences is all the sentences, pairs is the relations 
-                return raw_data, sentences, relations
     
+
 def main():
-    raw_data, sentences, relations = get_relations(dir="data")
-    misIdent = MisIdent(raw_data, sentences, relations) 
-    misIdent.clean_sentences()
+    relations = get_relations(dir="data")
+    misIdent = MisIdent(relations) 
+    misIdent.run()
     
 
 
