@@ -1,0 +1,877 @@
+Whatever tag is pinned on SUBJECT 's new album, OBJECT , don't call it techno
+SUBJECT - [[ God Lives Underwater | /m/01j6gzn ]]
+OBJECT - [[ Life in the So-Called Space Age | /m/01j6gw0 ]]
+Subject Path: SUBJECT_PROPN -> album_NOUN -> on_ADP -> pinned_VERB -> call_VERB
+Object Path: OBJECT_NOUN -> album_NOUN -> on_ADP -> pinned_VERB -> call_VERB
+Lowest common ancestor: album_NOUN
+
+
+Kammel Kalamak  SUBJECT 's latest album, OBJECT is the long anticipated follow up to ENTITY1
+ENTITY1 - [[ Leily Nahary | /m/08pc87 ]]
+SUBJECT - [[ Amr Diab | /m/01239 ]]
+OBJECT - [[ Kammel Kalamak | /m/01mc4fc ]]
+Subject Path: SUBJECT_PROPN -> album_NOUN
+Object Path: OBJECT_NOUN -> is_AUX -> album_NOUN
+Lowest common ancestor: album_NOUN
+
+
+Music video by SUBJECT performing OBJECT :
+SUBJECT - [[ The Tragically Hip | /m/01ltgy ]]
+OBJECT - [[ My Music at Work | /m/0czb0wn ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> by_ADP -> video_NOUN
+Object Path: OBJECT_NOUN -> by_ADP -> video_NOUN
+Lowest common ancestor: OBJECT_NOUN
+
+
+He also produced the album OBJECT  by ENTITY1 singer-songwriter  SUBJECT
+ENTITY1 - [[ Brooklyn | /m/0cr3d ]]
+SUBJECT - [[ Reid Paley | /m/03qcxgw ]]
+OBJECT - [[ Revival | /m/023l2xg ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> produced_VERB
+Object Path: OBJECT_NOUN -> produced_VERB
+Lowest common ancestor: produced_VERB
+
+
+2003: SUBJECT 's OBJECT is re-released in the ENTITY1 on ENTITY2
+ENTITY1 - [[ US | /m/09c7w0 ]]
+ENTITY2 - [[ EMI | /m/011k1h ]]
+SUBJECT - [[ Streetheart | /m/01lb_q8 ]]
+OBJECT - [[ Drugstore Dancer | /m/049r_9p ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> released_VERB
+Object Path: OBJECT_NOUN -> released_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT : SUBJECT covered ENTITY1 ' '55 on   OBJECT
+ENTITY1 - [[ Ol | /m/02pwfdb ]]
+SUBJECT - [[ Bette Midler | /m/01dw9z ]]
+OBJECT - [[ Songs for the New Depression | /m/01k8jxz ]]
+Subject Path: SUBJECT_NOUN -> covered_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> covered_VERB
+Lowest common ancestor: covered_VERB
+
+
+He also explains that the SUBJECT '   OBJECT   is an instrumental version of the ENTITY1 song  Pachito El Che.
+ENTITY1 - [[ Cuban | /m/0d04z6 ]]
+SUBJECT - [[ The Skatalites | /m/02j9qh ]]
+OBJECT - [[ Latin Goes Ska | /m/0dzk__z ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> is_AUX -> explains_VERB
+Object Path: OBJECT_NOUN -> is_AUX -> explains_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+album from 2006 to 2005 since it was released earlier on the SUBJECT album, OBJECT
+SUBJECT - [[ G4 | /m/05fy73 ]]
+OBJECT - [[ G4 & Friends | /m/02q8_g5 ]]
+Subject Path: SUBJECT_NOUN -> album_NOUN -> on_ADP -> released_VERB -> album_ADV
+Object Path: OBJECT_NOUN -> album_NOUN -> on_ADP -> released_VERB -> album_ADV
+Lowest common ancestor: album_NOUN
+
+
+SUBJECT released OBJECT and appeared in the film, Hackers
+SUBJECT - [[ Marc Anthony | /m/01wv9p ]]
+OBJECT - [[ Todo a Su Tiempo | /m/02rt1y9 ]]
+
+Object Path: OBJECT_NOUN -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+Oh, I had to laugh when I heard the title of SUBJECT ?s latest CD, OBJECT
+SUBJECT - [[ Lori McKenna | /m/08y_tv ]]
+OBJECT - [[ Unglamorous | /m/03jhsdr ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> title_NOUN -> heard_VERB -> laugh_VERB -> had_AUX
+Object Path: OBJECT_NOUN -> CD_NOUN
+Lowest common ancestor: 
+
+
+A well-drafted, De-vision and SUBJECT , OBJECT  CD5, OBJECT  different paragraphs first
+SUBJECT - [[ Green Court | /m/01w2_kg ]]
+OBJECT - [[ Shining | /m/0ffxg07 ]]
+Subject Path: SUBJECT_NOUN -> vision_NOUN -> paragraphs_NOUN
+Object Path: OBJECT_NOUN -> CD5_PROPN -> vision_NOUN -> paragraphs_NOUN
+Object Path: OBJECT_NOUN -> paragraphs_NOUN
+Lowest common ancestor: paragraphs_NOUN, vision_NOUN
+
+
+For a band that that thrived on focus, OBJECT sees SUBJECT at the proverbial crossroads
+SUBJECT - [[ Public Enemy | /m/05qbq ]]
+OBJECT - [[ New Whirl Odor | /m/03fzf5r ]]
+Subject Path: SUBJECT_NOUN -> sees_VERB
+Object Path: OBJECT_NOUN -> sees_VERB
+Lowest common ancestor: sees_VERB
+
+
+SUBJECT 's debut album, OBJECT , went out of print in ENTITY1 near the end of 2004
+ENTITY1 - [[ CD | /m/01www ]]
+SUBJECT - [[ Denison Witmer | /m/01pc33g ]]
+OBJECT - [[ Safe Away | /m/03clz21 ]]
+Subject Path: SUBJECT_NOUN -> album_NOUN -> went_VERB
+Object Path: OBJECT_NOUN -> album_NOUN -> went_VERB
+Lowest common ancestor: album_NOUN
+
+
+When I purchased SUBJECT 's newest record OBJECT , these memories came back in deluge
+SUBJECT - [[ M. Ward | /m/01w331c ]]
+OBJECT - [[ Transistor Radio | /m/01m44xc ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> purchased_VERB -> came_VERB
+Object Path: OBJECT_NOUN -> purchased_VERB -> came_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT ?s latest full length, OBJECT is out at long last
+SUBJECT - [[ Lagwagon | /m/01j12ww ]]
+OBJECT - [[ Blaze | /m/01j12pd ]]
+
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: 
+
+
+SUBJECT have been nominated for a ENTITY1 for ENTITY2 for  Circles  off of the 2007 release OBJECT
+ENTITY1 - [[ Jammy Award | /m/09hr9w ]]
+ENTITY2 - [[ Song of the Year | /m/09vkrm ]]
+SUBJECT - [[ Mofro | /m/01r073_ ]]
+OBJECT - [[ Country Ghetto | /m/03g95k1 ]]
+Subject Path: SUBJECT_NOUN -> nominated_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> off_ADP -> nominated_VERB
+Lowest common ancestor: nominated_VERB
+
+
+En dag som denna sä tter man på OBJECT med SUBJECT på hö g volym
+SUBJECT - [[ Denis Leary | /m/02g8h ]]
+OBJECT - [[ Asshole | /m/01jkfbk ]]
+Subject Path: SUBJECT_PROPN -> volym_NOUN
+Object Path: OBJECT_PROPN -> SUBJECT_PROPN -> volym_NOUN
+Lowest common ancestor: SUBJECT_PROPN
+
+
+Experience Spring through SUBJECT 's eyes in   ENTITY1  , from the best selling OBJECT series of ENTITY2 's.
+ENTITY1 - [[ Spring Rain | /m/0mvpv8 ]]
+ENTITY2 - [[ CD | /m/01www ]]
+SUBJECT - [[ Hennie Bekker | /m/01mcy0b ]]
+OBJECT - [[ Kaleidoscopes | /m/0fph3qw ]]
+Subject Path: SUBJECT_PROPN -> eyes_NOUN -> through_ADP -> Experience_NOUN
+Object Path: OBJECT_NOUN -> series_NOUN -> from_ADP -> Experience_NOUN
+Lowest common ancestor: Experience_NOUN
+
+
+She also gets into the classic SUBJECT track   OBJECT .
+SUBJECT - [[ The Rolling Stones | /m/07mvp ]]
+OBJECT - [[ Wild Horses | /m/01hm_r_ ]]
+Subject Path: SUBJECT_PROPN -> track_NOUN -> OBJECT_NOUN -> into_ADP -> gets_VERB
+Object Path: OBJECT_NOUN -> into_ADP -> gets_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+I am looking for an big anthem song and I have fallen for SUBJECT 's version of OBJECT .
+SUBJECT - [[ Dolly Parton | /m/02f1c ]]
+OBJECT - [[ Peace Train | /m/0fg6ycf ]]
+Subject Path: SUBJECT_NOUN -> version_NOUN -> for_ADP -> fallen_VERB -> looking_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> version_NOUN -> for_ADP -> fallen_VERB -> looking_VERB
+Lowest common ancestor: version_NOUN
+
+
+SUBJECT 's new single,  Coming Home from Christmas  from his latest album, OBJECT features ENTITY1 of Lo...
+ENTITY1 - [[ Richie McDonald | /m/049f5_7 ]]
+SUBJECT - [[ Jim Brickman | /m/059h8y ]]
+OBJECT - [[ Homecoming | /m/0dvyz6m ]]
+Subject Path: SUBJECT_NOUN -> single_ADJ -> features_VERB
+Object Path: OBJECT_NOUN -> features_VERB
+Lowest common ancestor: features_VERB
+
+
+In 1969 he made his recording debut on guitar behind ENTITY1 folk singer SUBJECT on his album   OBJECT
+ENTITY1 - [[ British | /m/07ssc ]]
+SUBJECT - [[ Michael Chapman | /m/01pwbhv ]]
+OBJECT - [[ Fully Qualified Survivor | /m/01pwbgv ]]
+Subject Path: SUBJECT_NOUN -> made_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> SUBJECT_NOUN -> made_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT has some diversity on OBJECT .
+SUBJECT - [[ Grinspoon | /m/02qvmr ]]
+OBJECT - [[ Guide to Better Living | /m/01m9451 ]]
+Subject Path: SUBJECT_NOUN -> has_AUX
+Object Path: OBJECT_NOUN -> on_ADP -> diversity_NOUN -> has_AUX
+Lowest common ancestor: has_AUX
+
+
+The hit single ' ENTITY1 ' from SUBJECT 's new critically acclaimed album, OBJECT in the Backyward....
+ENTITY1 - [[ Jenny Wren | /m/088347 ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Chaos and Creation in the Backyard | /m/06tybp ]]
+Subject Path: SUBJECT_PROPN -> album_NOUN -> from_ADP -> ENTITY1_PROPN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT is an album by SUBJECT , first released in 2000 independently and re-released in 2002 by ENTITY1 .
+ENTITY1 - [[ Epic Records | /m/033hn8 ]]
+SUBJECT - [[ Howie Day | /m/04y00n ]]
+OBJECT - [[ Australia | /m/01l_3l2 ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT is a folk/rock album by SUBJECT released in 1978, his debut solo album following his time with ENTITY1
+ENTITY1 - [[ Decameron | /m/01m_grx ]]
+SUBJECT - [[ Johnny Coppin | /m/01v9qj8 ]]
+OBJECT - [[ Roll On Dreamer | /m/043nmr9 ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+In addition, he played on SUBJECT ?s recording,   OBJECT   and ENTITY1 ?s  I ENTITY2 n?t Got You.
+ENTITY1 - [[ Billy Boy Arnold | /m/01lmpy_ ]]
+ENTITY2 - [[ Ai | /m/0mkz ]]
+SUBJECT - [[ Bo Diddley | /m/01vtg4q ]]
+OBJECT - [[ Who Do You Love | /m/01k0_9b ]]
+Subject Path: SUBJECT_NOUN -> on_ADP -> played_VERB
+
+Lowest common ancestor: 
+
+
+ENTITY1 follows SUBJECT ?s 2001 debut of OBJECT , and his second album ENTITY2 , released in 2004
+ENTITY1 - [[ Goodbye Blue Monday | /m/03j9xbp ]]
+ENTITY2 - [[ Let It Shine | /m/02rr47g ]]
+SUBJECT - [[ Jeremy Fisher | /m/055lsg ]]
+OBJECT - [[ Back Porch Spirituals | /m/02rr69l ]]
+Subject Path: SUBJECT_NOUN -> follows_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> debut_NOUN
+Lowest common ancestor: 
+
+
+Review: OBJECT is the third release from SUBJECT , and the first to feature new vocalist Tommy Paris.
+SUBJECT - [[ Britny Fox | /m/01lmxvh ]]
+OBJECT - [[ Bite Down Hard | /m/026p2n6 ]]
+Subject Path: SUBJECT_NOUN -> from_ADP -> release_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT performs OBJECT live in ENTITY1 ...
+ENTITY1 - [[ Spain | /m/06mkj ]]
+SUBJECT - [[ Jacob Kirkegaard | /m/01ry2yq ]]
+OBJECT - [[ Eldfjall | /m/01ry2xw ]]
+Subject Path: SUBJECT_NOUN -> performs_VERB
+Object Path: OBJECT_NOUN -> performs_VERB
+Lowest common ancestor: performs_VERB
+
+
+That person may be onto something since SUBJECT 's video for   OBJECT   was released one year ago.
+SUBJECT - [[ Hezekiah | /m/01rr1xf ]]
+OBJECT - [[ I Predict a Riot | /m/049tnrk ]]
+Subject Path: SUBJECT_PROPN -> video_NOUN -> released_VERB -> be_AUX
+Object Path: OBJECT_PROPN -> for_ADP -> video_NOUN -> released_VERB -> be_AUX
+Lowest common ancestor: video_NOUN
+
+
+The SUBJECT 's new album,   OBJECT ,  is out now
+SUBJECT - [[ The Jesus Lizard | /m/0279c0 ]]
+OBJECT - [[ Blue | /m/03d0cd8 ]]
+Subject Path: SUBJECT_PROPN -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> album_NOUN -> is_AUX
+Lowest common ancestor: album_NOUN
+
+
+The most rocking of SUBJECT 's songs,   OBJECT   seemed a little neutered here.
+SUBJECT - [[ Dolly Parton | /m/02f1c ]]
+OBJECT - [[ Jolene | /m/01h_9n1 ]]
+Subject Path: SUBJECT_NOUN -> songs_NOUN -> of_ADP -> rocking_NOUN -> seemed_VERB
+Object Path: OBJECT_PROPN -> seemed_VERB
+Lowest common ancestor: seemed_VERB
+
+
+John's first of two ENTITY1 was secured for his contributions to artist SUBJECT 's platinum record   OBJECT .
+ENTITY1 - [[ Grammy Awards | /m/0c4ys ]]
+SUBJECT - [[ Jimmy Cliff | /m/018144 ]]
+OBJECT - [[ Cliff Hanger | /m/01h_p88 ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> to_PART -> contributions_NOUN -> for_ADP -> secured_VERB
+Object Path: OBJECT_NOUN -> to_PART -> contributions_NOUN -> for_ADP -> secured_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT performs this   OBJECT   song in ENTITY1 during September 2002.
+ENTITY1 - [[ Nashville | /m/05jbn ]]
+SUBJECT - [[ Patty Loveless | /m/05sq0m ]]
+OBJECT - [[ Mountain Soul | /m/01lv9rf ]]
+Subject Path: SUBJECT_NOUN -> performs_VERB
+Object Path: OBJECT_NOUN -> song_NOUN -> performs_VERB
+Lowest common ancestor: performs_VERB
+
+
+There were some exceptions, like ENTITY1 self-titled album, SUBJECT 's  At OBJECT ,  or ENTITY2 's  19.
+ENTITY1 - [[ Fleet Foxes | /m/03qmrpl ]]
+ENTITY2 - [[ Adele | /m/02z4b_8 ]]
+SUBJECT - [[ Wolf Parade | /m/07zjl1 ]]
+OBJECT - [[ At Mount Zoomer | /m/049t9p4 ]]
+Subject Path: SUBJECT_PROPN -> album_NOUN
+Object Path: OBJECT_NOUN -> At_ADP
+Lowest common ancestor: 
+
+
+The third installment of ENTITY1 ?s anti ENTITY2 trilogy, OBJECT is everything you?d expect from SUBJECT , and more.
+ENTITY1 - [[ Al Jourgensen | /m/04mx7s ]]
+ENTITY2 - [[ George W. Bush | /m/09b6zr ]]
+SUBJECT - [[ Ministry | /m/01fchy ]]
+OBJECT - [[ Rio Grande Blood | /m/08fmhq ]]
+Subject Path: SUBJECT_NOUN -> from_ADP -> expect_VERB -> everything_PRON -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+ENTITY1 lo-fi folk rock band SUBJECT  released their acclaimed OBJECT in September on ENTITY2 .
+ENTITY1 - [[ Portland | /m/02frhbc ]]
+ENTITY2 - [[ Kill Rock Stars | /m/0dd2f ]]
+SUBJECT - [[ Horse Feathers | /m/01szfnt ]]
+OBJECT - [[ House With No Home | /m/0dnd4fs ]]
+Subject Path: SUBJECT_PROPN -> released_VERB
+Object Path: OBJECT_NOUN -> released_VERB
+Lowest common ancestor: released_VERB
+
+
+Check ENTITY1 Presents SUBJECT   OBJECT  , here..
+ENTITY1 - [[ Jah Warrior | /m/01npk86 ]]
+SUBJECT - [[ Peter Broggs | /m/01my58n ]]
+OBJECT - [[ Jah Golden Throne | /m/01my57l ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> Presents_VERB
+Object Path: OBJECT_NOUN -> Presents_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT  was the last SUBJECT
+SUBJECT - [[ The Rolling Stones | /m/07mvp ]]
+OBJECT - [[ December's Children (And Everybody's) | /m/01hn16j ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+Nah...the best CD for ENTITY1 is SUBJECT 's OBJECT
+ENTITY1 - [[ Quake | /m/026j8bm ]]
+SUBJECT - [[ KMFDM | /m/01_dvf ]]
+OBJECT - [[ Angst | /m/01hr0c3 ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+Her first two solo efforts,  and the astonishing ENTITY1  were worthy successors to the SUBJECT sendoff, OBJECT
+ENTITY1 - [[ Ophelia | /m/01hwhmv ]]
+SUBJECT - [[ 10,000 Maniacs | /m/0139nv ]]
+OBJECT - [[ MTV Unplugged | /m/05y73k ]]
+Subject Path: SUBJECT_ADJ -> sendoff_NOUN -> to_ADP -> were_AUX
+Object Path: OBJECT_NOUN -> sendoff_NOUN -> to_ADP -> were_AUX
+Lowest common ancestor: sendoff_NOUN
+
+
+mistrust's remix of   OBJECT   by ENTITY1 band SUBJECT gets an official release on the bands own label....
+ENTITY1 - [[ NZ | /m/05dqly ]]
+SUBJECT - [[ Pitch Black | /m/01n0dbp ]]
+OBJECT - [[ Rude Mechanicals | /m/03jhw8f ]]
+Subject Path: SUBJECT_PROPN -> gets_VERB
+Object Path: OBJECT_PROPN -> of_ADP -> remix_NOUN
+Lowest common ancestor: 
+
+
+SUBJECT 's brief OBJECT  is a powerful psychological experience
+SUBJECT - [[ Painkiller | /m/01jj789 ]]
+OBJECT - [[ Buried Secrets | /m/04f4cvx ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+In 2004, SUBJECT left OBJECT to start his own label, ENTITY1
+ENTITY1 - [[ Boss Up Entertainment | /m/09sj90 ]]
+SUBJECT - [[ Loon | /m/0699wz ]]
+OBJECT - [[ Bad Boy | /m/02pmc24 ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> start_VERB
+Object Path: OBJECT_NOUN -> start_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Smartly, SUBJECT made  OBJECT s arrangements and overall feel different from the first album.
+SUBJECT - [[ Nouvelle Vague | /m/06h959 ]]
+OBJECT - [[ Bande à part | /m/01qpxww ]]
+Subject Path: SUBJECT_NOUN -> made_VERB
+Object Path: OBJECT_NOUN -> s_PUNCT -> arrangements_NOUN -> made_VERB
+Lowest common ancestor: made_VERB
+
+
+OBJECT   is definitely the best SUBJECT album ever
+SUBJECT - [[ Ministry | /m/01fchy ]]
+OBJECT - [[ The Mind Is a Terrible Thing to Taste | /m/01gybw ]]
+Subject Path: SUBJECT_ADJ -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT , a title of a SUBJECT song, is one of them.
+SUBJECT - [[ The Rolling Stones | /m/07mvp ]]
+OBJECT - [[ Paint It Black | /m/03jg58m ]]
+Subject Path: SUBJECT_NOUN -> song_NOUN -> of_ADP -> title_NOUN -> OBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT , who died in 1998, was the wife of former ENTITY1 member SUBJECT , and both were vegetarians.
+ENTITY1 - [[ Beatles | /m/07c0j ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ McCartney | /m/01j7tc9 ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> wife_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+ENTITY1 is actually SUBJECT 's second record, but she spoke somewhat dismissively of her lesser-known debut, OBJECT
+ENTITY1 - [[ Girls And Boys | /m/03fqfgm ]]
+SUBJECT - [[ Ingrid Michaelson | /m/02rbph7 ]]
+OBJECT - [[ Slow the Rain | /m/03g79qz ]]
+Subject Path: SUBJECT_NOUN -> record_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> debut_NOUN -> of_ADP -> spoke_VERB -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+In 1994 SUBJECT 's first single   OBJECT   aired on ENTITY1 's 120 minutes
+ENTITY1 - [[ MTV | /m/04rqd ]]
+SUBJECT - [[ Angelfish | /m/02rswj ]]
+OBJECT - [[ Suffocate Me | /m/04cwz27 ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> In_ADP
+Object Path: OBJECT_NOUN -> In_ADP
+Lowest common ancestor: OBJECT_NOUN
+
+
+?s new album and SUBJECT ?s new album OBJECT .
+SUBJECT - [[ Black Stone Cherry | /m/0d2wsh ]]
+OBJECT - [[ Folklore and Superstition | /m/047b9t4 ]]
+Subject Path: SUBJECT_NOUN -> album_NOUN -> s_X
+
+Lowest common ancestor: 
+
+
+said: how can all agree that a SUBJECT album OBJECT and instrumental is good?
+SUBJECT - [[ Yellow Magic Orchestra | /m/019bmw ]]
+OBJECT - [[ Naughty Boys | /m/01l1xmx ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> is_AUX -> agree_VERB -> said_VERB
+Object Path: OBJECT_NOUN -> is_AUX -> agree_VERB -> said_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+As I write, SUBJECT are releasing? OBJECT
+SUBJECT - [[ The Rolling Stones | /m/07mvp ]]
+OBJECT - [[ Singles 1968–1971 | /m/05tf0y ]]
+Subject Path: SUBJECT_NOUN -> releasing_VERB
+
+Lowest common ancestor: 
+
+
+SUBJECT continued until OBJECT , split for a flurry of solo work, reunited for three more
+SUBJECT - [[ Roxy Music | /m/06gcn ]]
+OBJECT - [[ Siren | /m/01khgz2 ]]
+Subject Path: SUBJECT_NOUN -> continued_VERB
+Object Path: OBJECT_NOUN -> until_ADP -> continued_VERB
+Lowest common ancestor: continued_VERB
+
+
+ENTITY1 most loved band SUBJECT is back with OBJECT , their 11th album that was just released last Tuesday.
+ENTITY1 - [[ Canada | /m/0d060g ]]
+SUBJECT - [[ The Tragically Hip | /m/01ltgy ]]
+OBJECT - [[ World Container | /m/01hvv1f ]]
+Subject Path: SUBJECT_NOUN -> ENTITY1_PROPN -> is_AUX
+Object Path: OBJECT_NOUN -> with_ADP -> back_ADV -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT is a collaborative 12  EP between SUBJECT  and ENTITY1 experimental doom band ENTITY2 .
+ENTITY1 - [[ Japanese | /m/03_3d ]]
+ENTITY2 - [[ Boris | /m/078mlc ]]
+SUBJECT - [[ Merzbow | /m/01r9d_2 ]]
+OBJECT - [[ Walrus / Groon | /m/03g5nq9 ]]
+Subject Path: SUBJECT_NOUN -> band_NOUN -> between_ADP -> EP_PROPN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT performs ENTITY1 's  Something  on a ukelele in the OBJECT ...
+ENTITY1 - [[ George Harrison | /m/03bnv ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Concert for George | /m/01fzgyt ]]
+Subject Path: SUBJECT_NOUN -> performs_VERB
+Object Path: OBJECT_NOUN -> in_ADP -> ukelele_NOUN -> on_ADP -> performs_VERB
+Lowest common ancestor: performs_VERB
+
+
+SUBJECT also worked with ENTITY1 on OBJECT , a collection of pre-rock and roll standards
+ENTITY1 - [[ Harry Nilsson | /m/01vtmw6 ]]
+SUBJECT - [[ Gordon Jenkins | /m/01twxvn ]]
+OBJECT - [[ A Little Touch of Schmilsson in the Night | /m/01ksrwh ]]
+Subject Path: SUBJECT_NOUN -> worked_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> worked_VERB
+Lowest common ancestor: worked_VERB
+
+
+Ryan. SUBJECT mp3, OBJECT downloads.
+SUBJECT - [[ Kate Ryan | /m/05plrb ]]
+OBJECT - [[ The Promise You Made | /m/01mz4yb ]]
+Subject Path: SUBJECT_NOUN -> mp3_NOUN -> downloads_NOUN
+Object Path: OBJECT_NOUN -> downloads_NOUN
+Lowest common ancestor: downloads_NOUN
+
+
+Also, a 2005 release   OBJECT   credited to ENTITY1 & SUBJECT featured archive ENTITY2 material alongside new SUBJECT
+ENTITY1 - [[ Genesis P-Orridge | /m/01wmc5d ]]
+ENTITY2 - [[ PTV | /m/022qdt ]]
+SUBJECT - [[ Thee Majesty | /m/01nn09h ]]
+OBJECT - [[ Mary Never Wanted Jesus | /m/04f073m ]]
+Subject Path: SUBJECT_PROPN -> ENTITY1_PROPN -> to_ADP -> credited_VERB
+Subject Path: SUBJECT_NOUN -> alongside_ADP -> material_NOUN
+Object Path: OBJECT_PROPN -> credited_VERB
+Lowest common ancestor: credited_VERB
+
+
+ENTITY1   can be found on SUBJECT 's second album, OBJECT
+ENTITY1 - [[ Superman | /m/0d1xs7 ]]
+SUBJECT - [[ Five for Fighting | /m/030l_d ]]
+OBJECT - [[ America Town | /m/01l5dbh ]]
+Subject Path: SUBJECT_PROPN -> album_NOUN -> on_ADP -> found_VERB
+Object Path: OBJECT_NOUN -> album_NOUN -> on_ADP -> found_VERB
+Lowest common ancestor: album_NOUN
+
+
+One SUBJECT s OBJECT : The same reasons they are my favorite Clevo band
+SUBJECT - [[ One Life Crew | /m/01n8_9j ]]
+OBJECT - [[ Crime Ridden Society | /m/01n8_8q ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+After playing   ENTITY1  , she pulled out   ENTITY2  , from the SUBJECT album, OBJECT
+ENTITY1 - [[ Break Your Heart | /m/0g6qj2y ]]
+ENTITY2 - [[ These Are Days | /m/02wbg1m ]]
+SUBJECT - [[ 10,000 Maniacs | /m/0139nv ]]
+OBJECT - [[ Our Time in Eden | /m/05n5n1 ]]
+Subject Path: SUBJECT_NOUN -> album_NOUN -> from_ADP -> pulled_VERB
+Object Path: OBJECT_NOUN -> album_NOUN -> from_ADP -> pulled_VERB
+Lowest common ancestor: album_NOUN
+
+
+ENTITY1 , the acoustic version in ENTITY2 , to promote the new release: OBJECT by SUBJECT
+ENTITY1 - [[ Carmen | /m/024sp9r ]]
+ENTITY2 - [[ English | /m/02jx1 ]]
+SUBJECT - [[ Anything Box | /m/01mq782 ]]
+OBJECT - [[ Future Past EP | /m/03g1lt2 ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> OBJECT_NOUN -> release_NOUN -> promote_VERB -> ENTITY1_PROPN
+Object Path: OBJECT_NOUN -> release_NOUN -> promote_VERB -> ENTITY1_PROPN
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT is another SUBJECT masterpiece that makes it seem like he never went away
+SUBJECT - [[ Robert Cray | /m/01kh2m1 ]]
+OBJECT - [[ Shoulda Been Home | /m/01kh2f6 ]]
+Subject Path: SUBJECT_ADJ -> masterpiece_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+The 11 ENTITY1 songs featured on OBJECT did not appear on SUBJECT 's previous live album ENTITY2 .
+ENTITY1 - [[ Beatles | /m/07c0j ]]
+ENTITY2 - [[ TRIPPING THE LIVE FANTASTIC | /m/01j7vp0 ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Paul Is Live | /m/01j7vm6 ]]
+Subject Path: SUBJECT_PROPN -> ENTITY2_PROPN -> on_ADP -> appear_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> featured_VERB -> songs_NOUN -> appear_VERB
+Lowest common ancestor: appear_VERB
+
+
+With that said, look out for SUBJECT 's new album   OBJECT   on January 7, 2009
+SUBJECT - [[ Girls' Generation | /m/02v_j9n ]]
+OBJECT - [[ Gee | /m/0frln50 ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> for_ADP -> look_VERB
+Object Path: OBJECT_NOUN -> for_ADP -> look_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT 's next release, OBJECT was a mini-LP and aptly displayed the band's maturity and musical evolution.
+SUBJECT - [[ Codeseven | /m/01p04pr ]]
+OBJECT - [[ Division of Labor | /m/01p04m9 ]]
+Subject Path: SUBJECT_NOUN -> release_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+OBJECT  is a collaboration with SUBJECT , Berrocal & Liebezeit.
+SUBJECT - [[ Pascal Comelade | /m/01nkkrw ]]
+OBJECT - [[ Oblique sessions | /m/01rj_7g ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> collaboration_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT s OBJECT
+SUBJECT - [[ Kubb | /m/0bhd9k ]]
+OBJECT - [[ Mother | /m/0dwjw3s ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+*I'm also still upset about SUBJECT not getting the ENTITY1 for   OBJECT
+ENTITY1 - [[ Oscar | /m/0g_w ]]
+SUBJECT - [[ Dolly Parton | /m/02f1c ]]
+OBJECT - [[ Travelin' Thru | /m/0hmv3zx ]]
+Subject Path: SUBJECT_NOUN -> about_ADP -> upset_ADJ
+Object Path: OBJECT_NOUN -> for_ADP -> getting_VERB -> SUBJECT_NOUN -> about_ADP -> upset_ADJ
+Lowest common ancestor: SUBJECT_NOUN
+
+
+In 2000, sisters ENTITY1 and ENTITY2 earned immediate respect and success with SUBJECT 's platinum debut album, OBJECT .
+ENTITY1 - [[ Erica | /m/0jwbsj6 ]]
+ENTITY2 - [[ Tina Campbell | /m/05bw51f ]]
+SUBJECT - [[ Mary Mary | /m/01kq11t ]]
+OBJECT - [[ Thankful | /m/027c0vk ]]
+Subject Path: SUBJECT_NOUN -> album_NOUN -> with_ADP -> respect_NOUN -> earned_VERB
+Object Path: OBJECT_NOUN -> album_NOUN -> with_ADP -> respect_NOUN -> earned_VERB
+Lowest common ancestor: album_NOUN
+
+
+? ENTITY1 ? pushed the album to platinum, and SUBJECT followed with the critically acclaimed OBJECT
+ENTITY1 - [[ Goodbye | /m/0nnr_g9 ]]
+SUBJECT - [[ Patty Loveless | /m/05sq0m ]]
+OBJECT - [[ When Fallen Angels Fly | /m/01lv9dg ]]
+Subject Path: SUBJECT_PROPN -> followed_VERB -> pushed_VERB
+Object Path: OBJECT_NOUN -> with_ADP -> followed_VERB -> pushed_VERB
+Lowest common ancestor: followed_VERB
+
+
+In 2001 SUBJECT ’s debut album, OBJECT , was released under the name SUBJECT
+SUBJECT - [[ Mofro | /m/01r073_ ]]
+OBJECT - [[ Blackwater | /m/03jkgdg ]]
+Subject Path: SUBJECT_PROPN -> album_NOUN -> released_VERB
+Subject Path: SUBJECT_NOUN -> name_NOUN -> under_ADP -> released_VERB
+Object Path: OBJECT_NOUN -> album_NOUN -> released_VERB
+Lowest common ancestor: released_VERB, album_NOUN
+
+
+Also in 2003, Twain participated in the SUBJECT tribute album, OBJECT , covering SUBJECT ?s classic ? ENTITY1 ?
+ENTITY1 - [[ Coat of Many Colors | /m/0270z55 ]]
+SUBJECT - [[ Dolly Parton | /m/02f1c ]]
+OBJECT - [[ Just Because I'm a Woman | /m/0d0m46 ]]
+Subject Path: SUBJECT_ADJ -> tribute_NOUN -> album_NOUN -> in_ADP -> participated_VERB
+Subject Path: SUBJECT_NOUN -> covering_VERB -> album_NOUN -> in_ADP -> participated_VERB
+Object Path: OBJECT_NOUN -> album_NOUN -> in_ADP -> participated_VERB
+Lowest common ancestor: album_NOUN
+
+
+ENTITY1 used this scale on the SUBJECT modal track   OBJECT  :
+ENTITY1 - [[ McCoy Tyner | /m/02pbrn ]]
+SUBJECT - [[ Wayne Shorter | /m/01qdjm ]]
+OBJECT - [[ Juju | /m/01l6nn_ ]]
+Subject Path: SUBJECT_ADJ -> OBJECT_PROPN -> on_ADP -> used_VERB
+Object Path: OBJECT_PROPN -> on_ADP -> used_VERB
+Lowest common ancestor: OBJECT_PROPN
+
+
+Op 31 maart komt het album   OBJECT   van the SUBJECT uit op het ENTITY1 label.
+ENTITY1 - [[ New West | /m/0dk666 ]]
+SUBJECT - [[ The Flatlanders | /m/01kvgn_ ]]
+OBJECT - [[ Hills and Valleys | /m/05z25_7 ]]
+Subject Path: SUBJECT_PROPN -> label_NOUN
+Object Path: OBJECT_PROPN -> van_PROPN -> label_NOUN
+Lowest common ancestor: label_NOUN
+
+
+'Ya Akhi', first single from SUBJECT 's album   OBJECT  .
+SUBJECT - [[ Ahmed Bukhatir | /m/04cyf4m ]]
+OBJECT - [[ Da'ani | /m/0ch25lx ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> from_ADP -> single_ADJ -> Akhi_PROPN
+Object Path: OBJECT_NOUN -> from_ADP -> single_ADJ -> Akhi_PROPN
+Lowest common ancestor: OBJECT_NOUN
+
+
+This year, artistic director Marian Jordan Hamilton presents an adaptation of ENTITY1 and SUBJECT rock opera OBJECT .
+ENTITY1 - [[ Tim Rice | /m/0178rl ]]
+SUBJECT - [[ Andrew Lloyd Webber | /m/0f8pz ]]
+OBJECT - [[ Jesus Christ Superstar | /m/0fvj6w ]]
+Subject Path: SUBJECT_PROPN -> opera_NOUN -> OBJECT_NOUN -> ENTITY1_PROPN -> of_ADP -> adaptation_NOUN -> presents_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> of_ADP -> adaptation_NOUN -> presents_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+ENTITY1  is SUBJECT fourth classical album since his first released in 1991, The OBJECT
+ENTITY1 - [[ Ecce Cor Meum | /m/01j7tdx ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Paul McCartney's Liverpool Oratorio | /m/07h346 ]]
+Subject Path: SUBJECT_ADJ -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> album_NOUN -> is_AUX
+Lowest common ancestor: album_NOUN
+
+
+First, Bell finally laid down those vocals for the final SUBJECT tantrum, 2007s ENTITY1 pi? ata, OBJECT
+ENTITY1 - [[ Dubya | /m/09b6zr ]]
+SUBJECT - [[ Ministry | /m/01fchy ]]
+OBJECT - [[ The Last Sucker | /m/03jgfgm ]]
+Subject Path: SUBJECT_PROPN -> tantrum_NOUN -> for_ADP -> vocals_NOUN -> laid_VERB
+
+Lowest common ancestor: 
+
+
+OBJECT   is the debut studio album by ENTITY1 - ENTITY2 reggaeton singer-songwriter SUBJECT , officially released in April 2008.
+ENTITY1 - [[ Dominican | /m/027rn ]]
+ENTITY2 - [[ American | /m/09c7w0 ]]
+SUBJECT - [[ Arcángel | /m/043s9v8 ]]
+OBJECT - [[ La Maravilla | /m/03qcj5l ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Excerpt from SUBJECT 's album OBJECT !
+SUBJECT - [[ Turisas | /m/03x3mw ]]
+OBJECT - [[ Battle Metal | /m/0cs6rr ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> from_ADP -> Excerpt_NOUN
+Object Path: OBJECT_NOUN -> from_ADP -> Excerpt_NOUN
+Lowest common ancestor: OBJECT_NOUN
+
+
+The SUBJECT ft ENTITY1 @ Nitsa barcelona 07/02/09 Track : Bloody Beetroots ft ENTITY1 - OBJECT !
+ENTITY1 - [[ Steve Aoki | /m/03xnp8n ]]
+ENTITY2 - [[ Steve Aoki | /m/03xnp8n ]]
+SUBJECT - [[ The Bloody Beetroots | /m/05mzz92 ]]
+OBJECT - [[ Warp | /m/0d_d9c7 ]]
+Subject Path: SUBJECT_NOUN -> ENTITY1_PROPN
+Object Path: OBJECT_NOUN -> Track_NOUN
+Lowest common ancestor: 
+
+
+Just like many ENTITY1 , ENTITY2 came to me via SUBJECT ?s album OBJECT
+ENTITY1 - [[ Americans | /m/09c7w0 ]]
+ENTITY2 - [[ Milton | /m/01l_yj8 ]]
+SUBJECT - [[ Wayne Shorter | /m/01qdjm ]]
+OBJECT - [[ Native Dancer | /m/02x5p_7 ]]
+Subject Path: SUBJECT_NOUN -> via_ADP -> came_VERB
+
+Lowest common ancestor: 
+
+
+In 2007, the label released SUBJECT 's debut mixtape, OBJECT .
+SUBJECT - [[ Saigon | /m/08rcv8 ]]
+OBJECT - [[ The Moral of the Story | /m/03cy65t ]]
+Subject Path: SUBJECT_PROPN -> mixtape_NOUN -> released_VERB
+Object Path: OBJECT_NOUN -> mixtape_NOUN -> released_VERB
+Lowest common ancestor: mixtape_NOUN
+
+
+At the time SUBJECT explained that OBJECT was all about the concept of love...
+SUBJECT - [[ John Martyn | /m/03j35gp ]]
+OBJECT - [[ Inside Out | /m/01jtbpv ]]
+Subject Path: SUBJECT_PROPN -> explained_VERB
+Object Path: OBJECT_NOUN -> was_AUX -> explained_VERB
+Lowest common ancestor: explained_VERB
+
+
+In 1995, SUBJECT released   OBJECT ,  his first all-country ENTITY1 , produced by noted ENTITY2 wiz Barry Beckett
+ENTITY1 - [[ CD | /m/01www ]]
+ENTITY2 - [[ Nashville | /m/05jbn ]]
+SUBJECT - [[ Emilio Navaira | /m/01rzqd9 ]]
+OBJECT - [[ Life Is Good | /m/0dgnf20 ]]
+Subject Path: SUBJECT_NOUN -> released_VERB
+Object Path: OBJECT_NOUN -> released_VERB
+Lowest common ancestor: released_VERB
+
+
+120. SUBJECT recorded a duet with ENTITY1 for the soundtrack to OBJECT
+ENTITY1 - [[ Elvis Costello | /m/02vr7 ]]
+SUBJECT - [[ Jimmy Cliff | /m/018144 ]]
+OBJECT - [[ Club Paradise | /m/03jg8pw ]]
+Subject Path: SUBJECT_NOUN -> recorded_VERB
+Object Path: OBJECT_NOUN -> to_ADP -> recorded_VERB
+Lowest common ancestor: recorded_VERB
+
+
+(In fact, ENTITY1 sang quite a bit of back-up on SUBJECT 's masterpiece OBJECT .).
+ENTITY1 - [[ Karen | /m/01vv08q ]]
+SUBJECT - [[ Natalie Merchant | /m/01bxpr ]]
+OBJECT - [[ Ophelia | /m/01hwhmv ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> on_ADP -> up_NOUN -> of_ADP -> bit_NOUN -> sang_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> up_NOUN -> of_ADP -> bit_NOUN -> sang_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT   is The first album of SUBJECT and produced by ENTITY1
+ENTITY1 - [[ Robin Guthrie | /m/06sry_ ]]
+SUBJECT - [[ Lush | /m/016_5p ]]
+OBJECT - [[ Spooky | /m/01l5pbx ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Watch SUBJECT s  OBJECT
+SUBJECT - [[ M. Ward | /m/01w331c ]]
+OBJECT - [[ Hold Time | /m/04zw9x4 ]]
+Subject Path: SUBJECT_NOUN -> Watch_VERB
+
+Lowest common ancestor: 
+
+
+Until then, only metalcore completists will need to check out SUBJECT ?s debut album OBJECT .
+SUBJECT - [[ Forever in Terror | /m/03f0dvh ]]
+OBJECT - [[ Restless in the Tides | /m/03gbfmz ]]
+Subject Path: SUBJECT_NOUN -> check_VERB -> need_VERB
+
+Lowest common ancestor: 
+
+
+Did Mariah record a song for   ENTITY1   called   OBJECT   with SUBJECT
+ENTITY1 - [[ Glitter | /m/06gg25 ]]
+SUBJECT - [[ Jim Brickman | /m/059h8y ]]
+OBJECT - [[ Destiny | /m/01lyh8t ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> called_VERB -> song_NOUN -> record_VERB
+Object Path: OBJECT_PROPN -> called_VERB -> song_NOUN -> record_VERB
+Lowest common ancestor: called_VERB
+
+
+M? sica compuesta por la agrupaci? n   SUBJECT   para la pel? cula OBJECT del director ENTITY1 .
+ENTITY1 - [[ Richard Linklater | /m/03dbds ]]
+SUBJECT - [[ Tosca Tango Orchestra | /m/01tx03n ]]
+OBJECT - [[ Waking Life | /m/01syjjz ]]
+Subject Path: SUBJECT_PROPN -> pel_PROPN
+Object Path: OBJECT_PROPN -> director_NOUN -> ENTITY1_PROPN
+Lowest common ancestor: 
+
+
+It may also appear on the upcoming SUBJECT compilation OBJECT
+SUBJECT - [[ Baha Men | /m/01hzncp ]]
+OBJECT - [[ Greatest Movie Hits | /m/01hzn87 ]]
+Subject Path: SUBJECT_PROPN -> compilation_NOUN -> OBJECT_NOUN -> on_ADP -> appear_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> appear_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT   is a compilation album of SUBJECT ' Ballads.
+SUBJECT - [[ The Rolling Stones | /m/07mvp ]]
+OBJECT - [[ Slow Rollers | /m/05p31pz ]]
+Subject Path: SUBJECT_NOUN -> Ballads_NOUN -> of_ADP -> album_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+As ENTITY1 became her third platinum album, SUBJECT returned with the grittier OBJECT
+ENTITY1 - [[ Angels | /m/04wmvz ]]
+SUBJECT - [[ Patty Loveless | /m/05sq0m ]]
+OBJECT - [[ The Trouble With the Truth | /m/01lv9kq ]]
+Subject Path: SUBJECT_NOUN -> returned_VERB
+Object Path: OBJECT_NOUN -> with_ADP -> returned_VERB
+Lowest common ancestor: returned_VERB
+
+
+OBJECT   performed by SUBJECT
+SUBJECT - [[ Roxy Music | /m/06gcn ]]
+OBJECT - [[ The Thrill of It All | /m/01khgp9 ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> performed_VERB -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN

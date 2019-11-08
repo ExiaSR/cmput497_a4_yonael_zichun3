@@ -1,0 +1,887 @@
+im team ENTITY1 not team SUBJECT and I?m team Edward not team OBJECT
+ENTITY1 - [[ Taylor | /m/07ldhs ]]
+SUBJECT - [[ Robert Pattinson | /m/062dn7 ]]
+OBJECT - [[ Jacob Jankowski - older | /m/0c1sgkp ]]
+Subject Path: SUBJECT_NOUN -> team_NOUN -> Edward_PROPN -> OBJECT_NOUN -> team_NOUN
+Object Path: OBJECT_NOUN -> team_NOUN
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT is OBJECT , sacked because of bad times
+SUBJECT - [[ Ralph Richardson | /m/015np0 ]]
+OBJECT - [[ John Smith | /m/0n56hks ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT is simply fantastic as OBJECT .
+SUBJECT - [[ Elizabeth Berkley | /m/01j6fq ]]
+OBJECT - [[ Nomi Malone | /m/098klm0 ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> fantastic_ADJ -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT gives OBJECT a nice sense of innocence, even while pulling off the ultimate scheme
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Leo Bloom | /m/02x01nt ]]
+Subject Path: SUBJECT_NOUN -> gives_VERB
+Object Path: OBJECT_NOUN -> gives_VERB
+Lowest common ancestor: gives_VERB
+
+
+SUBJECT is doing OBJECT 's voice here in one of his final performances as the ENTITY1 characters.
+ENTITY1 - [[ LT | /m/0d9l1 ]]
+SUBJECT - [[ Mel Blanc | /m/0c5vh ]]
+OBJECT - [[ Daffy Duck | /m/0dng4 ]]
+Subject Path: SUBJECT_NOUN -> doing_VERB
+Object Path: OBJECT_NOUN -> voice_NOUN -> doing_VERB
+Lowest common ancestor: doing_VERB
+
+
+SUBJECT rebounded his acting career with the portrayal of cab-driver-turned-baby-sitter OBJECT in ENTITY1 's low-budget comedy ENTITY2
+ENTITY1 - [[ Amy Heckerling | /m/03vlgt ]]
+ENTITY2 - [[ Look Who's Talking | /m/03gn80 ]]
+SUBJECT - [[ John Travolta | /m/0f502 ]]
+OBJECT - [[ James | /m/0gxw7gp ]]
+Subject Path: SUBJECT_NOUN -> rebounded_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> portrayal_NOUN -> with_ADP -> rebounded_VERB
+Lowest common ancestor: rebounded_VERB
+
+
+SUBJECT  played OBJECT in ENTITY1 .
+ENTITY1 - [[ Star Trek II: The Wrath of Khan | /m/06r2_ ]]
+SUBJECT - [[ Kirstie Alley | /m/01wc7p ]]
+OBJECT - [[ Saavik | /m/02469f ]]
+Subject Path: SUBJECT_ADJ -> played_VERB
+Object Path: OBJECT_NOUN -> played_VERB
+Lowest common ancestor: played_VERB
+
+
+SUBJECT makes a cameo appearance as longtime ENTITY1 buddy, ENTITY2 operative OBJECT
+ENTITY1 - [[ Bond | /m/03_97 ]]
+ENTITY2 - [[ CIA | /m/0d6qjf ]]
+SUBJECT - [[ Joe Don Baker | /m/03tl1k ]]
+OBJECT - [[ Jack Wade | /m/03r551 ]]
+Subject Path: SUBJECT_NOUN -> makes_VERB
+Object Path: OBJECT_NOUN -> buddy_NOUN -> as_SCONJ -> appearance_NOUN -> makes_VERB
+Lowest common ancestor: makes_VERB
+
+
+The intra-band dynamic and cross-generational hijinks intrigued SUBJECT , who portrays OBJECT .
+SUBJECT - [[ Emma Stone | /m/09yhzs ]]
+OBJECT - [[ Amelia | /m/0gklzyp ]]
+Subject Path: SUBJECT_NOUN -> intrigued_VERB
+Object Path: OBJECT_NOUN -> portrays_VERB -> intrigued_VERB
+Lowest common ancestor: intrigued_VERB
+
+
+SUBJECT , who played OBJECT in the ENTITY1 ...
+ENTITY1 - [[ James Bond | /m/03_97 ]]
+SUBJECT - [[ Samantha Bond | /m/03pknm ]]
+OBJECT - [[ Eve Moneypenny | /m/01hk60 ]]
+
+Object Path: OBJECT_NOUN -> played_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+ENTITY1 was SUBJECT 's stunt double in ENTITY2 , and so, he knows how to do OBJECT
+ENTITY1 - [[ Ken | /m/07qgr8 ]]
+ENTITY2 - [[ Friday The 13th Part VIII: Jason Takes Manhattan | /m/075xrl ]]
+SUBJECT - [[ Kane Hodder | /m/033xr_ ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+Subject Path: SUBJECT_NOUN -> stunt_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> do_AUX -> knows_VERB -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+SUBJECT returns as OBJECT in the film that also lifted from the works of ENTITY1 novel is.
+ENTITY1 - [[ Dan Brown | /m/02988h ]]
+SUBJECT - [[ Tom Hanks | /m/0bxtg ]]
+OBJECT - [[ Robert Langdon | /m/02ghwh ]]
+Subject Path: SUBJECT_NOUN -> returns_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> returns_NOUN -> is_AUX
+Lowest common ancestor: returns_NOUN
+
+
+SUBJECT stars as OBJECT in 'Friday the 13th
+SUBJECT - [[ Derek Mears | /m/05h41sp ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+Subject Path: SUBJECT_NOUN -> stars_NOUN
+Object Path: OBJECT_NOUN -> as_SCONJ -> stars_NOUN
+Lowest common ancestor: stars_NOUN
+
+
+SUBJECT always voiced OBJECT , right
+SUBJECT - [[ Mel Blanc | /m/0c5vh ]]
+OBJECT - [[ Porky Pig | /m/0dngm ]]
+Subject Path: SUBJECT_NOUN -> voiced_VERB
+Object Path: OBJECT_NOUN -> voiced_VERB
+Lowest common ancestor: voiced_VERB
+
+
+ENTITY1 won the role of OBJECT , but the decision to not have SUBJECT
+ENTITY1 - [[ Ken Kirzinger | /m/07qgr8 ]]
+SUBJECT - [[ Kane Hodder | /m/033xr_ ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+Subject Path: SUBJECT_NOUN -> have_AUX -> decision_NOUN -> won_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> role_NOUN -> won_VERB
+Lowest common ancestor: won_VERB
+
+
+a le scoop que 3:10 ? ENTITY1 star SUBJECT jouera le OBJECT dans X-Men Origines: ENTITY2
+ENTITY1 - [[ Yuma | /m/01pz13 ]]
+ENTITY2 - [[ Wolverine | /m/08hmch ]]
+SUBJECT - [[ Kevin Durand | /m/08g2t9 ]]
+OBJECT - [[ Blob | /m/027ykr ]]
+Subject Path: SUBJECT_PROPN -> le_PROPN -> Origines_PROPN
+Object Path: OBJECT_PROPN -> Origines_PROPN
+Lowest common ancestor: Origines_PROPN
+
+
+ENTITY1 actor SUBJECT , better known as OBJECT from the popular ENTITY2 movies, apparently has tax problems in ENTITY3
+ENTITY1 - [[ Australian | /m/0chghy ]]
+ENTITY2 - [[ Crocodile Dundee | /m/01wzyq ]]
+ENTITY3 - [[ Australia | /m/0chghy ]]
+SUBJECT - [[ Paul Hogan | /m/033b_b ]]
+OBJECT - [[ Michael "Crocodile" Dundee | /m/02qlsxl ]]
+Subject Path: SUBJECT_NOUN -> has_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> known_VERB -> SUBJECT_NOUN -> has_AUX
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT plays OBJECT in the 1982 show
+SUBJECT - [[ Hayden Panettiere | /m/02jyhv ]]
+OBJECT - [[ Haylei Sims | /m/0gj5bts ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+SUBJECT returns as ENTITY1 agent OBJECT : his previous appearance in the ENTITY2 films was as the villain in
+ENTITY1 - [[ CIA | /m/0d6qjf ]]
+ENTITY2 - [[ Bond | /m/03_97 ]]
+SUBJECT - [[ Joe Don Baker | /m/03tl1k ]]
+OBJECT - [[ Jack Wade | /m/03r551 ]]
+Subject Path: SUBJECT_NOUN -> returns_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> returns_NOUN -> was_AUX
+Lowest common ancestor: returns_NOUN
+
+
+The incomparable SUBJECT brought OBJECT to life in the way only she could.
+SUBJECT - [[ Anne Ramsey | /m/0mbtg ]]
+OBJECT - [[ Mama Fratelli | /m/0h5nz4f ]]
+Subject Path: SUBJECT_NOUN -> brought_VERB
+Object Path: OBJECT_NOUN -> brought_VERB
+Lowest common ancestor: brought_VERB
+
+
+as the personal car of leading lady SUBJECT , who plays ENTITY1 's ally OBJECT
+ENTITY1 - [[ Bond | /m/03_97 ]]
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Camille Montes | /m/043pxc_ ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> car_NOUN -> as_SCONJ
+Object Path: OBJECT_NOUN -> plays_VERB -> car_NOUN -> as_SCONJ
+Lowest common ancestor: car_NOUN
+
+
+- SUBJECT is the new OBJECT
+SUBJECT - [[ Derek Mears | /m/05h41sp ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT stars as OBJECT – a popular optician in a small western ENTITY1 town
+ENTITY1 - [[ Massachusetts | /m/05k7sb ]]
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Steve Finch | /m/0h145vd ]]
+Subject Path: SUBJECT_NOUN -> stars_NOUN
+Object Path: OBJECT_NOUN -> as_SCONJ -> stars_NOUN
+Lowest common ancestor: stars_NOUN
+
+
+OBJECT got the pass for ENTITY1 , and her aunt gave OBJECT her pass to see SUBJECT
+ENTITY1 - [[ Chad | /m/01p1b ]]
+SUBJECT - [[ Scott Clifton | /m/05vsqz ]]
+OBJECT - [[ Brooke | /m/0h39j46 ]]
+Subject Path: SUBJECT_NOUN -> see_VERB -> pass_NOUN -> gave_VERB -> got_VERB
+Object Path: OBJECT_NOUN -> got_VERB
+Object Path: OBJECT_NOUN -> gave_VERB -> got_VERB
+Lowest common ancestor: got_VERB, gave_VERB
+
+
+In the travelling production ENTITY1  plays the role of OBJECT , SUBJECT 's role in ENTITY2 .
+ENTITY1 - [[ Alan Ruck | /m/02y2_9 ]]
+ENTITY2 - [[ NY | /m/059rby ]]
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Leo Bloom | /m/02x01nt ]]
+Subject Path: SUBJECT_NOUN -> role_NOUN -> OBJECT_NOUN -> of_ADP -> role_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> role_NOUN -> plays_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT character, OBJECT , is a lawyer in the book
+SUBJECT - [[ Juliette Binoche | /m/0fbx6 ]]
+OBJECT - [[ Miriam | /m/0bqx7bm ]]
+Subject Path: SUBJECT_ADJ -> character_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> character_NOUN -> is_AUX
+Lowest common ancestor: character_NOUN
+
+
+SUBJECT then played OBJECT in the 2000 comedy ENTITY1 , which marked ENTITY2 's directorial debut
+ENTITY1 - [[ Keeping the Faith | /m/0697_g ]]
+ENTITY2 - [[ Edward Norton | /m/01515w ]]
+SUBJECT - [[ Jenna Elfman | /m/0320cg ]]
+OBJECT - [[ Anna Riley | /m/0bj8hcc ]]
+Subject Path: SUBJECT_NOUN -> played_VERB
+Object Path: OBJECT_NOUN -> played_VERB
+Lowest common ancestor: played_VERB
+
+
+In 2004, SUBJECT played the role of OBJECT in the film Motives alongside ENTITY1 and ENTITY2
+ENTITY1 - [[ Vivica Fox | /m/02ts3h ]]
+ENTITY2 - [[ Golden Brooks | /m/0407ns ]]
+SUBJECT - [[ Shemar Moore | /m/034_bc ]]
+OBJECT - [[ Emery Simms | /m/0gxr6ym ]]
+Subject Path: SUBJECT_NOUN -> played_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> role_NOUN -> played_VERB
+Lowest common ancestor: played_VERB
+
+
+SUBJECT plays OBJECT , a young man suffering from brain damage  sustained in a fatal car accident.
+SUBJECT - [[ Joseph Gordon-Levitt | /m/05zbm4 ]]
+OBJECT - [[ Chris Pratt | /m/02nwpt8 ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+Acting as ENTITY1 ?s wife OBJECT in both the versions is SUBJECT .
+ENTITY1 - [[ Madhavan | /m/084z0w ]]
+SUBJECT - [[ Neetu Chandra | /m/03cb13d ]]
+OBJECT - [[ Priya | /m/0h2nddk ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+(even though I felt that SUBJECT wasn't quite as good as OBJECT as ENTITY1 was as ENTITY2
+ENTITY1 - [[ Lane | /m/01nxzv ]]
+ENTITY2 - [[ Max Bialystock | /m/0d778t ]]
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Leo Bloom | /m/02x01nt ]]
+Subject Path: SUBJECT_NOUN -> was_AUX -> felt_VERB -> (_PUNCT
+Object Path: OBJECT_NOUN -> as_SCONJ -> good_ADJ -> was_AUX -> felt_VERB -> (_PUNCT
+Lowest common ancestor: was_AUX
+
+
+SUBJECT returns as OBJECT along with ENTITY1 , who will direct the movie.
+ENTITY1 - [[ Ron Howard | /m/0g2lq ]]
+SUBJECT - [[ Tom Hanks | /m/0bxtg ]]
+OBJECT - [[ Robert Langdon | /m/02ghwh ]]
+Subject Path: SUBJECT_NOUN -> returns_NOUN
+Object Path: OBJECT_NOUN -> as_SCONJ -> returns_NOUN
+Lowest common ancestor: returns_NOUN
+
+
+SUBJECT 's brassy OBJECT tempted ENTITY1 into murder in ENTITY2
+ENTITY1 - [[ John Garfield | /m/013846 ]]
+ENTITY2 - [[ The Postman Always Rings Twice | /m/0dlh03 ]]
+SUBJECT - [[ Lana Turner | /m/018fmr ]]
+OBJECT - [[ Cora Smith | /m/0h2rvlt ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> tempted_VERB
+Object Path: OBJECT_NOUN -> tempted_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT played OBJECT throughout the series
+SUBJECT - [[ James Arness | /m/036jp8 ]]
+OBJECT - [[ Matt Dillon | /m/06mb_y ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT offers capable support as OBJECT
+SUBJECT - [[ Teresa Wright | /m/018qr9 ]]
+OBJECT - [[ Eleanor Gehrig | /m/02nwq33 ]]
+Subject Path: SUBJECT_NOUN -> offers_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> support_NOUN -> offers_VERB
+Lowest common ancestor: offers_VERB
+
+
+Olga Kurylenko Reveals Quantum of Solace Spoiler SUBJECT portrays OBJECT in ENTITY1
+ENTITY1 - [[ Quantum of Solace | /m/08gsvw ]]
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Camille Montes | /m/043pxc_ ]]
+Subject Path: SUBJECT_PROPN -> portrays_VERB
+Object Path: OBJECT_NOUN -> portrays_VERB
+Lowest common ancestor: portrays_VERB
+
+
+SUBJECT will reprise his role  as the ENTITY1 religious expert OBJECT .
+ENTITY1 - [[ Harvard | /m/03ksy ]]
+SUBJECT - [[ Tom Hanks | /m/0bxtg ]]
+OBJECT - [[ Robert Langdon | /m/02ghwh ]]
+Subject Path: SUBJECT_NOUN -> reprise_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> role_NOUN -> reprise_VERB
+Lowest common ancestor: reprise_VERB
+
+
+ENTITY1 at the premiere of her boyfriend SUBJECT ?s film OBJECT in ENTITY2 last night
+ENTITY1 - [[ Keira Knightley | /m/01l2fn ]]
+ENTITY2 - [[ Germany | /m/0345h ]]
+SUBJECT - [[ Rupert Friend | /m/06d1v8 ]]
+OBJECT - [[ Chéri | /m/05svjs1 ]]
+
+
+Lowest common ancestor: 
+
+
+( SUBJECT , who plays OBJECT ).
+SUBJECT - [[ Derek Mears | /m/05h41sp ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+
+Object Path: OBJECT_NOUN -> plays_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+But the real star was young SUBJECT as OBJECT , the main target for ENTITY1
+ENTITY1 - [[ Michael Myers | /m/03zj8n ]]
+SUBJECT - [[ Danielle Harris | /m/02gylv ]]
+OBJECT - [[ Jamie Lloyd | /m/09435s ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> SUBJECT_NOUN -> was_AUX
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT is excellent as OBJECT
+SUBJECT - [[ Lotte Lenya | /m/01vcfq ]]
+OBJECT - [[ Rosa Klebb | /m/05p43l ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> excellent_ADJ -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT will play OBJECT , ENTITY1  professor of symbology .
+ENTITY1 - [[ Harvard | /m/03ksy ]]
+SUBJECT - [[ Tom Hanks | /m/0bxtg ]]
+OBJECT - [[ Robert Langdon | /m/02ghwh ]]
+Subject Path: SUBJECT_NOUN -> play_VERB
+Object Path: OBJECT_NOUN -> play_VERB
+Lowest common ancestor: play_VERB
+
+
+? SUBJECT ?s character, OBJECT , is half ENTITY1 and half ENTITY2 .
+ENTITY1 - [[ Ukrainian | /m/07t21 ]]
+ENTITY2 - [[ South American | /m/06n3y ]]
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Camille Montes | /m/043pxc_ ]]
+
+Object Path: OBJECT_NOUN -> character_NOUN -> s_X -> is_AUX
+Lowest common ancestor: 
+
+
+ENTITY1 actor SUBJECT , better known as OBJECT from..
+ENTITY1 - [[ Australian | /m/0chghy ]]
+SUBJECT - [[ Paul Hogan | /m/033b_b ]]
+OBJECT - [[ Michael "Crocodile" Dundee | /m/02qlsxl ]]
+
+Object Path: OBJECT_NOUN -> as_SCONJ -> known_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT channeled ENTITY1 as OBJECT in the movie and it was a standout performance
+ENTITY1 - [[ Paul Lynde | /m/0fpx9 ]]
+SUBJECT - [[ Steve Carell | /m/04t2l2 ]]
+OBJECT - [[ Uncle Arthur | /m/04g5rpy ]]
+Subject Path: SUBJECT_NOUN -> channeled_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> channeled_VERB
+Lowest common ancestor: channeled_VERB
+
+
+SUBJECT plays OBJECT , 3-time ENTITY1 at Carver High School.
+ENTITY1 - [[ Teacher of the Year | /m/0b7cy4 ]]
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Jim McAllister | /m/0g4t9bl ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+- Stunt man SUBJECT  plays the infamous OBJECT
+SUBJECT - [[ Derek Mears | /m/05h41sp ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+Subject Path: SUBJECT_VERB -> man_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+Voices are by SUBJECT , except OBJECT was voiced by ENTITY1 .
+ENTITY1 - [[ Arthur Q. Bryan | /m/01hkg9 ]]
+SUBJECT - [[ Mel Blanc | /m/0c5vh ]]
+OBJECT - [[ Elmer Fudd | /m/0mz80 ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> are_AUX
+Object Path: OBJECT_NOUN -> voiced_VERB -> are_AUX
+Lowest common ancestor: are_AUX
+
+
+ENTITY1 ?s SUBJECT  plays OBJECT , a Dane who runs an orphanage in ENTITY2
+ENTITY1 - [[ Casino Royale | /m/03r0g9 ]]
+ENTITY2 - [[ India | /m/03rk0 ]]
+SUBJECT - [[ Mads Mikkelsen | /m/076svb ]]
+OBJECT - [[ Jacob | /m/0h39r88 ]]
+
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: 
+
+
+SUBJECT 's final original work as OBJECT came in the ENTITY1 ENTITY2 spoof,  Person to Bunny
+ENTITY1 - [[ Warner Bros. | /m/086k8 ]]
+ENTITY2 - [[ Edward R. Murrow | /m/014428 ]]
+SUBJECT - [[ Arthur Q. Bryan | /m/01hkg9 ]]
+OBJECT - [[ Elmer Fudd | /m/0mz80 ]]
+Subject Path: SUBJECT_NOUN -> work_NOUN -> came_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> work_NOUN -> came_VERB
+Lowest common ancestor: work_NOUN
+
+
+While ENTITY1 is delightful, and SUBJECT plays OBJECT with a fine comedic style the movie still feels too formulaic
+ENTITY1 - [[ Amy Adams | /m/0b25vg ]]
+SUBJECT - [[ James Marsden | /m/042ly5 ]]
+OBJECT - [[ Prince Edward | /m/02nwdm3 ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB -> is_AUX -> feels_VERB
+Object Path: OBJECT_NOUN -> plays_VERB -> is_AUX -> feels_VERB
+Lowest common ancestor: plays_VERB
+
+
+The story progresses as he hires OBJECT played by SUBJECT as his accountant.
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Leo Bloom | /m/02x01nt ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> played_VERB -> OBJECT_NOUN -> hires_VERB -> progresses_VERB
+Object Path: OBJECT_NOUN -> hires_VERB -> progresses_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT  plays OBJECT , the son of big-time mobster Benny Chains
+SUBJECT - [[ Barry Pepper | /m/04m064 ]]
+OBJECT - [[ Matty Demaret | /m/0h1wxml ]]
+Subject Path: SUBJECT_ADJ -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+ENTITY1 is also great as ENTITY2 , but the real scene-stealer is SUBJECT as OBJECT .
+ENTITY1 - [[ Sussie Essman | /m/06zyt3 ]]
+ENTITY2 - [[ Mittens | /m/05v4ql4 ]]
+SUBJECT - [[ Mark Walton | /m/04yd5c_ ]]
+OBJECT - [[ Rhino | /m/05v4qkp ]]
+Subject Path: SUBJECT_ADJ -> is_AUX -> is_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> SUBJECT_ADJ -> is_AUX -> is_AUX
+Lowest common ancestor: SUBJECT_ADJ
+
+
+SUBJECT plays the gorgeous OBJECT in the new ENTITY1
+ENTITY1 - [[ James Bond | /m/03_97 ]]
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Camille Montes | /m/043pxc_ ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+SUBJECT plays OBJECT , a 14- year old ENTITY1 orphan living on the streets of ENTITY2
+ENTITY1 - [[ American | /m/09c7w0 ]]
+ENTITY2 - [[ Los Angeles | /m/030qb3t ]]
+SUBJECT - [[ Jodie Foster | /m/0chw_ ]]
+OBJECT - [[ Casey | /m/0gy5y18 ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+I've always liked SUBJECT , but ENTITY1 was just too much like OBJECT .
+ENTITY1 - [[ Woody | /m/03f6yx9 ]]
+SUBJECT - [[ Mel Blanc | /m/0c5vh ]]
+OBJECT - [[ Daffy Duck | /m/0dng4 ]]
+Subject Path: SUBJECT_NOUN -> liked_VERB
+Object Path: OBJECT_NOUN -> like_SCONJ -> was_AUX -> liked_VERB
+Lowest common ancestor: liked_VERB
+
+
+Actress SUBJECT plays ENTITY1 's love interest   OBJECT
+ENTITY1 - [[ Statham | /m/034hyc ]]
+SUBJECT - [[ Shu Qi | /m/03r2sj ]]
+OBJECT - [[ Lai | /m/0h1qfh3 ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+ENTITY1 plays ENTITY2 , a high school teacher, and SUBJECT as OBJECT , your average high school over-achiever.
+ENTITY1 - [[ Matthew Broderick | /m/01vlj1g ]]
+ENTITY2 - [[ Jim McAllister | /m/0g4t9bl ]]
+SUBJECT - [[ Reese Witherspoon | /m/0n6f8 ]]
+OBJECT - [[ Tracy Flick | /m/0d06js ]]
+Subject Path: SUBJECT_PROPN -> teacher_NOUN -> ENTITY2_PROPN -> plays_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> SUBJECT_PROPN -> teacher_NOUN -> ENTITY2_PROPN -> plays_VERB
+Lowest common ancestor: SUBJECT_PROPN
+
+
+The only weakness in the film is SUBJECT as ENTITY1 's prepubescent daughter OBJECT
+ENTITY1 - [[ Sam | /m/05nd8pj ]]
+SUBJECT - [[ Lori Martin | /m/0h249b ]]
+OBJECT - [[ Nancy Bowden | /m/0bhhn7j ]]
+Subject Path: SUBJECT_ADJ -> is_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> SUBJECT_ADJ -> is_AUX
+Lowest common ancestor: SUBJECT_ADJ
+
+
+( SUBJECT , who looks an awful lot like OBJECT ).
+SUBJECT - [[ Kamal Kapoor | /m/0gc0x6x ]]
+OBJECT - [[ Narang | /m/0h5v87t ]]
+
+Object Path: OBJECT_NOUN -> like_SCONJ -> lot_NOUN -> looks_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+. SUBJECT reprises his role from , OBJECT , who is instructed by ENTITY1  to build an ark
+ENTITY1 - [[ God | /m/0d05l6 ]]
+SUBJECT - [[ Steve Carell | /m/04t2l2 ]]
+OBJECT - [[ Evan Baxter | /m/02nwc6h ]]
+Subject Path: SUBJECT_NOUN -> reprises_VERB
+Object Path: OBJECT_NOUN -> from_ADP -> role_NOUN -> reprises_VERB
+Lowest common ancestor: reprises_VERB
+
+
+Burkell is better suited to the role of OBJECT than SUBJECT , who played the role on ENTITY1
+ENTITY1 - [[ Broadway | /m/035y8z ]]
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Leo Bloom | /m/02x01nt ]]
+Subject Path: SUBJECT_NOUN -> than_SCONJ -> role_NOUN -> to_ADP -> suited_ADJ -> is_AUX
+Object Path: OBJECT_NOUN -> of_ADP -> role_NOUN -> to_ADP -> suited_ADJ -> is_AUX
+Lowest common ancestor: role_NOUN
+
+
+Planned for release in 2007, this film projects the career of SUBJECT ?s character OBJECT  into the future
+SUBJECT - [[ Steve Carell | /m/04t2l2 ]]
+OBJECT - [[ Evan Baxter | /m/02nwc6h ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> career_NOUN -> projects_VERB
+
+Lowest common ancestor: 
+
+
+My fave bond girl was OBJECT played by SUBJECT in For your eyes only
+SUBJECT - [[ Carole Bouquet | /m/049wzr ]]
+OBJECT - [[ Melina Havelock | /m/0bbd7c ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> played_VERB -> OBJECT_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+The original OBJECT was SUBJECT
+SUBJECT - [[ Nicole Jaffe | /m/07cn9j ]]
+OBJECT - [[ Cyber Velma Dinkley | /m/03r0h4 ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+Infinity with SUBJECT portraying OBJECT .
+SUBJECT - [[ Matthew Broderick | /m/01vlj1g ]]
+OBJECT - [[ Richard Feynman | /m/02xlxh3 ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> Infinity_NOUN
+Object Path: OBJECT_NOUN -> portraying_VERB -> SUBJECT_NOUN -> with_ADP -> Infinity_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+I also loved SUBJECT as ENTITY1 yuppie OBJECT .
+ENTITY1 - [[ Wall Street | /m/09937 ]]
+SUBJECT - [[ Barry Pepper | /m/04m064 ]]
+OBJECT - [[ Frank Slaughtery | /m/0gkknfn ]]
+Subject Path: SUBJECT_NOUN -> loved_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> SUBJECT_NOUN -> loved_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+Also in 2006, SUBJECT played   OBJECT   in ENTITY1 's acclaimed thriller ENTITY2 .
+ENTITY1 - [[ Eric Barbier | /m/0bbdb_s ]]
+ENTITY2 - [[ Le serpent | /m/03d2h9n ]]
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Sofia | /m/0gxt1zt ]]
+Subject Path: SUBJECT_PROPN -> played_VERB
+Object Path: OBJECT_NOUN -> played_VERB
+Lowest common ancestor: played_VERB
+
+
+SUBJECT plays the OBJECT as a watchdog but rather, as ENTITY1 grows more renascent, increase it.
+ENTITY1 - [[ BEE SEASON | /m/0cndck ]]
+SUBJECT - [[ Juliette Binoche | /m/0fbx6 ]]
+OBJECT - [[ Miriam | /m/0bqx7bm ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+SUBJECT 's character OBJECT is a rude, thoroughly unlikable bitch in every scene we see her.
+SUBJECT - [[ Elizabeth Berkley | /m/01j6fq ]]
+OBJECT - [[ Nomi Malone | /m/098klm0 ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT has appeared as OBJECT in ? ENTITY1 ?.
+ENTITY1 - [[ Freddy vs Jason | /m/0353tm ]]
+SUBJECT - [[ Ken Kirzinger | /m/07qgr8 ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+Subject Path: SUBJECT_NOUN -> appeared_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> appeared_VERB
+Lowest common ancestor: appeared_VERB
+
+
+SUBJECT returns as OBJECT in this second sequel to the hit 1986 fish-out-of-water comedy.
+SUBJECT - [[ Paul Hogan | /m/033b_b ]]
+OBJECT - [[ Michael "Crocodile" Dundee | /m/02qlsxl ]]
+Subject Path: SUBJECT_NOUN -> returns_NOUN
+Object Path: OBJECT_NOUN -> as_SCONJ -> returns_NOUN
+Lowest common ancestor: returns_NOUN
+
+
+He appeared alongside SUBJECT , who played OBJECT in the ENTITY1 films during the ENTITY2 era
+ENTITY1 - [[ Bond | /m/03_97 ]]
+ENTITY2 - [[ Pierce Brosnan | /m/018p4y ]]
+SUBJECT - [[ Samantha Bond | /m/03pknm ]]
+OBJECT - [[ Eve Moneypenny | /m/01hk60 ]]
+Subject Path: SUBJECT_PROPN -> alongside_ADP -> appeared_VERB
+Object Path: OBJECT_NOUN -> played_VERB -> appeared_VERB
+Lowest common ancestor: appeared_VERB
+
+
+SUBJECT was great as OBJECT , and I really didn give a crap about his hair
+SUBJECT - [[ Tom Hanks | /m/0bxtg ]]
+OBJECT - [[ Robert Langdon | /m/02ghwh ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> great_ADJ -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+SUBJECT predates ENTITY1 , Jason and ENTITY2 in his portrayal of the highly religous and highly psychopathic OBJECT .
+ENTITY1 - [[ Hannibal Lector | /m/0162dh ]]
+ENTITY2 - [[ Michael Meyers | /m/0p__8 ]]
+SUBJECT - [[ Robert Mitchum | /m/0m0hw ]]
+OBJECT - [[ Harry Powell | /m/0h2hdtk ]]
+Subject Path: SUBJECT_NOUN -> predates_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> portrayal_NOUN -> in_ADP -> predates_VERB
+Lowest common ancestor: predates_VERB
+
+
+(okay, SUBJECT actually looks like OBJECT too.).
+SUBJECT - [[ Tomokazu Sugita | /m/01v2b93 ]]
+OBJECT - [[ Kyon | /m/02pgnzp ]]
+Subject Path: SUBJECT_NOUN -> looks_VERB
+Object Path: OBJECT_NOUN -> like_SCONJ -> looks_VERB
+Lowest common ancestor: looks_VERB
+
+
+After ENTITY1 died in 1959, SUBJECT became the main voice of OBJECT
+ENTITY1 - [[ Bryan | /m/01hkg9 ]]
+SUBJECT - [[ Mel Blanc | /m/0c5vh ]]
+OBJECT - [[ Elmer Fudd | /m/0mz80 ]]
+Subject Path: SUBJECT_PROPN -> became_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> voice_NOUN -> became_VERB
+Lowest common ancestor: became_VERB
+
+
+SUBJECT was good as OBJECT but co-star ENTITY1 was even better as Gary.
+ENTITY1 - [[ Matthew Goode | /m/062rt0 ]]
+SUBJECT - [[ Joseph Gordon-Levitt | /m/05zbm4 ]]
+OBJECT - [[ Chris Pratt | /m/02nwpt8 ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> good_ADJ -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+For better or for worse, SUBJECT became typecast as OBJECT
+SUBJECT - [[ Paul Hogan | /m/033b_b ]]
+OBJECT - [[ Michael "Crocodile" Dundee | /m/02qlsxl ]]
+Subject Path: SUBJECT_NOUN -> became_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> typecast_VERB -> became_VERB
+Lowest common ancestor: became_VERB
+
+
+ENTITY1 and ENTITY2 have great chemistry, but SUBJECT  really steals the show as the lovable OBJECT .
+ENTITY1 - [[ Spade | /m/02dlfh ]]
+ENTITY2 - [[ Goodman | /m/01nm3s ]]
+SUBJECT - [[ Patrick Warburton | /m/02tqkf ]]
+OBJECT - [[ Kronk | /m/0dh04p ]]
+Subject Path: SUBJECT_NOUN -> steals_VERB -> have_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> steals_VERB -> have_AUX
+Lowest common ancestor: steals_VERB
+
+
+SUBJECT stars as OBJECT , a happy-go-lucky, decent sort of chap, engaged to ENTITY1 .
+ENTITY1 - [[ Karen | /m/0gcs3ky ]]
+SUBJECT - [[ Jason Lee | /m/034np8 ]]
+OBJECT - [[ Paul | /m/0gcs3mp ]]
+Subject Path: SUBJECT_NOUN -> stars_NOUN -> engaged_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> stars_NOUN -> engaged_VERB
+Lowest common ancestor: stars_NOUN
+
+
+But the one that gets me to well up is this TV movie starring SUBJECT as ENTITY1 hero OBJECT
+ENTITY1 - [[ Chicago Bears | /m/01y3v ]]
+SUBJECT - [[ James Caan | /m/0252fh ]]
+OBJECT - [[ Brian Piccolo | /m/0h14421 ]]
+Subject Path: SUBJECT_NOUN -> starring_VERB -> movie_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> SUBJECT_NOUN -> starring_VERB -> movie_NOUN -> is_AUX
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT , who plays OBJECT , stars in , and the movie, , based off the Broadway Production.
+SUBJECT - [[ James Marsden | /m/042ly5 ]]
+OBJECT - [[ Prince Edward | /m/02nwdm3 ]]
+
+Object Path: OBJECT_NOUN -> plays_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+(as SUBJECT dressed as OBJECT ).
+SUBJECT - [[ Amy Sedaris | /m/024rx_ ]]
+OBJECT - [[ Jerri Blank | /m/02_xmr8 ]]
+Subject Path: SUBJECT_NOUN -> as_SCONJ
+Object Path: OBJECT_NOUN -> as_SCONJ -> dressed_VERB -> SUBJECT_NOUN -> as_SCONJ
+Lowest common ancestor: SUBJECT_NOUN
+
+
+For most of his life, SUBJECT has been no OBJECT
+SUBJECT - [[ Evan Handler | /m/07blrf ]]
+OBJECT - [[ Harry Goldenblatt | /m/05lmdrm ]]
+Subject Path: SUBJECT_NOUN -> been_AUX
+Object Path: OBJECT_NOUN -> been_AUX
+Lowest common ancestor: been_AUX
+
+
+Meanwhile, ENTITY1 has a scoop that states SUBJECT will play The OBJECT .
+ENTITY1 - [[ Film School Rejects | /m/0n4bqcz ]]
+SUBJECT - [[ Kevin Durand | /m/08g2t9 ]]
+OBJECT - [[ Blob | /m/027ykr ]]
+Subject Path: SUBJECT_NOUN -> states_VERB -> scoop_NOUN -> has_AUX
+Object Path: OBJECT_NOUN -> play_VERB -> has_AUX
+Lowest common ancestor: has_AUX
+
+
+SUBJECT stars as OBJECT , a recently elected congressman.
+SUBJECT - [[ Steve Carell | /m/04t2l2 ]]
+OBJECT - [[ Evan Baxter | /m/02nwc6h ]]
+Subject Path: SUBJECT_NOUN -> stars_NOUN
+Object Path: OBJECT_NOUN -> as_SCONJ -> stars_NOUN
+Lowest common ancestor: stars_NOUN
+
+
+In case you havent met her, this is SUBJECT , who plays OBJECT in the movie.
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Camille Montes | /m/043pxc_ ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> plays_VERB -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT  is a ENTITY1 best known as ENTITY2 girl OBJECT in
+ENTITY1 - [[ French | /m/0f8l9c ]]
+ENTITY2 - [[ Bond | /m/0ghcr ]]
+SUBJECT - [[ Carole Bouquet | /m/049wzr ]]
+OBJECT - [[ Melina Havelock | /m/0bbd7c ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> as_SCONJ -> known_VERB -> ENTITY1_PROPN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Along this path of retribution, he meets the sultry, spirited OBJECT  rendered by equally sultry ENTITY1 actress SUBJECT .
+ENTITY1 - [[ Eurasian | /m/02qkt ]]
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Camille Montes | /m/043pxc_ ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> meets_VERB
+Object Path: OBJECT_NOUN -> meets_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Source: Latino Review ( SUBJECT , who plays OBJECT ).
+SUBJECT - [[ Derek Mears | /m/05h41sp ]]
+OBJECT - [[ Jason Voorhees | /m/01wmhq ]]
+Subject Path: SUBJECT_NOUN -> Review_PROPN
+Object Path: OBJECT_NOUN -> plays_VERB -> Review_PROPN
+Lowest common ancestor: Review_PROPN
+
+
+Played pitch-perfectly by a pre-Office SUBJECT , OBJECT is the stand-out member of the ENTITY1 news team
+ENTITY1 - [[ Channel 4 | /m/01w92 ]]
+SUBJECT - [[ Steve Carell | /m/04t2l2 ]]
+OBJECT - [[ Brick Tamland | /m/02nwrvg ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> Played_VERB -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+In 1988, SUBJECT performed a bit part as OBJECT in the wildly successful film feature,   ENTITY1 ?
+ENTITY1 - [[ Who Framed Roger Rabbit | /m/0k2sk ]]
+SUBJECT - [[ Mel Blanc | /m/0c5vh ]]
+OBJECT - [[ Daffy Duck | /m/0dng4 ]]
+Subject Path: SUBJECT_NOUN -> performed_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> part_NOUN -> performed_VERB
+Lowest common ancestor: performed_VERB
+
+
+SUBJECT plays the role of OBJECT , a drifter that made her way from a stripper to a showgirl
+SUBJECT - [[ Elizabeth Berkley | /m/01j6fq ]]
+OBJECT - [[ Nomi Malone | /m/098klm0 ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> role_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+OBJECT will join SUBJECT 's Edward in wooing ENTITY1 's ENTITY2
+ENTITY1 - [[ Kristen Stewart | /m/07swvb ]]
+ENTITY2 - [[ Bella | /m/027b7y9 ]]
+SUBJECT - [[ Robert Pattinson | /m/062dn7 ]]
+OBJECT - [[ Jacob Jankowski - older | /m/0c1sgkp ]]
+Subject Path: SUBJECT_PROPN -> Edward_PROPN -> join_VERB
+Object Path: OBJECT_NOUN -> join_VERB
+Lowest common ancestor: join_VERB
+
+
+Legendary voice artist SUBJECT gave life to OBJECT and ENTITY1 throughout the program's run
+ENTITY1 - [[ Dino | /m/079ld6 ]]
+SUBJECT - [[ Mel Blanc | /m/0c5vh ]]
+OBJECT - [[ Barney Rubble | /m/05695w ]]
+Subject Path: SUBJECT_NOUN -> gave_VERB
+Object Path: OBJECT_NOUN -> to_ADP -> gave_VERB
+Lowest common ancestor: gave_VERB
+
+
+However, OBJECT , a sexy fighting vampire played by the hot ENTITY1 actress SUBJECT took the crown
+ENTITY1 - [[ Chilean | /m/01p1v ]]
+SUBJECT - [[ Leonor Varela | /m/028pyk ]]
+OBJECT - [[ Nyssa | /m/0b_jws3 ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> played_VERB -> vampire_NOUN -> OBJECT_NOUN -> took_VERB
+Object Path: OBJECT_NOUN -> took_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT plays OBJECT , a widower and devoted father, struggling to raise three daughters
+SUBJECT - [[ Steve Carell | /m/04t2l2 ]]
+OBJECT - [[ Dan Burns | /m/04g5rq4 ]]
+Subject Path: SUBJECT_NOUN -> plays_VERB
+Object Path: OBJECT_NOUN -> plays_VERB
+Lowest common ancestor: plays_VERB
+
+
+SUBJECT , who played OBJECT , was born with six fingers on each hand.
+SUBJECT - [[ Olga Kurylenko | /m/0266c36 ]]
+OBJECT - [[ Camille Montes | /m/043pxc_ ]]
+Subject Path: SUBJECT_NOUN -> born_VERB
+Object Path: OBJECT_NOUN -> played_VERB -> SUBJECT_NOUN -> born_VERB
+Lowest common ancestor: SUBJECT_NOUN
