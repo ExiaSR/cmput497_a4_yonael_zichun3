@@ -14,6 +14,6 @@ $ python -m spacy en_core_web_lg
 # DEBUG=true to use a smaller lanaguage model to test
 $ python task2/main.py
 
-# get 100 random samples, default output to `task2/samples` directory
-$ python task2/samples.py
+# get some statistic of the random samples
+$ python task2/analyze.py > sample_report.txt
 ```

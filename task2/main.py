@@ -267,7 +267,6 @@ def save_output(all_relations, path="task2/runs/"):
 def get_paths_and_verbs(doc: Doc) -> Tuple[set, list, list]:
     """
     Get all paths from SUBJECT and OBJECT to root
-    if root is a VERB
     """
     verbs = set()
     subject_path = []
