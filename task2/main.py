@@ -80,12 +80,16 @@ class Relation:
                 "normalized_sentence": self.normalized_sentence,
                 "raw_sentence": self.raw_sentence,
                 "verbs": [v.text for v in self.verbs],
-                "subject_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths],
-                "object_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths],
+                "subject_path": [
+                    ["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths
+                ],
+                "object_path": [
+                    ["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths
+                ],
                 "entities": self.entities,
                 "subject": self.subject,
                 "object": self.object,
-                "lowest_common_ancestor": self._lowest_common_ancestor()
+                "lowest_common_ancestor": self._lowest_common_ancestor(),
             },
             indent=2,
         )
@@ -97,28 +101,34 @@ class Relation:
                 "normalized_sentence": self.normalized_sentence,
                 "raw_sentence": self.raw_sentence,
                 "verbs": [v.text for v in self.verbs],
-                "subject_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths],
-                "object_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths],
+                "subject_path": [
+                    ["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths
+                ],
+                "object_path": [
+                    ["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths
+                ],
                 "entities": self.entities,
                 "subject": self.subject,
                 "object": self.object,
-                "lowest_common_ancestor": self._lowest_common_ancestor()
+                "lowest_common_ancestor": self._lowest_common_ancestor(),
             }
         )
 
     def __json__(self):
         return {
-                "relation": self.relation_name,
-                "normalized_sentence": self.normalized_sentence,
-                "raw_sentence": self.raw_sentence,
-                "verbs": [v.text for v in self.verbs],
-                "subject_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths],
-                "object_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths],
-                "entities": self.entities,
-                "subject": self.subject,
-                "object": self.object,
-                "lowest_common_ancestor": self._lowest_common_ancestor()
-            }
+            "relation": self.relation_name,
+            "normalized_sentence": self.normalized_sentence,
+            "raw_sentence": self.raw_sentence,
+            "verbs": [v.text for v in self.verbs],
+            "subject_path": [
+                ["{}_{}".format(t.text, t.pos_) for t in p] for p in self.subject_paths
+            ],
+            "object_path": [["{}_{}".format(t.text, t.pos_) for t in p] for p in self.object_paths],
+            "entities": self.entities,
+            "subject": self.subject,
+            "object": self.object,
+            "lowest_common_ancestor": self._lowest_common_ancestor(),
+        }
 
     def __output__(self):
         subject_path = "\n".join(
@@ -197,7 +207,7 @@ Lowest common ancestor: {}""".format(
         return sentence
 
     def _lowest_common_ancestor(self):
-        lca_matrix = self._doc.get_lca_matrix();
+        lca_matrix = self._doc.get_lca_matrix()
         common_ancestor = set()
         for i in self._subject_idx:
             for j in self._object_idx:
@@ -207,6 +217,7 @@ Lowest common ancestor: {}""".format(
                     common_ancestor.add("{}_{}".format(token.text, token.pos_))
 
         return ", ".join(list(common_ancestor))
+
 
 def get_relations(dir="data") -> Dict[str, List[Relation]]:
     if not os.path.isdir(dir):
@@ -250,7 +261,9 @@ def safe_open_w(path, mode="wt"):
 
 def save_output(all_relations, path="task2/runs/"):
     with safe_open_w(os.path.join(path, "output_full.json"), "w") as out_f:
-        json.dump({k: [r.__json__() for r in relations] for k, relations in all_relations.items()}, out_f)
+        json.dump(
+            {k: [r.__json__() for r in relations] for k, relations in all_relations.items()}, out_f
+        )
 
     relations_samples = {}
     for filename, relations in all_relations.items():
@@ -261,7 +274,10 @@ def save_output(all_relations, path="task2/runs/"):
             output_f.write(buffer)
 
     with safe_open_w(os.path.join(path, "output_samples.json"), "w") as out_f:
-        json.dump({k: [r.__json__() for r in relations] for k, relations in relations_samples.items()}, out_f)
+        json.dump(
+            {k: [r.__json__() for r in relations] for k, relations in relations_samples.items()},
+            out_f,
+        )
 
 
 def get_paths_and_verbs(doc: Doc) -> Tuple[set, list, list]:
@@ -314,21 +330,3 @@ def main(path="data", out="task2/runs"):
 
 if __name__ == "__main__":
     main()
-    # text = {
-    #     "sentence": "*In 1930 Mr. [[ Kellogg | /m/01l8vs ]] was given the [[ Nobel Peace Prize | /m/05f3q ]] for 1929, the prize for that year having been reserved.",
-    #     "pair": {
-    #         "subject": {"name": "Nobel Peace Prize", "mid": "/m/05f3q"},
-    #         "object": {"name": "Frank B. Kellogg", "mid": "/m/01l8vs"},
-    #     },
-    #     "relation": "award.award_honor.award..award.award_honor.award_winner",
-    # }
-
-    # relation = Relation(
-    #     text["sentence"], text["pair"]["subject"], text["pair"]["object"], text["relation"]
-    # )
-    # relation._doc = nlp(relation.normalized_sentence)
-    # lca_matrix = relation._doc.get_lca_matrix()
-    # relation.verbs, relation.subject_paths, relation.object_paths, relation._subject_idx, relation._object_idx = get_paths_and_verbs(
-    #     relation._doc
-    # )
-    # print(relation.__output__())
