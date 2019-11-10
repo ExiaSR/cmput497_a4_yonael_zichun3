@@ -9,6 +9,7 @@ import spacy
 from spacy import displacy
 from collections import Counter
 import en_core_web_sm
+import random
 nlp = en_core_web_sm.load()
 
 logger = logging.getLogger("cmput497")
@@ -52,9 +53,12 @@ class MisIdent:
             with open(filename, "w+") as f: 
                 filtered_sentences = 0
                 mistagged_sentences = 0 
+
+                # creates a random sample of 100 sentences
                 sentences = self.cleaned_sentences[fn]
+                sentences = random.sample(sentences, 100)
+
                 for sent in sentences:
-                    # sometimes there are two mistakes in one sentence. we should just count it once
                     doc = nlp(sent[0])
                     mistagged = []
                     tagged = []
@@ -65,18 +69,19 @@ class MisIdent:
                         else:
                             tagged.append((token.text, token.tag_))
 
-                    if (len(mistagged) > 0):
-                        f.write("{}".format(sent[0]))
-                        for tag in tagged:
-                            f.write("\n{} {}".format(tag[0], tag[1]))
-                        for mistag in mistagged:
-                            f.write("\n{} {} Incorrect".format(mistag[0], mistag[1]))
-                            mistagged_sentences += 1
+                    
+                    f.write("{}".format(sent[0]))
+                    for tag in tagged:
+                        f.write("\n{} {}".format(tag[0], tag[1]))
+                    for mistag in mistagged:
+                        f.write("\n{} {} Incorrect".format(mistag[0], mistag[1]))
+                        mistagged_sentences += 1
+                    if len(mistagged) != 0:
                         filtered_sentences += 1
-                        
-                        f.write('\n')
-                        f.write('\n')
-                        f.write('\n')
+                    
+                    f.write('\n')
+                    f.write('\n')
+                    f.write('\n')
 
             #  opens the file to show the statistics
             with open("task1/stats/"+fn+"_stats.txt", "w+") as f2: 
@@ -108,7 +113,7 @@ def get_relations(dir="data"):
             sentences = []
             for i in raw_data:
                 sentences.append(i['sentence'])
-            relations[filename] = sentences
+            relations[filename] = sentences 
 
     return relations
 

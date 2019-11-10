@@ -1,494 +1,225 @@
-Kurylenko won her first on-screen role in 2005, where she played Iris in the French drama   L'Annulaire
-Kurylenko NNP
-won VBD
-her PRP
-first JJ
-on IN
-- HYPH
-screen NN
+Kattan plays the title role in Disney ?s feature film comedy ? Corky Romano ?  with Peter Falk .
+Kattan NNP
+plays VBZ
+the DT
+title NN
 role NN
 in IN
-2005 CD
+Disney NNP
+? .
+s LS
+feature NN
+film NN
+comedy NN
+? .
+Corky NNP
+Romano NNP
+? .
+  _SP
+with IN
+Peter NNP
+Falk NNP
+. .
+
+
+Matthew Broderick does the voice of Barry 's pal Adam , in the passenger seat above.
+Matthew NNP
+Broderick NNP
+does VBZ
+the DT
+voice NN
+of IN
+Barry NNP
+'s POS
+pal NN
+Adam NNP
 , ,
-where WRB
-she PRP
-played VBD
-Iris NNP
 in IN
 the DT
-drama NN
-   _SP
-L'Annulaire NNP
-French JJ Incorrect
-
-
-However, Nyssa , a sexy fighting vampire played by the hot Chilean actress Leonor Varela took the crown
-However RB
-, ,
-Nyssa NNP
-, ,
-a DT
-sexy JJ
-fighting NN
-vampire NN
-played VBN
-by IN
-the DT
-hot JJ
-actress NN
-Leonor NNP
-Varela NNP
-took VBD
-the DT
-crown NN
-Chilean JJ Incorrect
-
-
-Warren Mitchell  plays Herr Weiss ?the rather nervous Swiss assassin
-Warren NNP
-Mitchell NNP
-  _SP
-plays VBZ
-Herr NNP
-Weiss NNP
-? .
-the DT
-rather RB
-nervous JJ
-assassin NN
-Swiss JJ Incorrect
-
-
-Warren Mitchell  plays Herr Weiss ,the rather nervous Swiss assassin
-Warren NNP
-Mitchell NNP
-  _SP
-plays VBZ
-Herr NNP
-Weiss NNP
-, ,
-the DT
-rather RB
-nervous JJ
-assassin NN
-Swiss JJ Incorrect
-
-
-Also showing up is Liev Schreiber , the fourth returnee from the other   Scream   movies, as Cotton Weary .
-Also RB
-showing VBG
-up RP
-is VBZ
-Liev NNP
-Schreiber NNP
-, ,
-the DT
-fourth JJ
-returnee NN
-from IN
-the DT
-other JJ
-   _SP
-   _SP
-movies NNS
-, ,
-as IN
-Cotton NNP
-Weary NNP
+passenger NN
+seat NN
+above RB
 . .
-Scream VB Incorrect
 
 
-On the other side of the female spectrum is Nikki Gardner , played by British actress Rosamund Pike
-On IN
-the DT
-other JJ
-side NN
-of IN
-the DT
-female JJ
-spectrum NN
-is VBZ
-Nikki NNP
-Gardner NNP
-, ,
-played VBN
-by IN
-actress NN
-Rosamund NNP
-Pike NNP
-British JJ Incorrect
-
-
-On the other side of the female spectrum is Nikki Gardner , played by British actress Rosamund Pike .
-On IN
-the DT
-other JJ
-side NN
-of IN
-the DT
-female JJ
-spectrum NN
-is VBZ
-Nikki NNP
-Gardner NNP
-, ,
-played VBN
-by IN
-actress NN
-Rosamund NNP
-Pike NNP
-. .
-British JJ Incorrect
-
-
-Foster plays Casey , a 14- year old American orphan living on the streets of Los Angeles
-Foster NNP
-plays VBZ
-Casey NNP
-, ,
-a DT
-14- CD
-year NN
-old JJ
-orphan NN
-living VBG
-on IN
-the DT
-streets NNS
-of IN
-Los NNP
-Angeles NNP
-American JJ Incorrect
-
-
-Carole Bouquet  is a French best known as Bond girl Melina Havelock in
-Carole NNP
-Bouquet NNP
+Elizabeth Berkley  plays impetuous Nomi Malone , a young girl who heads into Las Vegas
+Elizabeth NNP
+Berkley NNP
   _SP
-is VBZ
+plays VBZ
+impetuous JJ
+Nomi NNP
+Malone NNP
+, ,
 a DT
-best RBS
-known VBN
-as IN
-Bond NNP
+young JJ
 girl NN
+who WP
+heads VBZ
+into IN
+Las NNP
+Vegas NNP
+
+
+James Marsden plays Prince Edward , looking and acting like a rubber-faced cartoon handsome prince
+James NNP
+Marsden NNP
+plays VBZ
+Prince NNP
+Edward NNP
+, ,
+looking VBG
+and CC
+acting VBG
+like IN
+a DT
+rubber NN
+- HYPH
+faced VBN
+cartoon NN
+handsome JJ
+prince NN
+
+
+the Legend of Ron Burgundy starring Will Ferrell and Steve Carell as Brick Tamland .. Anchorman Movie Quotes.
+the DT
+Legend NNP
+of IN
+Ron NNP
+Burgundy NNP
+starring NN
+Will NNP
+Ferrell NNP
+and CC
+Steve NNP
+Carell NNP
+as IN
+Brick NNP
+Tamland NNP
+.. .
+Anchorman NNP
+Movie NNP
+Quotes NNP
+. .
+
+
+In Dan in Real Life , Carell stars as Dan Burns , an advice columnist and a single father with three girls
+In IN
+Dan NNP
+in IN
+Real NNP
+Life NNP
+, ,
+Carell NNP
+stars NNS
+as IN
+Dan NNP
+Burns NNP
+, ,
+an DT
+advice NN
+columnist NN
+and CC
+a DT
+single JJ
+father NN
+with IN
+three CD
+girls NNS
+
+
+Carell channeled Paul Lynde as Uncle Arthur in the movie and it was a standout performance
+Carell NNP
+channeled VBD
+Paul NNP
+Lynde NNP
+as IN
+Uncle NNP
+Arthur NNP
+in IN
+the DT
+movie NN
+and CC
+it PRP
+was VBD
+a DT
+standout NN
+performance NN
+
+
+Acting as Madhavan ?s wife Priya in both the versions is Neetu Chandra .
+Acting VBG
+as IN
+Madhavan NNP
+? .
+s LS
+wife NN
+Priya NNP
+in IN
+both PDT
+the DT
+versions NNS
+is VBZ
+Neetu NNP
+Chandra NNP
+. .
+
+
+Kirstie Alley did play Saavik one other time, in a play set between ST II and ST III
+Kirstie NNP
+Alley NNP
+did VBD
+play VB
+Saavik NNP
+one CD
+other JJ
+time NN
+, ,
+in IN
+a DT
+play NN
+set VBN
+between IN
+ST NNP
+II NNP
+and CC
+ST NNP
+III NNP
+
+
+Melina Havelock played by Carole Bouquet is the first and main Bond Girl in For Your Eyes Only
 Melina NNP
 Havelock NNP
-in IN
-French JJ Incorrect
-
-
-Lana Turner plays Samarra , the high priestess of a pagan cult in this colourful Biblical epic.
-Lana NNP
-Turner NNP
-plays VBZ
-Samarra NNP
-, ,
-the DT
-high JJ
-priestess NN
-of IN
-a DT
-pagan JJ
-cult NN
-in IN
-this DT
-colourful JJ
-epic NN
-. .
-Biblical JJ Incorrect
-
-
-Mel Blanc returned as Barney Rubble , and Jean Vander Pyl is again Wilma
-Mel NNP
-Blanc NNP
-returned VBD
-as IN
-Barney NNP
-Rubble NNP
-, ,
-and CC
-Jean NNP
-Vander NNP
-Pyl NNP
-is VBZ
-again RB
-Wilma JJ Incorrect
-
-
-Lotte Lenya plays Rosa Klebb , the defecting Russian agent
-Lotte NNP
-Lenya NNP
-plays VBZ
-Rosa NNP
-Klebb NNP
-, ,
-the DT
-defecting VBG
-agent NN
-Russian JJ Incorrect
-
-
-Alley rose to prominence in the 1982 movie , playing Vulcan officer Saavik .
-Alley NNP
-rose VBD
-to IN
-prominence NN
-in IN
-the DT
-1982 CD
-movie NN
-, ,
-playing VBG
-officer NN
-Saavik NNP
-. .
-Vulcan JJ Incorrect
-
-
-Alley rose to prominence in the 1982 movie Star Trek: The Wrath of Khan , playing Vulcan officer Saavik .
-Alley NNP
-rose VBD
-to IN
-prominence NN
-in IN
-the DT
-1982 CD
-movie NN
-Star NNP
-Trek NNP
-: :
-The DT
-Wrath NNP
-of IN
-Khan NNP
-, ,
-playing VBG
-officer NN
-Saavik NNP
-. .
-Vulcan JJ Incorrect
-
-
-Alley won a supporting role in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Lieutenant Saavik
-Alley NNP
-won VBD
-a DT
-supporting VBG
-role NN
-in IN
-the DT
-1982 CD
-movie NN
-Star NNP
-Trek NNP
-II NNP
-: :
-The DT
-Wrath NNP
-of IN
-Khan NNP
-, ,
-playing VBG
-officer NN
-Lieutenant NNP
-Saavik NNP
-Vulcan JJ Incorrect
-
-
-Alley rose to prominence in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Saavik
-Alley NNP
-rose VBD
-to IN
-prominence NN
-in IN
-the DT
-1982 CD
-movie NN
-Star NNP
-Trek NNP
-II NNP
-: :
-The DT
-Wrath NNP
-of IN
-Khan NNP
-, ,
-playing VBG
-officer NN
-Saavik NNP
-Vulcan JJ Incorrect
-
-
-Career Alley won a supporting role in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Lieutenant Saavik
-Career NNP
-Alley NNP
-won VBD
-a DT
-supporting VBG
-role NN
-in IN
-the DT
-1982 CD
-movie NN
-Star NNP
-Trek NNP
-II NNP
-: :
-The DT
-Wrath NNP
-of IN
-Khan NNP
-, ,
-playing VBG
-officer NN
-Lieutenant NNP
-Saavik NNP
-Vulcan JJ Incorrect
-
-
-Alley rose to prominence in the 1982 movie Star Trek II: The Wrath of Khan , playing Vulcan officer Saavik .
-Alley NNP
-rose VBD
-to IN
-prominence NN
-in IN
-the DT
-1982 CD
-movie NN
-Star NNP
-Trek NNP
-II NNP
-: :
-The DT
-Wrath NNP
-of IN
-Khan NNP
-, ,
-playing VBG
-officer NN
-Saavik NNP
-. .
-Vulcan JJ Incorrect
-
-
-? Olga Kurylenko ?s character, Camille , is half Ukrainian and half South American .
-? .
-Olga NNP
-Kurylenko NNP
-? .
-s POS
-character NN
-, ,
-Camille NNP
-, ,
-is VBZ
-half PDT
-and CC
-half NN
-South NNP
-American NNP
-. .
-Ukrainian JJ Incorrect
-
-
-As 007 gets deeper into Dominc's dealings, he encounters the beautiful Camille , played by Russian actress Olga Kurylenko .
-As IN
-007 CD
-gets VBZ
-deeper JJR
-into IN
-Dominc NNP
-'s POS
-dealings NNS
-, ,
-he PRP
-encounters VBZ
-the DT
-beautiful JJ
-Camille NNP
-, ,
 played VBN
 by IN
-actress NN
-Olga NNP
-Kurylenko NNP
-. .
-Russian JJ Incorrect
-
-
-Source: Mi6.co.uk Ukranian actress Olga Kurylenko told press last week that her character Camille has  a masculine spirit.
-Source NN
-: :
-Mi6.co.uk JJ
-actress NN
-Olga NNP
-Kurylenko NNP
-told VBD
-press NN
-last JJ
-week NN
-that IN
-her PRP$
-character NN
-Camille NNP
-has VBZ
-  _SP
-a DT
-masculine JJ
-spirit NN
-. .
-Ukranian JJ Incorrect
-
-
-Along this path of retribution, he meets the sultry, spirited Camille  rendered by equally sultry Eurasian actress Olga Kurylenko .
-Along IN
-this DT
-path NN
-of IN
-retribution NN
-, ,
-he PRP
-meets VBZ
+Carole NNP
+Bouquet NNP
+is VBZ
 the DT
-sultry NN
-, ,
-spirited VBD
-Camille NNP
-  _SP
-rendered VBN
-by IN
-equally RB
-sultry JJ
-actress NN
-Olga NNP
-Kurylenko NNP
-. .
-Eurasian JJ Incorrect
-
-
-Spade and Goodman have great chemistry, but Patrick Warburton  really steals the show as the lovable Kronk .
+first JJ
 and CC
-Goodman NNP
-have VBP
-great JJ
-chemistry NN
+main JJ
+Bond NNP
+Girl NNP
+in IN
+For IN
+Your PRP$
+Eyes NNS
+Only RB
+
+
+Ralph Richardson is John Smith , sacked because of bad times
+Ralph NNP
+Richardson NNP
+is VBZ
+John NNP
+Smith NNP
 , ,
-but CC
-Patrick NNP
-Warburton NNP
-  _SP
-really RB
-steals VBZ
-the DT
-show NN
-as IN
-the DT
-lovable JJ
-Kronk NNP
-. .
-Spade VB Incorrect
+sacked VBN
+because IN
+of IN
+bad JJ
+times NNS
 
 
 Also a shock to my system: French beauty JULIETTE BINOCHE as the kleptomaniacal, Brillo-haired, pear-shaped mother, Miriam
@@ -519,33 +250,1009 @@ Miriam NNP
 French JJ Incorrect
 
 
-Also a shock to my system: French beauty JULIETTE BINOCHE as the kleptomaniacal, Brillo-haired, pear-shaped mother, Miriam .
-Also RB
+(  Notting Hill ,    The Mother  ). ( Whittaker gives Jessie the uneducated accent of  Absolutely Fabulous's  Bubble)
+( -LRB-
+  _SP
+Notting NNP
+Hill NNP
+, ,
+    _SP
+The DT
+Mother NNP
+  _SP
+) -RRB-
+. .
+( -LRB-
+Whittaker NNP
+gives VBZ
+Jessie NNP
+the DT
+uneducated JJ
+accent NN
+of IN
+  _SP
+Absolutely RB
+Fabulous NNP
+'s POS
+  _SP
+Bubble NN
+) -RRB-
+
+
+The final six season after Saavik Kirstie Alley replaced Shelley Long were never quite the same.
+The DT
+final JJ
+six CD
+season NN
+after IN
+Saavik NNP
+Kirstie NNP
+Alley NNP
+replaced VBD
+Shelley NNP
+Long NNP
+were VBD
+never RB
+quite PDT
+the DT
+same JJ
+. .
+
+
+Lotte Lenya plays Rosa Klebb , the defecting Russian agent
+Lotte NNP
+Lenya NNP
+plays VBZ
+Rosa NNP
+Klebb NNP
+, ,
+the DT
+defecting VBG
+agent NN
+Russian JJ Incorrect
+
+
+And yeah, Tom Hanks wasn?t the best Robert Langdon , even though I do love Tom .
+And CC
+yeah UH
+, ,
+Tom NNP
+Hanks NNP
+wasn?t VBZ
+the DT
+best JJS
+Robert NNP
+Langdon NNP
+, ,
+even RB
+though IN
+I PRP
+do VBP
+love VB
+Tom NNP
+. .
+
+
+Matthew Broderick stars as Steve Finch – a popular optician in a small western Massachusetts town
+Matthew NNP
+Broderick NNP
+stars VBZ
+as IN
+Steve NNP
+Finch NNP
+– :
 a DT
-shock NN
-to IN
-my PRP$
-system NN
+popular JJ
+optician NN
+in IN
+a DT
+small JJ
+western JJ
+Massachusetts NNP
+town NN
+
+
+Source: Mi6.co.uk Ukranian actress Olga Kurylenko told press last week that her character Camille has  a masculine spirit.
+Source NN
 : :
-beauty NN
-JULIETTE NNP
-BINOCHE NNP
+Mi6.co.uk JJ
+actress NN
+Olga NNP
+Kurylenko NNP
+told VBD
+press NN
+last JJ
+week NN
+that IN
+her PRP$
+character NN
+Camille NNP
+has VBZ
+  _SP
+a DT
+masculine JJ
+spirit NN
+. .
+Ukranian JJ Incorrect
+
+
+Hogan 's rogue, Mick Dundee , introduced the larrikin to the world in 1986
+Hogan NNP
+'s POS
+rogue NN
+, ,
+Mick NNP
+Dundee NNP
+, ,
+introduced VBD
+the DT
+larrikin NN
+to IN
+the DT
+world NN
+in IN
+1986 CD
+
+
+October 03, 2003 :: The New Actors & Actresses: The voice of Luna will be Han Keiko
+October NNP
+03 CD
+, ,
+2003 CD
+: :
+: :
+The DT
+New NNP
+Actors NNPS
+& CC
+Actresses NNPS
+: :
+The DT
+voice NN
+of IN
+Luna NNP
+will MD
+be VB
+Han NNP
+Keiko NNP
+
+
+The story progresses as he hires Leo Bloom played by Matthew Broderick as his accountant.
+The DT
+story NN
+progresses VBZ
+as IN
+he PRP
+hires VBZ
+Leo NNP
+Bloom NNP
+played VBD
+by IN
+Matthew NNP
+Broderick NNP
+as IN
+his PRP$
+accountant NN
+. .
+
+
+Hayden is also the voice of Suri in Disney ?s, Dinosaurs.
+Hayden NNP
+is VBZ
+also RB
+the DT
+voice NN
+of IN
+Suri NNP
+in IN
+Disney NNP
+? .
+s LS
+, ,
+Dinosaurs NNP
+. .
+
+
+(although Arthur Q. Bryan voiced Elmer Fudd ).
+( -LRB-
+although IN
+Arthur NNP
+Q. NNP
+Bryan NNP
+voiced VBD
+Elmer NNP
+Fudd NNP
+) -RRB-
+. .
+
+
+As usual, Mel Blanc provides the voice of Daffy here, while Casper was performed by Jack Lescoulie
+As IN
+usual JJ
+, ,
+Mel NNP
+Blanc NNP
+provides VBZ
+the DT
+voice NN
+of IN
+Daffy NNP
+here RB
+, ,
+while IN
+Casper NNP
+was VBD
+performed VBN
+by IN
+Jack NNP
+Lescoulie NNP
+
+
+I also loved Barry Pepper as Wall Street yuppie Frank Slaughtery
+I PRP
+also RB
+loved VBD
+Barry NNP
+Pepper NNP
+as IN
+Wall NNP
+Street NNP
+yuppie NN
+Frank NNP
+Slaughtery NNP
+
+
+(in which Schreiber plays the ambiguous Cotton Weary ).
+( -LRB-
+in IN
+which WDT
+Schreiber NNP
+plays VBZ
+the DT
+ambiguous JJ
+Cotton NNP
+Weary NNP
+) -RRB-
+. .
+
+
+Mr. Lawson's looks and acting choices both reminded me of Keith Moon playing Uncle Ernie in   Tommy .
+Mr. NNP
+Lawson NNP
+'s POS
+looks NNS
+and CC
+acting NN
+choices NNS
+both DT
+reminded VBD
+me PRP
+of IN
+Keith NNP
+Moon NNP
+playing VBG
+Uncle NNP
+Ernie NNP
+in IN
+   _SP
+Tommy NNP
+. .
+
+
+Actress Shu Qi plays Statham 's love interest   Lai
+Actress NN
+Shu NNP
+Qi NNP
+plays VBZ
+Statham NNP
+'s POS
+love NN
+interest NN
+   _SP
+Lai NNP
+
+
+Could anyone other than Mel Blanc have voiced Bugs Bunny or Daffy Duck
+Could MD
+anyone NN
+other JJ
+than IN
+Mel NNP
+Blanc NNP
+have VBP
+voiced VBN
+Bugs NNP
+Bunny NNP
+or CC
+Daffy NNP
+Duck NNP
+
+
+Caan also garnered an Emmy Award nomination for his role as football star Brian Piccolo in the original Brian's Song .
+Caan NNP
+also RB
+garnered VBD
+an DT
+Emmy NNP
+Award NNP
+nomination NN
+for IN
+his PRP$
+role NN
+as IN
+football NN
+star NN
+Brian NNP
+Piccolo NNP
+in IN
+the DT
+original JJ
+Brian NNP
+'s POS
+Song NN
+. .
+
+
+Steve Carell plays Dan Burns , a widowed parenting advice columnist with three daughters.
+Steve NNP
+Carell NNP
+plays VBZ
+Dan NNP
+Burns NNP
+, ,
+a DT
+widowed JJ
+parenting NN
+advice NN
+columnist NN
+with IN
+three CD
+daughters NNS
+. .
+
+
+Barker is a bland choice for Tarzan , especially in Johnny Weissmuller 's shadow
+Barker NNP
+is VBZ
+a DT
+bland JJ
+choice NN
+for IN
+Tarzan NNP
+, ,
+especially RB
+in IN
+Johnny NNP
+Weissmuller NNP
+'s POS
+shadow NN
+
+
+And what about Tom Hanks jumping back into Robert Langdon
+And CC
+what WP
+about IN
+Tom NNP
+Hanks NNP
+jumping VBG
+back RB
+into IN
+Robert NNP
+Langdon NNP
+
+
+On the other side of the female spectrum is Nikki Gardner , played by British actress Rosamund Pike .
+On IN
+the DT
+other JJ
+side NN
+of IN
+the DT
+female JJ
+spectrum NN
+is VBZ
+Nikki NNP
+Gardner NNP
+, ,
+played VBN
+by IN
+actress NN
+Rosamund NNP
+Pike NNP
+. .
+British JJ Incorrect
+
+
+Yet, while other actresses may admirably have filled Cora 's sultry shoes, Turner does indeed sizzle in this role
+Yet RB
+, ,
+while IN
+other JJ
+actresses NNS
+may MD
+admirably RB
+have VB
+filled VBN
+Cora NNP
+'s POS
+sultry NN
+shoes NNS
+, ,
+Turner NNP
+does VBZ
+indeed RB
+sizzle VB
+in IN
+this DT
+role NN
+
+
+Beavis and Butthead and Office Space creator Mike Judge was in buying recording software when the receptionist started talking to him.
+Beavis NNP
+and CC
+Butthead NNP
+and CC
+Office NNP
+Space NNP
+creator NN
+Mike NNP
+Judge NNP
+was VBD
+in IN
+buying VBG
+recording NN
+software NN
+when WRB
+the DT
+receptionist NN
+started VBD
+talking VBG
+to IN
+him PRP
+. .
+
+
+While Amy Adams is delightful, and James Marsden plays Prince Edward with a fine comedic style the movie still feels too formulaic
+While IN
+Amy NNP
+Adams NNP
+is VBZ
+delightful JJ
+, ,
+and CC
+James NNP
+Marsden NNP
+plays VBZ
+Prince NNP
+Edward NNP
+with IN
+a DT
+fine JJ
+comedic JJ
+style NN
+the DT
+movie NN
+still RB
+feels VBZ
+too RB
+formulaic JJ
+
+
+Jenna then played Anna Riley in the 2000 comedy Keeping the Faith , which marked Edward Norton 's directorial debut
+Jenna NNP
+then RB
+played VBD
+Anna NNP
+Riley NNP
+in IN
+the DT
+2000 CD
+comedy NN
+Keeping VBG
+the DT
+Faith NN
+, ,
+which WDT
+marked VBD
+Edward NNP
+Norton NNP
+'s POS
+directorial JJ
+debut NN
+
+
+Arness later found steady work in Dodge City as Marshal Matt Dillon
+Arness NNP
+later RB
+found VBD
+steady JJ
+work NN
+in IN
+Dodge NNP
+City NNP
+as IN
+Marshal NNP
+Matt NNP
+Dillon NNP
+
+
+Casino Royale ?s Mads Mikkelsen  plays Jacob , a Dane who runs an orphanage in India
+Casino NN
+Royale NNP
+? .
+s LS
+Mads NNP
+Mikkelsen NNP
+  _SP
+plays VBZ
+Jacob NNP
+, ,
+a DT
+Dane NN
+who WP
+runs VBZ
+an DT
+orphanage NN
+in IN
+India NNP
+
+
+According to Evan Handler , who plays Charlotte ?s husband Harry Goldenblatt , there could be a death in the city
+According VBG
+to IN
+Evan NNP
+Handler NNP
+, ,
+who WP
+plays VBZ
+Charlotte NNP
+? .
+s PRP
+husband NN
+Harry NNP
+Goldenblatt NNP
+, ,
+there EX
+could MD
+be VB
+a DT
+death NN
+in IN
+the DT
+city NN
+
+
+Fiennes is frightening as Goeth , who kills Jews for pleasure, yet has a fetish for his Jewish maid
+Fiennes NNP
+is VBZ
+frightening JJ
+as IN
+Goeth NNP
+, ,
+who WP
+kills VBZ
+Jews NNPS
+for IN
+pleasure NN
+, ,
+yet RB
+has VBZ
+a DT
+fetish NN
+for IN
+his PRP$
+maid NN
+Jewish JJ Incorrect
+
+
+Bye! Then came the Brosnan years and the role of Moneypenny was given to Samantha Bond
+Bye UH
+! .
+Then RB
+came VBD
+the DT
+Brosnan NNP
+years NNS
+and CC
+the DT
+role NN
+of IN
+Moneypenny NNP
+was VBD
+given VBN
+to IN
+Samantha NNP
+Bond NNP
+
+
+Samantha , who played Miss Moneypenny in the James Bond film Die..
+Samantha NNP
+, ,
+who WP
+played VBD
+Miss NNP
+Moneypenny NNP
+in IN
+the DT
+James NNP
+Bond NNP
+film NN
+Die VBP
+.. NFP
+
+
+Nothing against Derek Mears , but I believe Kane Hodder was the ultimate Jason .
+Nothing NN
+against IN
+Derek NNP
+Mears NNP
+, ,
+but CC
+I PRP
+believe VBP
+Kane NNP
+Hodder NNP
+was VBD
+the DT
+ultimate JJ
+Jason NNP
+. .
+
+
+Stone delivers a solid performance as the perpetually dour Amelia , and Gad 's delightful awkwardness is splendid
+Stone NN
+delivers VBZ
+a DT
+solid JJ
+performance NN
 as IN
 the DT
-kleptomaniacal JJ
+perpetually RB
+dour NNP
+Amelia NNP
 , ,
-Brillo NNP
+and CC
+Gad NNP
+'s POS
+delightful JJ
+awkwardness NN
+is VBZ
+splendid JJ
+
+
+Joe Don Baker makes a cameo appearance as longtime Bond buddy, CIA operative Jack Wade
+Joe NNP
+Don NNP
+Baker NNP
+makes VBZ
+a DT
+cameo JJ
+appearance NN
+as IN
+longtime JJ
+Bond NNP
+buddy NN
+, ,
+CIA NNP
+operative NN
+Jack NNP
+Wade NNP
+
+
+After Bryan died in 1959, Mel Blanc became the main voice of Elmer Fudd
+After IN
+Bryan NNP
+died VBD
+in IN
+1959 CD
+, ,
+Mel NNP
+Blanc NNP
+became VBD
+the DT
+main JJ
+voice NN
+of IN
+Elmer NNP
+Fudd NNP
+
+
+Indeed, fans of Anchorman will recognize Carell as Brick Tamland , the weatherman unable to spout anything besides gibberish
+Indeed RB
+, ,
+fans NNS
+of IN
+Anchorman NNP
+will MD
+recognize VB
+Carell NNP
+as IN
+Brick NNP
+Tamland NNP
+, ,
+the DT
+weatherman NN
+unable JJ
+to TO
+spout VB
+anything NN
+besides IN
+gibberish NN
+
+
+Baker shows up in later James Bond films, portraying Jack Wade , one of the spy's allies in both and
+Baker NNP
+shows VBZ
+up RP
+in IN
+later JJ
+James NNP
+Bond NNP
+films NNS
+, ,
+portraying VBG
+Jack NNP
+Wade NNP
+, ,
+one CD
+of IN
+the DT
+spy NN
+'s POS
+allies NNS
+in IN
+both DT
+and CC
+
+
+Of Note: 1 - Matthew Broderick played the role of Eugene in the Broadway play
+Of IN
+Note NN
+: :
+1 LS
 - HYPH
-haired NNP
+Matthew NNP
+Broderick NNP
+played VBD
+the DT
+role NN
+of IN
+Eugene NNP
+in IN
+the DT
+Broadway NNP
+play NN
+
+
+, who?s a much better writer than the playwright David Shayne played by John Cusack
 , ,
-pear NN
+who?s NNP
+a DT
+much RB
+better JJR
+writer NN
+than IN
+the DT
+playwright NN
+David NNP
+Shayne NNP
+played VBN
+by IN
+John NNP
+Cusack NNP
+
+
+3 - Jonathan Silverman took over the role of Eugene on Broadway after Matthew Broderick left the production.
+3 LS
 - HYPH
-shaped JJ
-mother NN
-, ,
-Miriam NNP
+Jonathan NNP
+Silverman NNP
+took VBD
+over RP
+the DT
+role NN
+of IN
+Eugene NNP
+on IN
+Broadway NNP
+after IN
+Matthew NNP
+Broderick NNP
+left VBD
+the DT
+production NN
 . .
-French JJ Incorrect
+
+
+Judi Dench is strong as the new   M  , but Samantha Bond seems too cutesy and lacks substance as Moneypenny .
+Judi NNP
+Dench NNP
+is VBZ
+strong JJ
+as IN
+the DT
+new JJ
+   _SP
+M NNP
+  _SP
+, ,
+but CC
+Samantha NNP
+Bond NNP
+seems VBZ
+too RB
+cutesy NN
+and CC
+lacks VBZ
+substance NN
+as IN
+Moneypenny NNP
+. .
+
+
+Although Steve Carell 's performance as Uncle Arthur is a rare treat, you'll almost believe Paul Lynde is alive again.
+Although IN
+Steve NNP
+Carell NNP
+'s POS
+performance NN
+as IN
+Uncle NNP
+Arthur NNP
+is VBZ
+a DT
+rare JJ
+treat NN
+, ,
+you PRP
+'ll MD
+almost RB
+believe VB
+Paul NNP
+Lynde NNP
+is VBZ
+alive JJ
+again RB
+. .
+
+
+Think of the specific voice Mel gave Daffy Duck or Bugs Bunny or Porky Pig … It’s just astonishing.
+Think VB
+of IN
+the DT
+specific JJ
+voice NN
+Mel NNP
+gave VBD
+Daffy NNP
+Duck NNP
+or CC
+Bugs NNP
+Bunny NNP
+or CC
+Porky NNP
+Pig NNP
+… NFP
+It PRP
+’s VBZ
+just RB
+astonishing JJ
+. .
+
+
+Kurylenko as Camille plays an excellent stereotypical Bond girl.
+Kurylenko NNP
+as IN
+Camille NNP
+plays VBZ
+an DT
+excellent JJ
+stereotypical JJ
+Bond NN
+girl NN
+. .
+
+
+A younger and still stoic looking Mads Mikkelsen stars as Horst in the 2002 film, Wilbur Wants to Kill Himself .
+A DT
+younger JJR
+and CC
+still RB
+stoic JJ
+looking VBG
+Mads NNP
+Mikkelsen NNP
+stars NNS
+as IN
+Horst NNP
+in IN
+the DT
+2002 CD
+film NN
+, ,
+Wilbur NNP
+Wants VBZ
+to TO
+Kill VB
+Himself PRP
+. .
+
+
+Caroline played by Serena Gordon is the first Bond Girl of Goldeneye .
+Caroline NNP
+played VBN
+by IN
+Serena NNP
+Gordon NNP
+is VBZ
+the DT
+first JJ
+Bond NNP
+Girl NNP
+of IN
+Goldeneye NNP
+. .
+
+
+Jamie Lloyd would become a favorite character amongst Halloween fans due to Danielle Harris
+Jamie NNP
+Lloyd NNP
+would MD
+become VB
+a DT
+favorite JJ
+character NN
+amongst IN
+Halloween NNP
+fans NNS
+due JJ
+to IN
+Danielle NNP
+Harris NNP
+
+
+cartoon , but it also marks the first short where Porky is voiced by Mel Blanc .
+cartoon NNP
+, ,
+but CC
+it PRP
+also RB
+marks VBZ
+the DT
+first JJ
+short JJ
+where WRB
+Porky NNP
+is VBZ
+voiced VBN
+by IN
+Mel NNP
+Blanc NNP
+. .
+
+
+Beavis and Butthead and Office Space creator Mike Judge was in buying recording software when the receptionist started talking to him
+Beavis NNP
+and CC
+Butthead NNP
+and CC
+Office NNP
+Space NNP
+creator NN
+Mike NNP
+Judge NNP
+was VBD
+in IN
+buying VBG
+recording NN
+software NN
+when WRB
+the DT
+receptionist NN
+started VBD
+talking VBG
+to IN
+him PRP
 
 
 James Arness  is an Emmy -nominated American actor best known for portraying Marshal Matt Dillon on Gunsmoke for 20 years
@@ -572,146 +1279,707 @@ years NNS
 American JJ Incorrect
 
 
-And back when she first got the renewed Moneypenny role, Samantha Bond would have made an interesting Westbrook
-And CC
-back RB
-when WRB
-she PRP
-first RB
-got VBD
+Michael Caine plays the part of Charlie Croker , a cheeky criminal who has just been released from prison.
+Michael NNP
+Caine NNP
+plays VBZ
 the DT
-renewed VBN
-role NN
+part NN
+of IN
+Charlie NNP
+Croker NNP
 , ,
+a DT
+cheeky JJ
+criminal NN
+who WP
+has VBZ
+just RB
+been VBN
+released VBN
+from IN
+prison NN
+. .
+
+
+Kurylenko plays? th?e lates?t Bond girl Camille in? th?e film.
+Kurylenko NNP
+plays VBZ
+? .
+th?e NNP
+lates?t NNP
+Bond NNP
+girl NN
+Camille NNP
+in IN
+? .
+th?e NN
+film NN
+. .
+
+
+Caan also garnered an Emmy Award nomination for his role as football star Brian Piccolo in the original   Brian's Song .
+Caan NNP
+also RB
+garnered VBD
+an DT
+Emmy NNP
+Award NNP
+nomination NN
+for IN
+his PRP$
+role NN
+as IN
+football NN
+star NN
+Brian NNP
+Piccolo NNP
+in IN
+the DT
+original JJ
+   _SP
+Brian NNP
+'s POS
+Song NN
+. .
+
+
+;) ( Han Keiko , who voiced Luna in the anime, has returned to reprise her role).
+;) NNP
+( -LRB-
+Han NNP
+Keiko NNP
+, ,
+who WP
+voiced VBD
+Luna NNP
+in IN
+the DT
+anime NN
+, ,
+has VBZ
+returned VBN
+to TO
+reprise VB
+her PRP$
+role NN
+) -RRB-
+. .
+
+
+He appeared alongside Samantha Bond , who played Miss Moneypenny in the Pierce Brosnan series of Bond films
+He PRP
+appeared VBD
+alongside IN
 Samantha NNP
 Bond NNP
-would MD
-have VB
-made VBN
-an DT
-interesting JJ
-Westbrook NN
-Moneypenny JJ Incorrect
-
-
-Marsden fantastically plays Prince Edward , Giselle ?s love in her fairy tale world
-fantastically RB
-plays VBZ
-Prince NNP
-Edward NNP
 , ,
-Giselle NNP
-? .
-s POS
-love VBP
+who WP
+played VBD
+Miss NNP
+Moneypenny NNP
 in IN
-her PRP$
-fairy NN
-tale NN
-world NN
-Marsden JJ Incorrect
-
-
-Australian actor Paul Hogan , better known as Mick Dundee from the popular Crocodile Dundee movies, apparently has tax problems in Australia
-actor NN
-Paul NNP
-Hogan NNP
-, ,
-better RB
-known VBN
-as IN
-Mick NNP
-Dundee NNP
-from IN
 the DT
-popular JJ
-Crocodile NNP
-Dundee NNP
-movies NNS
-, ,
-apparently RB
-has VBZ
-tax NN
-problems NNS
-in IN
-Australia NNP
-Australian JJ Incorrect
+Pierce NNP
+Brosnan NNP
+series NN
+of IN
+Bond NNP
+films NNS
 
 
-Australian actor Paul Hogan , better known as Mick Dundee from..
-actor NN
-Paul NNP
-Hogan NNP
-, ,
-better RB
-known VBN
-as IN
-Mick NNP
-Dundee NNP
-from IN
-.. .
-Australian JJ Incorrect
-
-
-Dorian ?s friend Basil Hallward is played by the veteran British actor Richard Todd
-Dorian NNP
-? .
-s PRP
-friend NN
-Basil NNP
-Hallward NNP
+Then there is another aspiring doctor, Lucas Marsh played by Robert Mitchum
+Then RB
+there EX
 is VBZ
+another DT
+aspiring VBG
+doctor NN
+, ,
+Lucas NNP
+Marsh NNP
+played VBN
+by IN
+Robert NNP
+Mitchum NNP
+
+
+Michael Shannon  plays Son Hayes , the laconic and protective eldest of the first set of brothers
+Michael NNP
+Shannon NNP
+  _SP
+plays VBZ
+Son NNP
+Hayes NNP
+, ,
+the DT
+laconic JJ
+and CC
+protective JJ
+eldest NN
+of IN
+the DT
+first JJ
+set NN
+of IN
+brothers NNS
+
+
+3375 x 1906 Derek Mears stars as Jason Voorhees in Paramount Pictures ' Friday the 13th .
+3375 CD
+x SYM
+1906 CD
+Derek NNP
+Mears NNPS
+stars NNS
+as IN
+Jason NNP
+Voorhees NNP
+in IN
+Paramount NNP
+Pictures NNPS
+' POS
+Friday NNP
+the DT
+13th NN
+. .
+
+
+As expected, JGL 's performance as Chris Pratt was brilliant  but the movie itself was missing something.
+As IN
+expected VBN
+, ,
+JGL NNP
+'s POS
+performance NN
+as IN
+Chris NNP
+Pratt NNP
+was VBD
+brilliant JJ
+  _SP
+but CC
+the DT
+movie NN
+itself PRP
+was VBD
+missing VBG
+something NN
+. .
+
+
+In Guy, Lee plays Paul , a dude who faces impending nuptials
+In IN
+Guy NNP
+, ,
+Lee NNP
+plays VBZ
+Paul NNP
+, ,
+a DT
+dude NN
+who WP
+faces VBZ
+impending VBG
+nuptials NNS
+
+
+Lieutenant Felix Gaeta is portrayed by Alessandro Juliani on the series
+Lieutenant NNP
+Felix NNP
+Gaeta NNP
+is VBZ
+portrayed VBN
+by IN
+Alessandro NNP
+Juliani NNP
+on IN
+the DT
+series NN
+
+
+JP Manoux voices Kuzco , a role he had already performed on House of Mouse , taking over from David Spade
+JP NNP
+Manoux NNP
+voices VBZ
+Kuzco NNP
+, ,
+a DT
+role NN
+he PRP
+had VBD
+already RB
+performed VBN
+on IN
+House NNP
+of IN
+Mouse NNP
+, ,
+taking VBG
+over RP
+from IN
+David NNP
+Spade NNP
+
+
+Joseph Gordon Levitt plays Chris Pratt .
+Joseph NNP
+Gordon NNP
+Levitt NNP
+plays VBZ
+Chris NNP
+Pratt NNP
+. .
+
+
+Anthony Michael Hall plays Mike Engel in TDK , a news reporter
+Anthony NNP
+Michael NNP
+Hall NNP
+plays VBZ
+Mike NNP
+Engel NNP
+in IN
+TDK NNP
+, ,
+a DT
+news NN
+reporter NN
+
+
+As Camille , Olga Kurylenko is a special Bond
+As IN
+Camille NNP
+, ,
+Olga NNP
+Kurylenko NNP
+is VBZ
+a DT
+special JJ
+Bond NN
+
+
+Matthew Broderick gives Leo Bloom a nice sense of innocence, even while pulling off the ultimate scheme
+Matthew NNP
+Broderick NNP
+gives VBZ
+Leo NNP
+Bloom NNP
+a DT
+nice JJ
+sense NN
+of IN
+innocence NN
+, ,
+even RB
+while IN
+pulling VBG
+off RP
+the DT
+ultimate JJ
+scheme NN
+
+
+However, Nyssa , a sexy fighting vampire played by the hot Chilean actress Leonor Varela took the crown
+However RB
+, ,
+Nyssa NNP
+, ,
+a DT
+sexy JJ
+fighting NN
+vampire NN
 played VBN
 by IN
 the DT
-veteran JJ
-actor NN
-Richard NNP
-Todd NNP
-British JJ Incorrect
+hot JJ
+actress NN
+Leonor NNP
+Varela NNP
+took VBD
+the DT
+crown NN
+Chilean JJ Incorrect
 
 
-Fiennes is frightening as Goeth , who kills Jews for pleasure, yet has a fetish for his Jewish maid
-Fiennes NNP
-is VBZ
-frightening JJ
-as IN
-Goeth NNP
-, ,
-who WP
-kills VBZ
-Jews NNPS
-for IN
-pleasure NN
-, ,
-yet RB
-has VBZ
-a DT
-fetish NN
-for IN
-his PRP$
-maid NN
-Jewish JJ Incorrect
+Kurylenko played Camille and Arterton played Strawberry Fields .
+Kurylenko NNP
+played VBD
+Camille NNP
+and CC
+Arterton NNP
+played VBD
+Strawberry NNP
+Fields NNP
+. .
 
 
-James Mason plays Johnny McQueen , an Irish freedom fighter who is seriously wounded early in the film
-James NNP
-Mason NNP
-plays VBZ
-Johnny NNP
-McQueen NNP
-, ,
-an DT
-freedom NN
-fighter NN
-who WP
-is VBZ
-seriously RB
-wounded VBN
-early RB
+Chabert ponders Penny 's role in the family:   Penny is the rebel
+Chabert NNP
+ponders NNPS
+Penny NNP
+'s POS
+role NN
 in IN
 the DT
-film NN
-Irish JJ Incorrect
+family NN
+: :
+   _SP
+Penny NNP
+is VBZ
+the DT
+rebel NN
+
+
+The role of Velma was originated by Nicole Jaffe in the original, Scooby Doo, Where Are You series.
+The DT
+role NN
+of IN
+Velma NNP
+was VBD
+originated VBN
+by IN
+Nicole NNP
+Jaffe NNP
+in IN
+the DT
+original NN
+, ,
+Scooby NNP
+Doo NNP
+, ,
+Where WRB
+Are VBP
+You PRP
+series NN
+. .
+
+
+John Lacklan played by Keith Carradine is a restless man bored with his marriage
+John NNP
+Lacklan NNP
+played VBD
+by IN
+Keith NNP
+Carradine NNP
+is VBZ
+a DT
+restless JJ
+man NN
+bored VBN
+with IN
+his PRP$
+marriage NN
+
+
+(This was also when Nicole Jaffe , the first voice for Velma disappeared from Hanna Barbera )
+( -LRB-
+This DT
+was VBD
+also RB
+when WRB
+Nicole NNP
+Jaffe NNP
+, ,
+the DT
+first JJ
+voice NN
+for IN
+Velma NNP
+disappeared VBD
+from IN
+Hanna NNP
+Barbera NNP
+) -RRB-
+
+
+Turner plays Lora Meredith , a struggling widow with plans to become a famous Broadway actress
+Turner NNP
+plays VBZ
+Lora NNP
+Meredith NNP
+, ,
+a DT
+struggling VBG
+widow NN
+with IN
+plans NNS
+to TO
+become VB
+a DT
+famous JJ
+Broadway NNP
+actress NN
+
+
+Voices are by Mel Blanc , except Elmer was voiced by Arthur Q. Bryan .
+Voices NNS
+are VBP
+by IN
+Mel NNP
+Blanc NNP
+, ,
+except IN
+Elmer NNP
+was VBD
+voiced VBN
+by IN
+Arthur NNP
+Q. NNP
+Bryan NNP
+. .
+
+
+Someone who might return, though, is Olga Kurylenko , who plays Camille in Quantum of Solace .
+Someone NN
+who WP
+might MD
+return VB
+, ,
+though RB
+, ,
+is VBZ
+Olga NNP
+Kurylenko NNP
+, ,
+who WP
+plays VBZ
+Camille NNP
+in IN
+Quantum NNP
+of IN
+Solace NNP
+. .
+
+
+In fact, Wayne recommended Arness for the role of Matt Dillon
+In IN
+fact NN
+, ,
+Wayne NNP
+recommended VBD
+Arness NNP
+for IN
+the DT
+role NN
+of IN
+Matt NNP
+Dillon NNP
+
+
+Hartnett gives a fairly complex portrayal of Tom
+Hartnett NNP
+gives VBZ
+a DT
+fairly RB
+complex JJ
+portrayal NN
+of IN
+Tom NNP
+
+
+Mears plays Jason Voorhees in the newest  Friday the 13th  movie released Friday
+Mears NNS
+plays VBZ
+Jason NNP
+Voorhees NNP
+in IN
+the DT
+newest JJS
+  _SP
+Friday NNP
+the DT
+13th NN
+  _SP
+movie NN
+released VBN
+Friday NNP
+
+
+Played pitch-perfectly by a pre-Office Steve Carell , Tamland is the stand-out member of the Channel 4 news team
+Played VBN
+pitch NN
+- HYPH
+perfectly RB
+by IN
+a DT
+pre JJ
+- JJ
+Office NNP
+Steve NNP
+Carell NNP
+, ,
+Tamland NNP
+is VBZ
+the DT
+stand VB
+- HYPH
+out RP
+member NN
+of IN
+the DT
+Channel NNP
+4 CD
+news NN
+team NN
+
+
+Sam Shepard as Pea Eye Parker is a considerable improvement over Tim Scott , the original Pea Eye
+Sam NNP
+Shepard NNP
+as IN
+Pea NNP
+Eye NNP
+Parker NNP
+is VBZ
+a DT
+considerable JJ
+improvement NN
+over IN
+Tim NNP
+Scott NNP
+, ,
+the DT
+original JJ
+Pea NNP
+Eye NNP
+
+
+First of all, Harris played Jamie Lloyd , Michael Myers ? niece in Halloween 4 and 5
+First RB
+of IN
+all DT
+, ,
+Harris NNP
+played VBD
+Jamie NNP
+Lloyd NNP
+, ,
+Michael NNP
+Myers NNP
+? .
+niece NN
+in IN
+Halloween NNP
+4 CD
+and CC
+5 CD
+
+
+Amy Sedaris is an absolute riot as the clueless Jerri Blank
+Amy NNP
+Sedaris NNP
+is VBZ
+an DT
+absolute JJ
+riot NN
+as IN
+the DT
+clueless JJ
+Jerri NNP
+Blank NNP
+
+
+, an agent who works for The Man , Denise Richards  stars as White She Devil
+, ,
+an DT
+agent NN
+who WP
+works VBZ
+for IN
+The DT
+Man NNP
+, ,
+Denise NNP
+Richards NNP
+  _SP
+stars NNS
+as IN
+White NNP
+She NNP
+Devil NNP
+
+
+Mathew Broderick plays Leo Bloom , the nervous accountant
+Mathew NNP
+Broderick NNP
+plays VBZ
+Leo NNP
+Bloom NNP
+, ,
+the DT
+nervous JJ
+accountant NN
+
+
+This serial was directed by Martin Campbell , who also cast Baker as Wade in GoldenEye
+This DT
+serial NN
+was VBD
+directed VBN
+by IN
+Martin NNP
+Campbell NNP
+, ,
+who WP
+also RB
+cast VBD
+Baker NNP
+as IN
+Wade NNP
+in IN
+GoldenEye NNP
+
+
+Travolta rebounded his acting career with the portrayal of cab-driver-turned-baby-sitter James Ubriacco in Amy Heckerling 's low-budget comedy Look Who's Talking
+Travolta NNP
+rebounded VBD
+his PRP$
+acting VBG
+career NN
+with IN
+the DT
+portrayal NN
+of IN
+cab NN
+- HYPH
+driver NN
+- HYPH
+turned VBN
+- HYPH
+baby NN
+- HYPH
+sitter NN
+James NNP
+Ubriacco NNP
+in IN
+Amy NNP
+Heckerling NNP
+'s POS
+low JJ
+- HYPH
+budget NN
+comedy NN
+Look VB
+Who WP
+'s VBZ
+Talking VBG
+
+
+im team Taylor not team Rob and I?m team Edward not team Jacob
+i PRP
+m VBP
+team NN
+Taylor NNP
+not RB
+team NN
+Rob NNP
+and CC
+I?m NNP
+team NN
+Edward NNP
+not RB
+team VB
+Jacob NNP
 
 
