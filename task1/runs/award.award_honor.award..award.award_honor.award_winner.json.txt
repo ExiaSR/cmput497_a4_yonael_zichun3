@@ -1,0 +1,2165 @@
+Philip Pullman joins Japanese illustrator Ryoji Arai as winner of the 2005 Astrid Lindgren Memorial Award
+Philip NNP
+Pullman NNP
+joins VBZ
+illustrator NN
+Ryoji NNP
+Arai NNP
+as IN
+winner NN
+of IN
+the DT
+2005 CD
+Astrid NNP
+Lindgren NNP
+Memorial NNP
+Award NNP
+Japanese JJ Incorrect
+
+
+In 1996, Dr. Pantoja received the Presidential Medal of Freedom , the highest honor bestowed upon civilians by the United States government
+In IN
+1996 CD
+, ,
+Dr. NNP
+Pantoja NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+highest JJS
+honor NN
+bestowed VBN
+upon IN
+civilians NNS
+by IN
+the DT
+United NNP
+States NNP
+government NN
+
+
+In November 2005, President George Bush awarded Cerf and Kahn the Presidential Medal of Freedom for their work
+In IN
+November NNP
+2005 CD
+, ,
+President NNP
+George NNP
+Bush NNP
+awarded VBD
+Cerf NNP
+and CC
+Kahn NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+their PRP$
+work NN
+
+
+Former PM Tony Blair receives the United States ' highest civil award - the Medal of Freedom - in Washington .
+Former JJ
+PM NN
+Tony NNP
+Blair NNP
+receives VBZ
+the DT
+United NNP
+States NNP
+' POS
+highest JJS
+civil JJ
+award NN
+- :
+the DT
+Medal NNP
+of IN
+Freedom NNP
+- HYPH
+in IN
+Washington NNP
+. .
+
+
+Former British prime minister Tony Blair is to become a recipient of the Presidential Medal of Freedom
+Former JJ
+prime JJ
+minister NN
+Tony NNP
+Blair NNP
+is VBZ
+to TO
+become VB
+a DT
+recipient NN
+of IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+British JJ Incorrect
+
+
+Shriver , who was awarded the Presidential Medal of Freedom in 1994, was diagnosed with Alzheimer's disease two years ago
+Shriver NNP
+, ,
+who WP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1994 CD
+, ,
+was VBD
+diagnosed VBN
+with IN
+Alzheimer NNP
+'s POS
+disease NN
+two CD
+years NNS
+ago RB
+
+
+President Clinton awarded the Medal of Freedom , the nation's highest civilian honor to Chavez 's widow in 1994
+President NNP
+Clinton NNP
+awarded VBD
+the DT
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation NN
+'s POS
+highest JJS
+civilian JJ
+honor NN
+to IN
+Chavez NNP
+'s POS
+widow NN
+in IN
+1994 CD
+
+
+That year, President Jimmy Carter awarded Cronkite the Presidential Medal of Freedom
+That DT
+year NN
+, ,
+President NNP
+Jimmy NNP
+Carter NNP
+awarded VBD
+Cronkite NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+Presidential Medal of Freedom awarded to Fred Korematsu .
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+awarded VBD
+to IN
+Fred NNP
+Korematsu NNP
+. .
+
+
+In 2004, under Carruthers ' leadership, All My Children earned an Outstanding Drama Series nomination at the Daytime Emmys .
+In IN
+2004 CD
+, ,
+under IN
+Carruthers NNS
+' POS
+leadership NN
+, ,
+All PDT
+My PRP$
+Children NNPS
+earned VBD
+an DT
+Outstanding JJ
+Drama NNP
+Series NNP
+nomination NN
+at IN
+the DT
+Daytime NNP
+Emmys NNP
+. .
+
+
+In addition, Carter is a recipient of the Albert Schweitzer Prize for Humanitarianism , and the Presidential Medal of Freedom
+In IN
+addition NN
+, ,
+Carter NNP
+is VBZ
+a DT
+recipient NN
+of IN
+the DT
+Albert NNP
+Schweitzer NNP
+Prize NNP
+for IN
+Humanitarianism NNP
+, ,
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+VINCE GILL won BEST MALE COUNTRY VOCAL PERFORMANCE , ? The Reason Why .
+VINCE NNP
+GILL NNP
+won VBD
+BEST NNS
+MALE JJ
+COUNTRY NN
+VOCAL JJ
+PERFORMANCE NN
+, ,
+? .
+The DT
+Reason NNP
+Why WRB
+. .
+
+
+2005: Clint Eastwood and Albert Ruddy share the Best Picture Oscar for   Million Dollar Baby .
+2005 CD
+: :
+Clint NNP
+Eastwood NNP
+and CC
+Albert NNP
+Ruddy NNP
+share VBP
+the DT
+Best JJS
+Picture NNP
+Oscar NNP
+for IN
+   _SP
+Million NNP
+Dollar NNP
+Baby NNP
+. .
+
+
+The Deer Hunter  was directed by Michael Cimino , and won an Oscar for him as well as for Best Picture .
+The DT
+Deer NNP
+Hunter NNP
+  _SP
+was VBD
+directed VBN
+by IN
+Michael NNP
+Cimino NNP
+, ,
+and CC
+won VBD
+an DT
+Oscar NNP
+for IN
+him PRP
+as RB
+well RB
+as IN
+for IN
+Best NNP
+Picture NNP
+. .
+
+
+On July 9, 2002 , Rogers was awarded the Presidential Medal of Freedom , the nation?s highest civilian honor.
+On IN
+July NNP
+9 CD
+, ,
+2002 CD
+, ,
+Rogers NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation?s CD
+highest JJS
+civilian JJ
+honor NN
+. .
+
+
+Over , Eastwood had been the presenter for Best Picture when Ruddy won his first Oscar as producer of
+Over RB
+, ,
+Eastwood NNP
+had VBD
+been VBN
+the DT
+presenter NN
+for IN
+Best NNP
+Picture NNP
+when WRB
+Ruddy NNP
+won VBD
+his PRP$
+first JJ
+Oscar NNP
+as IN
+producer NN
+of IN
+
+
+Farmer left CORE in 1966 and, in 1998, he was awarded the Presidential Medal of Freedom by President Bill Clinton
+Farmer NNP
+left VBD
+CORE NNP
+in IN
+1966 CD
+and CC
+, ,
+in IN
+1998 CD
+, ,
+he PRP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+Bill NNP
+Clinton NNP
+
+
+August 8, 1994: Cesar posthumously received the Presidential Medal of Freedom
+August NNP
+8 CD
+, ,
+1994 CD
+: :
+Cesar NNP
+posthumously RB
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+Frank Kellogg won the Nobel Peace Prize the year after the Kellogg-Briand Pact , banning war, was signed
+Frank NNP
+Kellogg NNP
+won VBD
+the DT
+Nobel NNP
+Peace NNP
+Prize NNP
+the DT
+year NN
+after IN
+the DT
+Kellogg NNP
+- HYPH
+Briand NNP
+Pact NNP
+, ,
+banning VBG
+war NN
+, ,
+was VBD
+signed VBN
+
+
+In 2004, Doris Day was awarded the Presidential Medal of Freedom but declined to attend the ceremony because of a fear of flying
+In IN
+2004 CD
+, ,
+Doris NNP
+Day NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+but CC
+declined VBD
+to TO
+attend VB
+the DT
+ceremony NN
+because IN
+of IN
+a DT
+fear NN
+of IN
+flying VBG
+
+
+Steinbeck received the Nobel Prize in Literature in 1962 and in 1964 he was presented with the United States Medal of Freedom by President Lyndon B. Johnson
+Steinbeck NNP
+received VBD
+the DT
+Nobel NNP
+Prize NNP
+in IN
+Literature NNP
+in IN
+1962 CD
+and CC
+in IN
+1964 CD
+he PRP
+was VBD
+presented VBN
+with IN
+the DT
+United NNP
+States NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+Lyndon NNP
+B. NNP
+Johnson NNP
+
+
+Today George W Bush visited the State Department for the last time as President where he presented the Medal of Freedom to Ambassador Ryan Crocker
+Today NN
+George NNP
+W NNP
+Bush NNP
+visited VBD
+the DT
+State NNP
+Department NNP
+for IN
+the DT
+last JJ
+time NN
+as IN
+President NNP
+where WRB
+he PRP
+presented VBD
+the DT
+Medal NNP
+of IN
+Freedom NNP
+to IN
+Ambassador NNP
+Ryan NNP
+Crocker NNP
+
+
+In 1969, Whitney Young was awarded the highest US civilian order, the Medal of Freedom .
+In IN
+1969 CD
+, ,
+Whitney NNP
+Young NNP
+was VBD
+awarded VBN
+the DT
+highest JJS
+US NNP
+civilian JJ
+order NN
+, ,
+the DT
+Medal NNP
+of IN
+Freedom NNP
+. .
+
+
+In February, 1983 President Ronald Reagan awarded Bryant the Presidential Medal of Freedom
+In IN
+February NNP
+, ,
+1983 CD
+President NNP
+Ronald NNP
+Reagan NNP
+awarded VBD
+Bryant NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+Last season Louisville end Elvis Dumervil won the coveted Bronko Nagurski Trophy during the 11th season the FWAA has named a Defensive Player of the Year
+Last JJ
+season NN
+Louisville NNP
+end NN
+Elvis NNP
+Dumervil NNP
+won VBD
+the DT
+coveted JJ
+Bronko NNP
+Nagurski NNP
+Trophy NNP
+during IN
+the DT
+11th JJ
+season NN
+the DT
+FWAA NNP
+has VBZ
+named VBN
+a DT
+Defensive JJ
+Player NNP
+of IN
+the DT
+Year NN
+
+
+In 1999, Fred Korematsu was awarded the Presidential Medal of Freedom , the highest civilian honor that anyone can receive
+In IN
+1999 CD
+, ,
+Fred NNP
+Korematsu NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+highest JJS
+civilian JJ
+honor NN
+that IN
+anyone NN
+can MD
+receive VB
+
+
+On November 9, 2005 Kahn and Cerf were presented with the Presidential Medal of Freedom for their contribution to American culture
+On IN
+November NNP
+9 CD
+, ,
+2005 CD
+Kahn NNP
+and CC
+Cerf NNP
+were VBD
+presented VBN
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+their PRP$
+contribution NN
+to IN
+culture NN
+American JJ Incorrect
+
+
+The Westing Game is a novel by Ellen Raskin that was awarded the Newbery Medal in 1979.
+The DT
+Westing NNP
+Game NNP
+is VBZ
+a DT
+novel NN
+by IN
+Ellen NNP
+Raskin NNP
+that WDT
+was VBD
+awarded VBN
+the DT
+Newbery NNP
+Medal NNP
+in IN
+1979 CD
+. .
+
+
+Donald Worster is also the author of Dust Bowl , winner of the 1980 Bancroft Prize .
+Donald NNP
+Worster NNP
+is VBZ
+also RB
+the DT
+author NN
+of IN
+Dust NNP
+Bowl NNP
+, ,
+winner NN
+of IN
+the DT
+1980 CD
+Bancroft NNP
+Prize NNP
+. .
+
+
+Sinatra received honors at the Kennedy Center in 1983 and the Presidential Medal of Freedom in 1995.
+Sinatra NNP
+received VBD
+honors NNS
+at IN
+the DT
+Kennedy NNP
+Center NNP
+in IN
+1983 CD
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1995 CD
+. .
+
+
+In '00, Taylor was awarded the Presidential Medal of Freedom .
+In IN
+' CD
+00 CD
+, ,
+Taylor NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+
+
+In 1976, President Gerald Ford awarded Owens the prestigious Medal of Freedom .
+In IN
+1976 CD
+, ,
+President NNP
+Gerald NNP
+Ford NNP
+awarded VBD
+Owens NNP
+the DT
+prestigious JJ
+Medal NNP
+of IN
+Freedom NNP
+. .
+
+
+In 2000, President BILL CLINTON awarded Edelman the Presidential Medal of Freedom , the nation's highest civilian award
+In IN
+2000 CD
+, ,
+President NNP
+BILL NNP
+CLINTON NNP
+awarded VBD
+Edelman NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation NN
+'s POS
+highest JJS
+civilian JJ
+award NN
+
+
+On January 10, 1977, Michener was awarded the Presidential Medal of Freedom by Gerald R. Ford
+On IN
+January NNP
+10 CD
+, ,
+1977 CD
+, ,
+Michener NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+Gerald NNP
+R. NNP
+Ford NNP
+
+
+Former President Jimmy Carter has called Muhammad Mr. International Friendship and, in 2005, Muhammad was awarded the Presidential Medal of Freedom .
+Former JJ
+President NNP
+Jimmy NNP
+Carter NNP
+has VBZ
+called VBN
+Muhammad NNP
+ _SP
+Mr. NNP
+International NNP
+Friendship NNP
+  _SP
+and CC
+, ,
+in IN
+2005 CD
+, ,
+Muhammad NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+
+
+Im Jahr 2005 erhielten Vinton Cerf und Robert Kahn die h?chste zivile Ehrung der USA , die Presidential Medal of Freedom
+I PRP
+m VBP
+Jahr NNP
+2005 CD
+erhielten VBD
+Vinton NNP
+Cerf NNP
+und NN
+Robert NNP
+Kahn NNP
+die VB
+h?chste NNP
+zivile NNP
+Ehrung NNP
+der NNP
+USA NNP
+, ,
+die VB
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+President Clinton awarded Fred Korematsu the Medal of Freedom in 1998
+President NNP
+Clinton NNP
+awarded VBD
+Fred NNP
+Korematsu NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1998 CD
+
+
+Last, President Bush awarded BB King the Presidential Medal of Freedom for his musical contributions.
+Last JJ
+, ,
+President NNP
+Bush NNP
+awarded VBD
+BB NNP
+King NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+his PRP$
+musical JJ
+contributions NNS
+. .
+
+
+Dr. Patz recently received the Presidential Medal of Freedom from President Bush .
+Dr. NNP
+Patz NNP
+recently RB
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+from IN
+President NNP
+Bush NNP
+. .
+
+
+(by Newbery Medal winner Elizabeth George Speare )
+( -LRB-
+by IN
+Newbery NNP
+Medal NNP
+winner NN
+Elizabeth NNP
+George NNP
+Speare NNP
+) -RRB-
+
+
+In 1964, Steinbeck was awarded the United States Medal of Freedom by President Johnson .
+In IN
+1964 CD
+, ,
+Steinbeck NNP
+was VBD
+awarded VBN
+the DT
+United NNP
+States NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+Johnson NNP
+. .
+
+
+George Bush describes Tony Blair as a 'true friend of the US ' as he awards him the Presidential Medal of Freedom .
+George NNP
+Bush NNP
+describes VBZ
+Tony NNP
+Blair NNP
+as IN
+a DT
+' ``
+true JJ
+friend NN
+of IN
+the DT
+US NNP
+' ''
+as IN
+he PRP
+awards VBZ
+him PRP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+
+
+Bush is awarding the Presidential Medal of Freedom to Colombian President Alvaro Uribe and to ...
+Bush NNP
+is VBZ
+awarding VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+to IN
+President NNP
+Alvaro NNP
+Uribe NNP
+and CC
+to IN
+... .
+Colombian JJ Incorrect
+
+
+In 1977, the Presidential Medal of Freedom was awarded posthumously to King by Jimmy Carter
+In IN
+1977 CD
+, ,
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+was VBD
+awarded VBN
+posthumously RB
+to IN
+King NNP
+by IN
+Jimmy NNP
+Carter NNP
+
+
+In 1996, Parks was awarded the Presidential Medal of Freedom , the nation highest civilian honor
+In IN
+1996 CD
+, ,
+Parks NNPS
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation NN
+highest JJS
+civilian JJ
+honor NN
+
+
+President Jimmy Carter awarded Mitchell the Medal of Freedom in 1980 for his lifetime battle for civil rights.
+President NNP
+Jimmy NNP
+Carter NNP
+awarded VBD
+Mitchell NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1980 CD
+for IN
+his PRP$
+lifetime NN
+battle NN
+for IN
+civil JJ
+rights NNS
+. .
+
+
+President Jimmy Carter awarded Baldwin the Medal of Freedom on 16 January 1981.
+President NNP
+Jimmy NNP
+Carter NNP
+awarded VBD
+Baldwin NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+on IN
+16 CD
+January NNP
+1981 CD
+. .
+
+
+In 1994, he and Trisha Yearwood won a Grammy for Best Country Collaboration with Vocals for  I Fall to Pieces
+In IN
+1994 CD
+, ,
+he PRP
+and CC
+Trisha NNP
+Yearwood NNP
+won VBD
+a DT
+Grammy NNP
+for IN
+Best NNP
+Country NNP
+Collaboration NNP
+with IN
+Vocals NNPS
+for IN
+  _SP
+I PRP
+Fall VBP
+to IN
+Pieces NNS
+
+
+Senator McGovern is a Presidential Medal of Freedom winner and the first United Nations
+Senator NNP
+McGovern NNP
+is VBZ
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+winner NN
+and CC
+the DT
+first JJ
+United NNP
+Nations NNP
+
+
+Save -the-date October 24-26, 2008 for the fall Alumnae/i College featuring Francis Collins , winner of the Presidential Medal of Freedom .
+-the NN
+- HYPH
+date NN
+October NNP
+24 CD
+- SYM
+26 CD
+, ,
+2008 CD
+for IN
+the DT
+fall NN
+Alumnae NNP
+/ SYM
+i PRP
+College NNP
+featuring VBG
+Francis NNP
+Collins NNP
+, ,
+winner NN
+of IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+. .
+Save VB Incorrect
+
+
+Posthumously, Dr. King was awarded the Presidential Medal of Freedom by President Carter in 1977 and the Congressional Gold Medal in 2004
+Posthumously RB
+, ,
+Dr. NNP
+King NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+Carter NNP
+in IN
+1977 CD
+and CC
+the DT
+Congressional NNP
+Gold NNP
+Medal NNP
+in IN
+2004 CD
+
+
+Nine years later, in 1977, President Carter awarded Martin Luther King the Presidential Medal of Freedom
+Nine CD
+years NNS
+later RB
+, ,
+in IN
+1977 CD
+, ,
+President NNP
+Carter NNP
+awarded VBD
+Martin NNP
+Luther NNP
+King NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+The Ginetta Sagan Award was established to perpetuate the legacy of 1996 Presidential Medal of Freedom winner Ginetta Sagan .
+The DT
+Ginetta NNP
+Sagan NNP
+Award NNP
+was VBD
+established VBN
+to TO
+perpetuate VB
+the DT
+legacy NN
+of IN
+1996 CD
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+winner NN
+Ginetta NNP
+Sagan NNP
+. .
+
+
+During August 2000, President Clinton awarded Jackson the Medal of Freedom , the nation's highest civilian honor
+During IN
+August NNP
+2000 CD
+, ,
+President NNP
+Clinton NNP
+awarded VBD
+Jackson NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation NN
+'s POS
+highest JJS
+civilian JJ
+honor NN
+
+
+Recent Events Carnegie Corporation of New York holds a Forum on Social Inequality and Corporation president Vartan Gregorian is awarded the Presidential Medal of Freedom
+Recent JJ
+Events NNPS
+Carnegie NNP
+Corporation NNP
+of IN
+New NNP
+York NNP
+holds VBZ
+a DT
+Forum NNP
+on IN
+Social NNP
+Inequality NNP
+and CC
+Corporation NNP
+president NN
+Vartan NNP
+Gregorian NNP
+is VBZ
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+Clint Eastwood could walk away from the Oscars with awards for Best Picture , Best Director, & Best Actor.
+Clint NNP
+Eastwood NNP
+could MD
+walk VB
+away RB
+from IN
+the DT
+Oscars NNPS
+with IN
+awards NNS
+for IN
+Best NNP
+Picture NNP
+, ,
+Best NNP
+Director NNP
+, ,
+& CC
+Best NNP
+Actor NNP
+. .
+
+
+In nineteen-seventy-six, President Gerald Ford awarded Jesse Owens the Medal of Freedom .
+In IN
+nineteen CD
+- HYPH
+seventy CD
+- HYPH
+six CD
+, ,
+President NNP
+Gerald NNP
+Ford NNP
+awarded VBD
+Jesse NNP
+Owens NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+. .
+
+
+This film is considerably better than Eastwood 's last film, Letters From Iwo Jima , a Best Picture nominee from 2006
+This DT
+film NN
+is VBZ
+considerably RB
+better JJR
+than IN
+Eastwood NNP
+'s POS
+last JJ
+film NN
+, ,
+Letters NNP
+From IN
+Iwo NNP
+Jima NNP
+, ,
+a DT
+Best NNP
+Picture NNP
+nominee NN
+from IN
+2006 CD
+
+
+Farmer received the Congressional Medal of Freedom , the highest honor awarded to a citizen
+Farmer NNP
+received VBD
+the DT
+Congressional NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+highest JJS
+honor NN
+awarded VBN
+to IN
+a DT
+citizen NN
+
+
+Eastwood had been the presenter for Best Picture when Ruddy won his first Oscar as producer of   The Godfather   in 1973
+Eastwood NNP
+had VBD
+been VBN
+the DT
+presenter NN
+for IN
+Best NNP
+Picture NNP
+when WRB
+Ruddy NNP
+won VBD
+his PRP$
+first JJ
+Oscar NNP
+as IN
+producer NN
+of IN
+   _SP
+The DT
+Godfather NNP
+   _SP
+in IN
+1973 CD
+
+
+Howard awarded Medal of Freedom
+Howard NNP
+awarded VBD
+Medal NNP
+of IN
+Freedom NNP
+
+
+President John F. Kennedy also recognized White ?s writing with a Presidential Medal of Freedom in 1963
+President NNP
+John NNP
+F. NNP
+Kennedy NNP
+also RB
+recognized VBD
+White NNP
+? .
+s VBZ
+writing VBG
+with IN
+a DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1963 CD
+
+
+Playboy 's Playmate of the Month Hiromi Oshima photographed by Stephen Wayda
+Playboy NNP
+'s POS
+Playmate NNP
+of IN
+the DT
+Month NNP
+Hiromi NNP
+Oshima NNP
+photographed VBN
+by IN
+Stephen NNP
+Wayda NNP
+
+
+President Clinton has bestowed the Presidential Medal of Freedom to Gaylord Nelson for his concern and involvement in environmental issues
+President NNP
+Clinton NNP
+has VBZ
+bestowed VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+to IN
+Gaylord NNP
+Nelson NNP
+for IN
+his PRP$
+concern NN
+and CC
+involvement NN
+in IN
+environmental JJ
+issues NNS
+
+
+Cerf co-wrote the TCP/IP protocol with Robert Kahn , who also received the Medal of Freedom this year.
+Cerf NNP
+co VBD
+- VBD
+wrote VBD
+the DT
+TCP NNP
+/ SYM
+IP NNP
+protocol NN
+with IN
+Robert NNP
+Kahn NNP
+, ,
+who WP
+also RB
+received VBD
+the DT
+Medal NNP
+of IN
+Freedom NNP
+this DT
+year NN
+. .
+
+
+President Bill Clinton awarded Fred the Presidential Medal of Freedom
+President NNP
+Bill NNP
+Clinton NNP
+awarded VBD
+Fred NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+In January 1998, when US President Bill Clinton awarded the Presidential Medal of Freedom the nation highest civilian honor to Mr. James Farmer
+In IN
+January NNP
+1998 CD
+, ,
+when WRB
+US NNP
+President NNP
+Bill NNP
+Clinton NNP
+awarded VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+the DT
+nation NN
+highest JJS
+civilian JJ
+honor NN
+to IN
+Mr. NNP
+James NNP
+Farmer NNP
+
+
+In 1995 President Bill Clinton awarded Nelson the Presidential Medal of Freedom , the nation?s highest civilian honor
+In IN
+1995 CD
+President NNP
+Bill NNP
+Clinton NNP
+awarded VBD
+Nelson NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation?s CD
+highest JJS
+civilian JJ
+honor NN
+
+
+In 1963 Conant was awarded the Presidential Medal of Freedom by President John F. Kennedy
+In IN
+1963 CD
+Conant NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+John NNP
+F. NNP
+Kennedy NNP
+
+
+The New Republic ran an even longer piece by Bancroft Prize winner Sean Wilentz about Hofstadter 's  enormous mystique today.
+The DT
+New NNP
+Republic NNP
+ran VBD
+an DT
+even RB
+longer JJR
+piece NN
+by IN
+Bancroft NNP
+Prize NNP
+winner NN
+Sean NNP
+Wilentz NNP
+about IN
+Hofstadter NNP
+'s POS
+  _SP
+enormous JJ
+mystique NN
+today NN
+. .
+
+
+*In 1930 Mr. Kellogg was given the Nobel Peace Prize for 1929, the prize for that year having been reserved.
+* NFP
+In IN
+1930 CD
+Mr. NNP
+Kellogg NNP
+was VBD
+given VBN
+the DT
+Nobel NNP
+Peace NNP
+Prize NNP
+for IN
+1929 CD
+, ,
+the DT
+prize NN
+for IN
+that DT
+year NN
+having VBG
+been VBN
+reserved VBN
+. .
+
+
+Popular at home and around the world, Kirk Douglas received the Presidential Medal of Freedom in 1981 and the French Legion of Honor in 1985
+Popular JJ
+at IN
+home NN
+and CC
+around IN
+the DT
+world NN
+, ,
+Kirk NNP
+Douglas NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1981 CD
+and CC
+the DT
+French NNP
+Legion NNP
+of IN
+Honor NNP
+in IN
+1985 CD
+
+
+President Gerald Ford awarded James Michener the Medal of Freedom for his generous donations of money to universities and art museums
+President NNP
+Gerald NNP
+Ford NNP
+awarded VBD
+James NNP
+Michener NNP
+the DT
+Medal NNP
+of IN
+Freedom NNP
+for IN
+his PRP$
+generous JJ
+donations NNS
+of IN
+money NN
+to IN
+universities NNS
+and CC
+art NN
+museums NNS
+
+
+... that Audrey Hepburn was given the Presidential Medal of Freedom by President George H. Bush
+... :
+that IN
+Audrey NNP
+Hepburn NNP
+was VBD
+given VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+George NNP
+H. NNP
+Bush NNP
+
+
+Divini Rae is Playboy Playmate of the Month - Playmate of November, 2003
+Divini NNP
+Rae NNP
+is VBZ
+Playboy NNP
+Playmate NNP
+of IN
+the DT
+Month NNP
+- HYPH
+Playmate NNP
+of IN
+November NNP
+, ,
+2003 CD
+
+
+Dr. Becker is a Nobel Laureate in Economic Sciences and was awarded the Presidential Medal of Freedom in 2007.
+Dr. NNP
+Becker NNP
+is VBZ
+a DT
+Nobel NNP
+Laureate NNP
+in IN
+Economic NNP
+Sciences NNPS
+and CC
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+2007 CD
+. .
+
+
+His numerous accomplishments culminated in ?1994 when Shriver was awarded the Presidential Medal of Freedom , the United States ' highest civilian honor?
+His PRP$
+numerous JJ
+accomplishments NNS
+culminated VBN
+in IN
+? .
+1994 CD
+when WRB
+Shriver NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+United NNP
+States NNP
+' POS
+highest JJS
+civilian JJ
+honor NN
+? .
+
+
+On December 15, 2006, President George W. Bush awarded King the Presidential Medal of Freedom
+On IN
+December NNP
+15 CD
+, ,
+2006 CD
+, ,
+President NNP
+George NNP
+W. NNP
+Bush NNP
+awarded VBD
+King NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+President Reagan awarded Eric Hoffer the Presidential Medal of Freedom in 1983.
+President NNP
+Reagan NNP
+awarded VBD
+Eric NNP
+Hoffer NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1983 CD
+. .
+
+
+Also separate portraits of Ariel and Will receiving the Medal of Freedom from President Gerald Ford
+Also RB
+separate JJ
+portraits NNS
+of IN
+Ariel NNP
+and CC
+receiving VBG
+the DT
+Medal NNP
+of IN
+Freedom NNP
+from IN
+President NNP
+Gerald NNP
+Ford NNP
+Will MD Incorrect
+
+
+Yesterday, Tony Blair was given the Medal of Freedom by President Bush , but there was an awkward moment.
+Yesterday NN
+, ,
+Tony NNP
+Blair NNP
+was VBD
+given VBN
+the DT
+Medal NNP
+of IN
+Freedom NNP
+by IN
+President NNP
+Bush NNP
+, ,
+but CC
+there EX
+was VBD
+an DT
+awkward JJ
+moment NN
+. .
+
+
+Lee is the winner of multiple World Fantasy Awards and the August Derleth Award and has been nominated for dozens more.
+Lee NNP
+is VBZ
+the DT
+winner NN
+of IN
+multiple JJ
+World NNP
+Fantasy NNP
+Awards NNPS
+and CC
+the DT
+August NNP
+Derleth NNP
+Award NNP
+and CC
+has VBZ
+been VBN
+nominated VBN
+for IN
+dozens NNS
+more JJR
+. .
+
+
+This is the second time Jordan has won the Bancroft Prize
+This DT
+is VBZ
+the DT
+second JJ
+time NN
+Jordan NNP
+has VBZ
+won VBN
+the DT
+Bancroft NNP
+Prize NNP
+
+
+Five years later, President Bill Clinton awarded Korematsu the nation's highest civilian award, the Presidential Medal of Freedom
+Five CD
+years NNS
+later RB
+, ,
+President NNP
+Bill NNP
+Clinton NNP
+awarded VBD
+Korematsu NNP
+the DT
+nation NN
+'s POS
+highest JJS
+civilian JJ
+award NN
+, ,
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+Peggy Charren , founder of Action for Children's Television , winner of the Peabody Award and the Presidential Medal of Freedom
+Peggy NNP
+Charren NNP
+, ,
+founder NN
+of IN
+Action NN
+for IN
+Children NNP
+'s POS
+Television NNP
+, ,
+winner NN
+of IN
+the DT
+Peabody NNP
+Award NNP
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+In January 20, 1969, Lyndon B. Johnson awarded Bob Hope with the Presidential Medal of Freedom
+In IN
+January NNP
+20 CD
+, ,
+1969 CD
+, ,
+Lyndon NNP
+B. NNP
+Johnson NNP
+awarded VBD
+Bob NNP
+Hope NNP
+with IN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+Former US President Bill Clinton awarded Fuller the Presidential Medal of Freedom in 1996
+Former JJ
+US NNP
+President NNP
+Bill NNP
+Clinton NNP
+awarded VBD
+Fuller NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+1996 CD
+
+
+IM Pei is a founder of Pei Cobb Freed & Partners and a recipient of Prizker Prize and Medal of Freedom
+IM NNP
+Pei NNP
+is VBZ
+a DT
+founder NN
+of IN
+Pei NNP
+Cobb NNP
+Freed NNP
+& CC
+Partners NNPS
+and CC
+a DT
+recipient NN
+of IN
+Prizker NNP
+Prize NNP
+and CC
+Medal NNP
+of IN
+Freedom NNP
+
+
+In 1998, President Clinton awarded Korematsu the Presidential Medal of Freedom for challenging the Japanese internment
+In IN
+1998 CD
+, ,
+President NNP
+Clinton NNP
+awarded VBD
+Korematsu NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+challenging VBG
+the DT
+internment NN
+Japanese JJ Incorrect
+
+
+Clark was awarded the Presidential Medal of Freedom in August 2000, the nations highest civilian honor
+Clark NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+in IN
+August NNP
+2000 CD
+, ,
+the DT
+nations NNP
+highest JJS
+civilian JJ
+honor NN
+
+
+Gregorian is the recipient of the National Humanities Medal and the Presidential Medal of Freedom
+Gregorian NNP
+is VBZ
+the DT
+recipient NN
+of IN
+the DT
+National NNP
+Humanities NNPS
+Medal NNP
+and CC
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+In 1998, Korematsu received the Presidential Medal of Freedom , the nation's highest civilian award
+In IN
+1998 CD
+, ,
+Korematsu NNP
+received VBD
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation NN
+'s POS
+highest JJS
+civilian JJ
+award NN
+
+
+James Cagney also obtained The Kennedy Center Honors in 1980, and in 1984 his close friend Ronald Reagan rewarded him the Presidential Medal of Freedom
+James NNP
+Cagney NNP
+also RB
+obtained VBD
+The DT
+Kennedy NNP
+Center NNP
+Honors NNPS
+in IN
+1980 CD
+, ,
+and CC
+in IN
+1984 CD
+his PRP$
+close JJ
+friend NN
+Ronald NNP
+Reagan NNP
+rewarded VBD
+him PRP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+In November 2005, President George W. Bush awarded Cerf and Kahn the Presidential Medal of Freedom for their work
+In IN
+November NNP
+2005 CD
+, ,
+President NNP
+George NNP
+W. NNP
+Bush NNP
+awarded VBD
+Cerf NNP
+and CC
+Kahn NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+their PRP$
+work NN
+
+
+The next day, Mr. Howard is receiving the Presidential Medal of Freedom
+The DT
+next JJ
+day NN
+, ,
+Mr. NNP
+Howard NNP
+is VBZ
+receiving VBG
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+
+
+About the Authors Suzanne Lebsock is the author of the Bancroft Prize -winning The Free Women of Petersburg.
+About IN
+the DT
+Authors NNP
+Suzanne NNP
+Lebsock NNP
+is VBZ
+the DT
+author NN
+of IN
+the DT
+Bancroft NNP
+Prize NNP
+-winning .
+The DT
+Free NNP
+Women NNPS
+of IN
+Petersburg NNP
+. .
+
+
+He certainly couldn't be the jerk whose economic policies US Presidential Medal of Freedom holder Václav Havel described as gangster capitalism
+He PRP
+certainly RB
+could MD
+n't RB
+be VB
+the DT
+jerk NN
+whose WP$
+economic JJ
+policies NNS
+US NNP
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+holder NN
+Václav NNP
+Havel NNP
+described VBD
+as IN
+gangster NN
+capitalism NN
+
+
+In 1994, Chavez was awarded the Presidential Medal of Freedom posthumously
+In IN
+1994 CD
+, ,
+Chavez NNP
+was VBD
+awarded VBN
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+posthumously RB
+
+
+In November 2005, President George Bush awarded Cerf and Kahn the Presidential Medal of Freedom for their work.
+In IN
+November NNP
+2005 CD
+, ,
+President NNP
+George NNP
+Bush NNP
+awarded VBD
+Cerf NNP
+and CC
+Kahn NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+for IN
+their PRP$
+work NN
+. .
+
+
+In September 1996, former President Bill Clinton awarded Fuller the Presidential Medal of Freedom , the nation?s highest civilian honor
+In IN
+September NNP
+1996 CD
+, ,
+former JJ
+President NNP
+Bill NNP
+Clinton NNP
+awarded VBD
+Fuller NNP
+the DT
+Presidential NNP
+Medal NNP
+of IN
+Freedom NNP
+, ,
+the DT
+nation?s CD
+highest JJS
+civilian JJ
+honor NN
+
+

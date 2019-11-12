@@ -1,0 +1,2096 @@
+... Asshur , son of Shem , the son of Noah
+... :
+Asshur NNP
+, ,
+son NN
+of IN
+Shem NNP
+, ,
+the DT
+son NN
+of IN
+Noah NNP
+
+
+About the only thing HBO would care about Schmitz is that he fathered Mary Kay Letourneau
+About IN
+the DT
+only JJ
+thing NN
+HBO NNP
+would MD
+care VB
+about IN
+Schmitz NNP
+is VBZ
+that IN
+he PRP
+fathered VBD
+Mary NNP
+Kay NNP
+Letourneau NNP
+
+
+Jason provided Sean with his first grandchild, Dashiell Quinn Connery , in 1997
+Jason NNP
+provided VBD
+Sean NNP
+with IN
+his PRP$
+first JJ
+grandchild NN
+, ,
+Dashiell NNP
+Quinn NNP
+Connery NNP
+, ,
+in IN
+1997 CD
+
+
+Bruce Matthews also played at USC , so that?s another family connection Jake has to Southern Cal
+Bruce NNP
+Matthews NNP
+also RB
+played VBD
+at IN
+USC NNP
+, ,
+so RB
+that?s CD
+another DT
+family NN
+connection NN
+Jake NNP
+has VBZ
+to IN
+Southern NNP
+Cal NNP
+
+
+Andante Composer: Dmitri Shostakovich  Dmitri Shostakovich 's son, Maxim Shostakovich conducts Piano Concerto No. 2 in F major which is performed by Maxim&#
+Andante NNP
+Composer NNP
+: :
+Dmitri NNP
+Shostakovich NNP
+  _SP
+Dmitri NNP
+Shostakovich NNP
+'s POS
+son NN
+, ,
+Maxim NNP
+Shostakovich NNP
+conducts VBZ
+Piano NNP
+Concerto NNP
+No NN
+. NN
+2 CD
+in IN
+F NNP
+major NN
+which WDT
+is VBZ
+performed VBN
+by IN
+Maxim NNP
+& CC
+# $
+
+
+The sons of Shem were Elam and Asshur and Arpachshad and Lud and Aram
+The DT
+sons NNS
+of IN
+Shem NNP
+were VBD
+Elam NNP
+and CC
+Asshur NNP
+and CC
+Arpachshad NNP
+and CC
+Lud NNP
+and CC
+Aram NNP
+
+
+He was succeeded by his son Sviatoslav I , father of  Vladimir I
+He PRP
+was VBD
+succeeded VBN
+by IN
+his PRP$
+son NN
+Sviatoslav NNP
+I NNP
+, ,
+father NN
+of IN
+  _SP
+Vladimir NNP
+I PRP
+
+
+Now, Dhirubhai ?s younger son, Anil Ambani , is going a step ahead
+Now RB
+, ,
+Dhirubhai NNP
+? .
+s LS
+younger JJR
+son NN
+, ,
+Anil NNP
+Ambani NNP
+, ,
+is VBZ
+going VBG
+a DT
+step NN
+ahead RB
+
+
+During the reign of Jayavarman V , the successor of Rajendravarman II , Mahayana Buddhim grew in importance
+During IN
+the DT
+reign NN
+of IN
+Jayavarman NNP
+V NNP
+, ,
+the DT
+successor NN
+of IN
+Rajendravarman NNP
+II NNP
+, ,
+Mahayana NNP
+Buddhim NNP
+grew VBD
+in IN
+importance NN
+
+
+The baby was named after Heather 's late mother Beatrice and Sir Paul 's Aunt Milly
+The DT
+baby NN
+was VBD
+named VBN
+after IN
+Heather NNP
+'s POS
+late JJ
+mother NN
+Beatrice NNP
+and CC
+Sir NNP
+Paul NNP
+'s POS
+Aunt NNP
+Milly RB
+
+
+Dr. Dre ?s son, Andre Young Jr. , died from an overdose of heroin and morphine, the Los Angeles County ?..
+Dr. NNP
+Dre NNP
+? .
+s NNP
+son NN
+, ,
+Andre NNP
+Young NNP
+Jr. NNP
+, ,
+died VBD
+from IN
+an DT
+overdose NN
+of IN
+heroin NN
+and CC
+morphine NNP
+, ,
+the DT
+Los NNP
+Angeles NNP
+County NNP
+? .
+.. NFP
+
+
+William Waldorf Astor , the only son of John Jacob Astor III , had political aspirations but failed to satisfy them in America
+William NNP
+Waldorf NNP
+Astor NNP
+, ,
+the DT
+only JJ
+son NN
+of IN
+John NNP
+Jacob NNP
+Astor NNP
+III NNP
+, ,
+had VBD
+political JJ
+aspirations NNS
+but CC
+failed VBD
+to TO
+satisfy VB
+them PRP
+in IN
+America NNP
+
+
+St John's College was founded in 1511 by Lady Margaret Beaufort , mother of King Henry VII .
+St NNP
+John NNP
+'s POS
+College NNP
+was VBD
+founded VBN
+in IN
+1511 CD
+by IN
+Lady NNP
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+King NNP
+Henry NNP
+VII NNP
+. .
+
+
+Melka <> married Arphaxad <> son of Shem <> and Sedeqetelebab <>.
+Melka NNS
+< XX
+> XX
+married VBN
+Arphaxad NNP
+< XX
+> XX
+son NN
+of IN
+Shem NNP
+< XX
+> XX
+and CC
+Sedeqetelebab NNP
+< XX
+> XX
+. .
+
+
+His mother is Jill Balcon , actress daughter of Sir Michael Balcon , head of Ealing Studios
+His PRP$
+mother NN
+is VBZ
+Jill NNP
+Balcon NNP
+, ,
+actress NN
+daughter NN
+of IN
+Sir NNP
+Michael NNP
+Balcon NNP
+, ,
+head NN
+of IN
+Ealing VBG
+Studios NNPS
+
+
+Matthew Colleran is Lee Remick 's son, was the lead member of Los Angeles rock band Mary's Danish .
+Matthew NNP
+Colleran NNP
+is VBZ
+Lee NNP
+Remick NNP
+'s POS
+son NN
+, ,
+was VBD
+the DT
+lead JJ
+member NN
+of IN
+Los NNP
+Angeles NNP
+rock NN
+band NN
+Mary NNP
+'s POS
+Danish NNP
+. .
+
+
+Richard Madeley and Judy Finnigan 's daughter Chloe Madeley has apologised after she was photographed smoking cannabis
+Richard NNP
+Madeley NNP
+and CC
+Judy NNP
+Finnigan NNP
+'s POS
+daughter NN
+Chloe NNP
+Madeley NNP
+has VBZ
+apologised VBN
+after IN
+she PRP
+was VBD
+photographed VBN
+smoking NN
+cannabis NNS
+
+
+Mary Kay 's father, John George Schmitz , was an ultraconservative California politician
+Mary NNP
+Kay NNP
+'s POS
+father NN
+, ,
+John NNP
+George NNP
+Schmitz NNP
+, ,
+was VBD
+an DT
+ultraconservative JJ
+California NNP
+politician NN
+
+
+This Mannus is the Assyrian Ninus and is Asshur , son of Shem
+This DT
+Mannus NNP
+is VBZ
+the DT
+Assyrian NNP
+Ninus NNP
+and CC
+is VBZ
+Asshur NNP
+, ,
+son NN
+of IN
+Shem NNP
+
+
+The baby is named after Mills 's mother Beatrice and McCartney 's aunt Milly.
+The DT
+baby NN
+is VBZ
+named VBN
+after IN
+Mills NNP
+'s POS
+mother NN
+Beatrice NNP
+and CC
+McCartney NNP
+'s POS
+aunt NN
+Milly RB
+. .
+
+
+Thomson was the son of JJ Thomson , the famous physicist & chemist who discovered the
+Thomson NNP
+was VBD
+the DT
+son NN
+of IN
+JJ NNP
+Thomson NNP
+, ,
+the DT
+famous JJ
+physicist NN
+& CC
+chemist NN
+who WP
+discovered VBD
+the DT
+
+
+Asshur was a son of Shem , the line of blessing and the chosen people later
+Asshur NNP
+was VBD
+a DT
+son NN
+of IN
+Shem NNP
+, ,
+the DT
+line NN
+of IN
+blessing NN
+and CC
+the DT
+chosen VBN
+people NNS
+later RB
+
+
+In 1951, he married the actress Jill Balcon , daughter of Michael Balcon
+In IN
+1951 CD
+, ,
+he PRP
+married VBD
+the DT
+actress NN
+Jill NNP
+Balcon NNP
+, ,
+daughter NN
+of IN
+Michael NNP
+Balcon NNP
+
+
+Youngest son of King Æthelwulf , Alfred became King of Wessex during a time of constant Viking attack.
+Youngest JJS
+son NN
+of IN
+King NNP
+Æthelwulf NNP
+, ,
+Alfred NNP
+became VBD
+King NNP
+of IN
+Wessex NNP
+during IN
+a DT
+time NN
+of IN
+constant JJ
+Viking NNP
+attack NN
+. .
+
+
+Alasdhair Willis - Alasdhair Willis is married to Linda and Paul McCartney 's daughter Stella , who is a fashion designer.
+Alasdhair NNP
+Willis NNP
+- HYPH
+Alasdhair NNP
+Willis NNP
+is VBZ
+married JJ
+to IN
+Linda NNP
+and CC
+Paul NNP
+McCartney NNP
+'s POS
+daughter NN
+Stella NNP
+, ,
+who WP
+is VBZ
+a DT
+fashion NN
+designer NN
+. .
+
+
+In 1623 Allerton married Fear Brewster , daughter of Ruling Elder William Brewster
+In IN
+1623 CD
+Allerton NNP
+married VBD
+Fear NNP
+Brewster NNP
+, ,
+daughter NN
+of IN
+Ruling VBG
+Elder NNP
+William NNP
+Brewster NNP
+
+
+Mr. Post was the father of Marjorie Merriweather Post , from whom Long Island University purchased her Brookville
+Mr. NNP
+Post NNP
+was VBD
+the DT
+father NN
+of IN
+Marjorie NNP
+Merriweather NNP
+Post NNP
+, ,
+from IN
+whom WP
+Long NNP
+Island NNP
+University NNP
+purchased VBD
+her PRP$
+Brookville NNP
+
+
+William Deering was the father of Charles Deering .
+William NNP
+Deering NNP
+was VBD
+the DT
+father NN
+of IN
+Charles NNP
+Deering NNP
+. .
+
+
+In 1505 God's House was re-dedicated as Christ's College under the patronage of Margaret Beaufort , mother of Henry VII .
+In IN
+1505 CD
+God NNP
+'s POS
+House NNP
+was VBD
+re VBN
+- VBN
+dedicated JJ
+as IN
+Christ NNP
+'s POS
+College NNP
+under IN
+the DT
+patronage NN
+of IN
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+Henry NNP
+VII NNP
+. .
+
+
+One of my wife's great aunts who lived in Southern California used to go out with David Carradine 's father, John Carradine
+One CD
+of IN
+my PRP$
+wife NN
+'s POS
+great JJ
+aunts NNS
+who WP
+lived VBD
+in IN
+Southern NNP
+California NNP
+used VBD
+to TO
+go VB
+out RP
+with IN
+David NNP
+Carradine NNP
+'s POS
+father NN
+, ,
+John NNP
+Carradine NNP
+
+
+First there Barry Goldwater Jr. , son of Barry Goldwater .
+First RB
+there EX
+Barry NNP
+Goldwater NNP
+Jr. NNP
+, ,
+son NN
+of IN
+Barry NNP
+Goldwater NNP
+. .
+
+
+Henry VII was born Henry Tudor , son of a Welsh nobleman and Margaret Beaufort , a descendant of Edward III
+Henry NNP
+VII NNP
+was VBD
+born VBN
+Henry NNP
+Tudor NNP
+, ,
+son NN
+of IN
+a DT
+Welsh NNP
+nobleman NN
+and CC
+Margaret NNP
+Beaufort NNP
+, ,
+a DT
+descendant NN
+of IN
+Edward NNP
+III CD
+
+
+The church was reputedly enlarged by Lady Margaret Beaufort , mother of Henry VII .
+The DT
+church NN
+was VBD
+reputedly RB
+enlarged VBN
+by IN
+Lady NNP
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+Henry NNP
+VII NNP
+. .
+
+
+The Schmitz ?s father John G. Schmitz was a Senator and congressman from California .
+The DT
+Schmitz NNP
+? .
+s VBZ
+father NN
+John NNP
+G. NNP
+Schmitz NNP
+was VBD
+a DT
+Senator NNP
+and CC
+congressman NN
+from IN
+California NNP
+. .
+
+
+In the rock-umentary, Paul 's daughter Mary is the on-screen interviewer
+In IN
+the DT
+rock NN
+- HYPH
+umentary JJ
+, ,
+Paul NNP
+'s POS
+daughter NN
+Mary NNP
+is VBZ
+the DT
+on IN
+- HYPH
+screen NN
+interviewer NN
+
+
+Umm that picture is Dr. Dre 's oldest son not Andre Young .
+Umm IN
+that DT
+picture NN
+is VBZ
+Dr. NNP
+Dre NNP
+'s POS
+oldest JJS
+son NN
+not RB
+Andre NNP
+Young NNP
+. .
+
+
+St John's College was founded in 1511 by Lady Margaret Beaufort , mother of King Henry VII .
+St NNP
+John NNP
+'s POS
+College NNP
+was VBD
+founded VBN
+in IN
+1511 CD
+by IN
+Lady NNP
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+King NNP
+Henry NNP
+VII NNP
+. .
+
+
+Ambani 's father Dhirubhai was an established industrialist
+Ambani NNP
+'s POS
+father NN
+Dhirubhai NNP
+was VBD
+an DT
+established VBN
+industrialist NN
+
+
+Not in the least bit co-incidentally, Jill 's father was Michael Balcon , head of Ealing Studios from 1937 to 1959
+Not RB
+in IN
+the DT
+least JJS
+bit NN
+co NN
+- NN
+incidentally RB
+, ,
+Jill NNP
+'s POS
+father NN
+was VBD
+Michael NNP
+Balcon NNP
+, ,
+head NN
+of IN
+Ealing VBG
+Studios NNPS
+from IN
+1937 CD
+to IN
+1959 CD
+
+
+Although, James is protestant his mother was the Catholic martyr   Mary Queen Of Scots  .
+Although IN
+, ,
+James NNP
+is VBZ
+protestant JJ
+his PRP$
+mother NN
+was VBD
+the DT
+martyr NN
+   _SP
+Mary NNP
+Queen NNP
+Of IN
+Scots NNP
+  _SP
+. .
+Catholic JJ Incorrect
+
+
+Madonna ?s friendship with Paul McCartney ?s fashion designer daughter, Stella has been undergoing serious stress lately
+Madonna NNP
+? .
+s PRP
+friendship NN
+with IN
+Paul NNP
+McCartney NNP
+? .
+s POS
+fashion NN
+designer NN
+daughter NN
+, ,
+Stella NNP
+has VBZ
+been VBN
+undergoing VBG
+serious JJ
+stress NN
+lately RB
+
+
+Borges 's mother, Leonor Acevedo Suárez , learned English from either her hubby & worked professionally as a translator
+Borges NNS
+'s POS
+mother NN
+, ,
+Leonor NNP
+Acevedo NNP
+Suárez NNP
+, ,
+learned VBD
+English NNP
+from IN
+either CC
+her PRP$
+hubby NN
+& CC
+worked VBD
+professionally RB
+as IN
+a DT
+translator NN
+
+
+Lat year's Person of the Year was Sir Paul McCartney 's fashion designer daughter Stella McCartney
+Lat NNP
+year NN
+'s POS
+Person NNP
+of IN
+the DT
+Year NNP
+was VBD
+Sir NNP
+Paul NNP
+McCartney NNP
+'s POS
+fashion NN
+designer NN
+daughter NN
+Stella NNP
+McCartney NNP
+
+
+Last year's PETA Person of the Year was Sir Paul 's daughter, Stella McCartney
+Last JJ
+year NN
+'s POS
+PETA NNP
+Person NNP
+of IN
+the DT
+Year NNP
+was VBD
+Sir NNP
+Paul NNP
+'s POS
+daughter NN
+, ,
+Stella NNP
+McCartney NNP
+
+
+- According to the   Dream Stele   inscription Thutmose IV was not the firstborn son of his father Amenhotep II
+- :
+According VBG
+to IN
+the DT
+   _SP
+Dream NNP
+Stele NNP
+   _SP
+inscription NN
+Thutmose NNP
+IV NNP
+was VBD
+not RB
+the DT
+firstborn JJ
+son NN
+of IN
+his PRP$
+father NN
+Amenhotep NNP
+II NNP
+
+
+A son of Qualcomm co-founder Younes Nazarian , Sam is 31, ambitious, and on a tear.
+A DT
+son NN
+of IN
+Qualcomm NNP
+co NN
+- NN
+founder NN
+Younes NNS
+Nazarian NNP
+, ,
+Sam NNP
+is VBZ
+31 CD
+, ,
+ambitious JJ
+, ,
+and CC
+on IN
+a DT
+tear NN
+. .
+
+
+Aram , the son of Shem , had the following children: His birth and death dates are unknown
+Aram NNP
+, ,
+the DT
+son NN
+of IN
+Shem NNP
+, ,
+had VBD
+the DT
+following VBG
+children NNS
+: :
+His PRP$
+birth NN
+and CC
+death NN
+dates NNS
+are VBP
+unknown JJ
+
+
+Heather walked down the aisle to Heather which Paul had written for her
+Heather NNP
+walked VBD
+down IN
+the DT
+aisle NN
+to IN
+Heather NNP
+which WDT
+Paul NNP
+had VBD
+written VBN
+for IN
+her PRP
+
+
+(step-father of Henry Tudor , via his marriage to Margaret Beaufort , mother of Henry ).
+( -LRB-
+step NN
+- HYPH
+father NN
+of IN
+Henry NNP
+Tudor NNP
+, ,
+via IN
+his PRP$
+marriage NN
+to IN
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+Henry NNP
+) -RRB-
+. .
+
+
+The reign of Sobhuza 's son, Mswati II , was conducted under difficult conditions from the beginning.
+The DT
+reign NN
+of IN
+Sobhuza NNP
+'s POS
+son NN
+, ,
+Mswati NNP
+II NNP
+, ,
+was VBD
+conducted VBN
+under IN
+difficult JJ
+conditions NNS
+from IN
+the DT
+beginning NN
+. .
+
+
+About 1626, Isaac married his second wife, Fear BREWSTER , daughter of Elder William BREWSTER
+About IN
+1626 CD
+, ,
+Isaac NNP
+married VBD
+his PRP$
+second JJ
+wife NN
+, ,
+Fear NNP
+BREWSTER NNP
+, ,
+daughter NN
+of IN
+Elder NNP
+William NNP
+BREWSTER NNP
+
+
+Thutmose was born to Amenhotep II and Tiaa
+Thutmose NN
+was VBD
+born VBN
+to IN
+Amenhotep NNP
+II NNP
+and CC
+Tiaa NNP
+
+
+Borges 's mother, Leonor Acevedo Suárez , was a translator
+Borges NNS
+'s POS
+mother NN
+, ,
+Leonor NNP
+Acevedo NNP
+Suárez NNP
+, ,
+was VBD
+a DT
+translator NN
+
+
+Here's information about Paul 's marriage relationship with Heather , their divorce, his children, and more
+Here RB
+'s VBZ
+information NN
+about IN
+Paul NNP
+'s POS
+marriage NN
+relationship NN
+with IN
+Heather NNP
+, ,
+their PRP$
+divorce NN
+, ,
+his PRP$
+children NNS
+, ,
+and CC
+more JJR
+
+
+Alfred , son of King Æthelwulf , in Rome
+Alfred NNP
+, ,
+son NN
+of IN
+King NNP
+Æthelwulf NNP
+, ,
+in IN
+Rome NNP
+
+
+Marsh stated   Archie is our beautiful angel and we will miss him so much
+Marsh NNP
+stated VBD
+   _SP
+Archie NNP
+is VBZ
+our PRP$
+beautiful JJ
+angel NN
+and CC
+we PRP
+will MD
+miss VB
+him PRP
+so RB
+much RB
+
+
+Henry VII  - Biography for the king of England , son of Edmund Tudor and Margaret Beaufort .
+Henry NNP
+VII NNP
+  _SP
+- :
+Biography NNP
+for IN
+the DT
+king NN
+of IN
+England NNP
+, ,
+son NN
+of IN
+Edmund NNP
+Tudor NNP
+and CC
+Margaret NNP
+Beaufort NNP
+. .
+
+
+On the 10th anniversary of Pai Hsiao-yen 's kidnap/murder, Pai Ping-ping 's mood remains as intense as back then.
+On IN
+the DT
+10th JJ
+anniversary NN
+of IN
+Pai NNP
+Hsiao NNP
+- HYPH
+yen NNP
+'s POS
+kidnap NN
+/ SYM
+murder NN
+, ,
+Pai NNP
+Ping NNP
+- HYPH
+ping NNP
+'s POS
+mood NN
+remains VBZ
+as RB
+intense JJ
+as IN
+back RB
+then RB
+. .
+
+
+Succeeding Shapur I , Bahram I  persecuted Mani and his followers under pressure from Zoroastrian Magi
+Succeeding VBG
+Shapur NNP
+I PRP
+, ,
+Bahram NNP
+I PRP
+  _SP
+persecuted VBN
+Mani NNP
+and CC
+his PRP$
+followers NNS
+under IN
+pressure NN
+from IN
+Zoroastrian NNP
+Magi NNP
+
+
+James Sobieski ?s own mother, Marie Casimire favored her son-in-law, the Elector of Bavaria
+James NNP
+Sobieski NNP
+? .
+s VBZ
+own JJ
+mother NN
+, ,
+Marie NNP
+Casimire NNP
+favored VBD
+her PRP$
+son NN
+- HYPH
+in IN
+- HYPH
+law NN
+, ,
+the DT
+Elector NNP
+of IN
+Bavaria NNP
+
+
+One of these is Margaret Beaufort , mother of King Henry VII
+One CD
+of IN
+these DT
+is VBZ
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+King NNP
+Henry NNP
+VII NNP
+
+
+Elizabeth had executed James I 's mother, Mary, Queen of Scots , to avoid attempts on her life
+Elizabeth NNP
+had VBD
+executed VBN
+James NNP
+I PRP
+'s VBZ
+mother NN
+, ,
+Mary NNP
+, ,
+Queen NNP
+of IN
+Scots NNPS
+, ,
+to TO
+avoid VB
+attempts NNS
+on IN
+her PRP$
+life NN
+
+
+James Mill 's son, John Stuart Mill , began to file apart the link between liberalism and the free-market
+James NNP
+Mill NNP
+'s POS
+son NN
+, ,
+John NNP
+Stuart NNP
+Mill NNP
+, ,
+began VBD
+to TO
+file VB
+apart RB
+the DT
+link NN
+between IN
+liberalism NN
+and CC
+the DT
+free JJ
+- HYPH
+market NN
+
+
+Mary was moved to Westminster by her son, James I , Katharine still remains.
+Mary NNP
+was VBD
+moved VBN
+to IN
+Westminster NNP
+by IN
+her PRP$
+son NN
+, ,
+James NNP
+I NNP
+, ,
+Katharine NNP
+still RB
+remains VBZ
+. .
+
+
+last year: Dr. Dre ?s son, Andre Young Jr. , died from an overdose of heroin and morphine, the Los Angeles County Department of Coroner ?..
+last JJ
+year NN
+: :
+Dr. NNP
+Dre NNP
+? .
+s NNP
+son NN
+, ,
+Andre NNP
+Young NNP
+Jr. NNP
+, ,
+died VBD
+from IN
+an DT
+overdose NN
+of IN
+heroin NN
+and CC
+morphine NNP
+, ,
+the DT
+Los NNP
+Angeles NNP
+County NNP
+Department NNP
+of IN
+Coroner NNP
+? .
+.. NFP
+
+
+It was there in 1567 that the infant son of Mary Queen of Scots was crowned James VI of Scotland .
+It PRP
+was VBD
+there RB
+in IN
+1567 CD
+that IN
+the DT
+infant NN
+son NN
+of IN
+Mary NNP
+Queen NNP
+of IN
+Scots NNPS
+was VBD
+crowned VBN
+James NNP
+VI NNP
+of IN
+Scotland NNP
+. .
+
+
+Ken Kesey was born in La Junta , Colorado to Frederick A. Kesey and Geneva Smith Kesey
+Ken NNP
+Kesey NNP
+was VBD
+born VBN
+in IN
+La NNP
+Junta NNP
+, ,
+Colorado NNP
+to IN
+Frederick NNP
+A. NNP
+Kesey NNP
+and CC
+Geneva NNP
+Smith NNP
+Kesey NNP
+
+
+Paul McCartney ?s ex-wife Heather McCartney naked  for your pleasure - enjoy! (or Heather Mills or even Heather Mills-McCartney
+Paul NNP
+McCartney NNP
+? .
+s LS
+ex NN
+- NN
+wife NN
+Heather NNP
+McCartney NNP
+naked JJ
+  _SP
+for IN
+your PRP$
+pleasure NN
+- HYPH
+enjoy NN
+! .
+( -LRB-
+or CC
+Heather NNP
+Mills NNPS
+or CC
+even RB
+Heather NNP
+Mills NNPS
+- HYPH
+McCartney NNP
+
+
+The project was spearheaded by Max Fleischer ?s son, Richard Fleischer , and was to have been directed by Moore .
+The DT
+project NN
+was VBD
+spearheaded VBN
+by IN
+Max NNP
+Fleischer NNP
+? .
+s NNP
+son NN
+, ,
+Richard NNP
+Fleischer NNP
+, ,
+and CC
+was VBD
+to TO
+have VB
+been VBN
+directed VBN
+by IN
+Moore NNP
+. .
+
+
+Elizabeth I wrote a letter to Mary at her trial, and about the execution to Mary 's son, King James VI .
+Elizabeth NNP
+I PRP
+wrote VBD
+a DT
+letter NN
+to IN
+Mary NNP
+at IN
+her PRP$
+trial NN
+, ,
+and CC
+about IN
+the DT
+execution NN
+to IN
+Mary NNP
+'s POS
+son NN
+, ,
+King NNP
+James NNP
+VI NNP
+. .
+
+
+Eppie Lederer 's daughter, Margo Howard , is an advice columnist as well
+Eppie NNP
+Lederer NNP
+'s POS
+daughter NN
+, ,
+Margo NNP
+Howard NNP
+, ,
+is VBZ
+an DT
+advice NN
+columnist NN
+as RB
+well RB
+
+
+She and her partner of 4 years, Gabriel Aubry became parents to Nahla Ariela Aubry on March 16, 2008
+She PRP
+and CC
+her PRP$
+partner NN
+of IN
+4 CD
+years NNS
+, ,
+Gabriel NNP
+Aubry NNP
+became VBD
+parents NNS
+to IN
+Nahla NNP
+Ariela NNP
+Aubry NNP
+on IN
+March NNP
+16 CD
+, ,
+2008 CD
+
+
+Emir 's son, Stribor Kusturica also joined the band to play the percussions
+Emir NNP
+'s POS
+son NN
+, ,
+Stribor NNP
+Kusturica NNP
+also RB
+joined VBD
+the DT
+band NN
+to TO
+play VB
+the DT
+percussions NNS
+
+
+Laila Ali  is the daughter of Muhammad Ali and his third wife Veronica Porsche Ali .
+Laila NNP
+Ali NNP
+  _SP
+is VBZ
+the DT
+daughter NN
+of IN
+Muhammad NNP
+Ali NNP
+and CC
+his PRP$
+third JJ
+wife NN
+Veronica NNP
+Porsche NNP
+Ali NNP
+. .
+
+
+His son Shem died at 600. Shem 's son Arphaxad lived only to 436.
+His PRP$
+son NN
+Shem NNP
+died VBD
+at IN
+600 CD
+. .
+Shem NNP
+'s POS
+son NN
+Arphaxad NNP
+lived VBD
+only RB
+to IN
+436 CD
+. .
+
+
+Tuthmosis IV , Amenhotep II 's successor concluded the peace treaty when he married the daughter of the Mitanni king, Artatama
+Tuthmosis NNP
+IV NNP
+, ,
+Amenhotep NNP
+II NNP
+'s POS
+successor NN
+concluded VBD
+the DT
+peace NN
+treaty NN
+when WRB
+he PRP
+married VBD
+the DT
+daughter NN
+of IN
+the DT
+Mitanni NNP
+king NN
+, ,
+Artatama NNP
+
+
+It was refounded in 1505 and moved to its present site by Lady Margaret Beaufort , mother of King Henry VII .
+It PRP
+was VBD
+refounded VBN
+in IN
+1505 CD
+and CC
+moved VBD
+to IN
+its PRP$
+present JJ
+site NN
+by IN
+Lady NNP
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+King NNP
+Henry NNP
+VII NNP
+. .
+
+
+Heather also claims she has evidence of what she calls  spiteful phone calls  from Paul 's daughter Stella
+Heather NNP
+also RB
+claims VBZ
+she PRP
+has VBZ
+evidence NN
+of IN
+what WP
+she PRP
+calls VBZ
+  _SP
+spiteful JJ
+phone NN
+calls NNS
+  _SP
+from IN
+Paul NNP
+'s POS
+daughter NN
+Stella NNP
+
+
+In 1505 it was re-founded as Christ's College by the Lady Margaret Beaufort , mother of King Henry VII .
+In IN
+1505 CD
+it PRP
+was VBD
+re VBN
+- VBN
+founded VBN
+as IN
+Christ NNP
+'s POS
+College NNP
+by IN
+the DT
+Lady NNP
+Margaret NNP
+Beaufort NNP
+, ,
+mother NN
+of IN
+King NNP
+Henry NNP
+VII NNP
+. .
+
+
+22The sons of Shem were Elam , Asshur , Arphaxad, Lud , and Aram
+22The CD
+sons NNS
+of IN
+Shem NNP
+were VBD
+Elam NNP
+, ,
+Asshur NNP
+, ,
+Arphaxad NNP
+, ,
+Lud NNP
+, ,
+and CC
+Aram NNP
+
+
+Irwin Donenfeld , who left DC Comics in 1968, was Harry 's son]
+Irwin NNP
+Donenfeld NNP
+, ,
+who WP
+left VBD
+DC NNP
+Comics NNP
+in IN
+1968 CD
+, ,
+was VBD
+Harry NNP
+'s POS
+son NN
+] -RRB-
+
+
+James VI of Scotland , son of Mary, Queen of Scots , was born here
+James NNP
+VI NNP
+of IN
+Scotland NNP
+, ,
+son NN
+of IN
+Mary NNP
+, ,
+Queen NNP
+of IN
+Scots NNPS
+, ,
+was VBD
+born VBN
+here RB
+
+
+Anusapati then took the throne and allied himself with Mahisa Wonga Teleng, one of Ken Arok 's son by Ken Dedes
+Anusapati NNP
+then RB
+took VBD
+the DT
+throne NN
+and CC
+allied VBD
+himself PRP
+with IN
+Mahisa NNP
+Wonga NNP
+Teleng NNP
+, ,
+one CD
+of IN
+Ken NNP
+Arok NNP
+'s POS
+son NN
+by IN
+Ken NNP
+Dedes NNP
+
+
+The father of Tuthmosis IV was Amenhotep II and his mother was Queen Tio
+The DT
+father NN
+of IN
+Tuthmosis NNP
+IV NNP
+was VBD
+Amenhotep NNP
+II NNP
+and CC
+his PRP$
+mother NN
+was VBD
+Queen NNP
+Tio NNP
+
+
+Unfortunately, the plan didn't quite come together for Christian Peppard , son of Detroit native George Peppard ,
+Unfortunately RB
+, ,
+the DT
+plan NN
+did VBD
+n't RB
+quite RB
+come VB
+together RB
+for IN
+Christian NNP
+Peppard NNP
+, ,
+son NN
+of IN
+Detroit NNP
+native JJ
+George NNP
+Peppard NNP
+, ,
+
+
+Zane Kesey is the offspring of Ken Kesey , a living icon who carved out his niche in pop culture history.
+Zane NNP
+Kesey NNP
+is VBZ
+the DT
+offspring NN
+of IN
+Ken NNP
+Kesey NNP
+, ,
+a DT
+living VBG
+icon NN
+who WP
+carved VBD
+out RP
+his PRP$
+niche NN
+in IN
+pop NN
+culture NN
+history NN
+. .
+
+
+Michael ?s dad, Doug Bennet , was President of NPR for a while
+Michael NNP
+? .
+s NNP
+dad NN
+, ,
+Doug NNP
+Bennet NNP
+, ,
+was VBD
+President NNP
+of IN
+NPR NNP
+for IN
+a DT
+while NN
+
+
+Eros Ramazzotti was married to famous Swiss model and television host Michelle Hunziker and has one daughter Aurora Sophie with her
+Eros NNP
+Ramazzotti NNP
+was VBD
+married VBN
+to IN
+famous JJ
+model NN
+and CC
+television NN
+host NN
+Michelle NNP
+Hunziker NNP
+and CC
+has VBZ
+one CD
+daughter NN
+Aurora NNP
+Sophie NNP
+with IN
+her PRP
+Swiss JJ Incorrect
+
+
+Succeeding Shapur I , Bahram I  persecuted Mani and his followers under pressure from Zoroastrians orthodoxy
+Succeeding VBG
+Shapur NNP
+I PRP
+, ,
+Bahram NNP
+I PRP
+  _SP
+persecuted VBN
+Mani NNP
+and CC
+his PRP$
+followers NNS
+under IN
+pressure NN
+from IN
+Zoroastrians NNPS
+orthodoxy NN
+
+
+Infanta Isabella Clara Eugenia of Spain was born in Segovia on 12 August, 1566, the daughter of Philip II of Spain and his third wife Elisabeth of Valois
+Infanta NNP
+Isabella NNP
+Clara NNP
+Eugenia NNP
+of IN
+Spain NNP
+was VBD
+born VBN
+in IN
+Segovia NNP
+on IN
+12 CD
+August NNP
+, ,
+1566 CD
+, ,
+the DT
+daughter NN
+of IN
+Philip NNP
+II NNP
+of IN
+Spain NNP
+and CC
+his PRP$
+third JJ
+wife NN
+Elisabeth NNP
+of IN
+Valois NNP
+
+
+Weaver is the daughter of the late NBC television executive Pat Weaver and Desir?e Hawkins Ingles, a British actress
+Weaver NNP
+is VBZ
+the DT
+daughter NN
+of IN
+the DT
+late JJ
+NBC NNP
+television NN
+executive NN
+Pat NNP
+Weaver NNP
+and CC
+Desir?e NNP
+Hawkins NNP
+Ingles NNPS
+, ,
+a DT
+actress NN
+British JJ Incorrect
+
+
+As was Paul McCartney 's daughter, Stella McCartney .
+As IN
+was VBD
+Paul NNP
+McCartney NNP
+'s POS
+daughter NN
+, ,
+Stella NNP
+McCartney NNP
+. .
+
+
+Thats odd, one of my trusty history books says Queen Charlotte was the daughter of Karl Ludwig Frederick of Mecklenburg-Strelitz
+That DT
+s VBZ
+odd JJ
+, ,
+one CD
+of IN
+my PRP$
+trusty NN
+history NN
+books NNS
+says VBZ
+Queen NNP
+Charlotte NNP
+was VBD
+the DT
+daughter NN
+of IN
+Karl NNP
+Ludwig NNP
+Frederick NNP
+of IN
+Mecklenburg NNP
+- HYPH
+Strelitz NNP
+
+
+He then married Fear Brewster , daughter of William Brewster , before 22 May 1627
+He PRP
+then RB
+married VBD
+Fear NNP
+Brewster NNP
+, ,
+daughter NN
+of IN
+William NNP
+Brewster NNP
+, ,
+before IN
+22 CD
+May NNP
+1627 CD
+
+
+King Ethelwulf of Wessex , father of Alfred the Great , was born in Aachen during Charlemagne 's rule
+King NNP
+Ethelwulf NNP
+of IN
+Wessex NNP
+, ,
+father NN
+of IN
+Alfred NNP
+the DT
+Great NNP
+, ,
+was VBD
+born VBN
+in IN
+Aachen NNP
+during IN
+Charlemagne NNP
+'s POS
+rule NN
+
+
+After Sviatoslav 's death Vladimir vied with his two brothers, Yaropolk and Oleg, for the succession
+After IN
+Sviatoslav NNP
+'s POS
+death NN
+Vladimir NNP
+vied VBD
+with IN
+his PRP$
+two CD
+brothers NNS
+, ,
+Yaropolk NNP
+and CC
+Oleg NNP
+, ,
+for IN
+the DT
+succession NN
+
+
+Perhaps most striking is the wood panelled chamber in which Mary Queen of Scots gave birth to James VI
+Perhaps RB
+most RBS
+striking JJ
+is VBZ
+the DT
+wood NN
+panelled VBN
+chamber NN
+in IN
+which WDT
+Mary NNP
+Queen NNP
+of IN
+Scots NNPS
+gave VBD
+birth NN
+to IN
+James NNP
+VI NNP
+
+
+In the year of Christ 1140, flourished Anna Comnena , daughter of Alexius Comnenus , emperor of Constantinople
+In IN
+the DT
+year NN
+of IN
+Christ NNP
+1140 CD
+, ,
+flourished VBD
+Anna NNP
+Comnena NNP
+, ,
+daughter NN
+of IN
+Alexius NNP
+Comnenus NNP
+, ,
+emperor NN
+of IN
+Constantinople NNP
+
+
+Heather McCartney  is the daughter of Linda McCartney , and the stepdaughter of former Beatle Paul McCartney
+Heather NNP
+McCartney NNP
+  _SP
+is VBZ
+the DT
+daughter NN
+of IN
+Linda NNP
+McCartney NNP
+, ,
+and CC
+the DT
+stepdaughter NN
+of IN
+former JJ
+Beatle NNP
+Paul NNP
+McCartney NNP
+
+
+Elizabeth bore Philip two daughters, Isabella Clara Eugenia  and Catherine Micaela
+Elizabeth NNP
+bore VBD
+Philip NNP
+two CD
+daughters NNS
+, ,
+Isabella NNP
+Clara NNP
+Eugenia NNP
+  _SP
+and CC
+Catherine NNP
+Micaela NNP
+
+
