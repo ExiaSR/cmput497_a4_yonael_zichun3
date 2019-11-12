@@ -56,7 +56,7 @@ class Relation:
         self.subject_paths = []
         self.object_paths = []
         self.shortest_path = set()  # (subject_path, object_path)
-        self._doc: Doc = None
+        self._doc = None
         self._subject_idx = []
         self._object_idx = []
 
@@ -213,13 +213,13 @@ Lowest common ancestor: {}""".format(
             for j in self._object_idx:
                 idx = lca_matrix[i][j]
                 if idx != -1:
-                    token: Token = self._doc[idx]
+                    token = self._doc[idx]
                     common_ancestor.add("{}_{}".format(token.text, token.pos_))
 
         return ", ".join(list(common_ancestor))
 
 
-def get_relations(dir="data") -> Dict[str, List[Relation]]:
+def get_relations(dir="data"): #-> Dict[str, List[Relation]]:
     if not os.path.isdir(dir):
         raise Exception('Directory "{}" does not exist.'.format(dir))
 
@@ -280,7 +280,7 @@ def save_output(all_relations, path="task2/runs/"):
         )
 
 
-def get_paths_and_verbs(doc: Doc) -> Tuple[set, list, list]:
+def get_paths_and_verbs(doc: Doc): #-> Tuple[set, list, list]:
     """
     Get all paths from SUBJECT and OBJECT to root
     """
