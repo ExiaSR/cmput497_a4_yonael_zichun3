@@ -18,8 +18,8 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 
 # Install spaCy language model
-$ python -m spacy en_core_web_sm
-$ python -m spacy en_core_web_lg
+$ python -m spacy download en_core_web_sm
+$ python -m spacy download en_core_web_lg
 ```
 
 ## Authors
