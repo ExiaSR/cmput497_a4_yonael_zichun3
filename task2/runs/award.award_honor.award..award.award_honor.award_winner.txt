@@ -1,0 +1,900 @@
+... The ENTITY1 is a book by OBJECT that was awarded the SUBJECT in 1979
+ENTITY1 - [[ Westing Game | /m/07w5b0 ]]
+SUBJECT - [[ John Newbery Medal | /m/01cd7p ]]
+OBJECT - [[ Ellen Raskin | /m/0556s_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB -> book_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> by_ADP -> book_NOUN -> is_AUX
+Lowest common ancestor: book_NOUN
+
+
+Here's OBJECT hot off his ENTITY1 win for SUBJECT learning for the first time ENTITY2 is in jail
+ENTITY1 - [[ Emmy | /m/013sb1 ]]
+ENTITY2 - [[ OJ Simpson | /m/016mbz ]]
+SUBJECT - [[ Primetime Emmy Award for Outstanding Variety Series - Musical | /m/0fc9js ]]
+OBJECT - [[ Jon Stewart | /m/01j7rd ]]
+Subject Path: SUBJECT_NOUN -> learning_VERB -> for_ADP -> win_VERB -> 's_AUX
+Object Path: OBJECT_NOUN -> 's_AUX
+Lowest common ancestor: 's_AUX
+
+
+OBJECT awarded ENTITY1 the SUBJECT , the nation's highest civilian honor
+ENTITY1 - [[ Brinkley | /m/01kfth ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ George H. W. Bush | /m/034ls ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+OBJECT left ENTITY1 in 1966 and, in 1998, he was awarded the SUBJECT by President ENTITY2
+ENTITY1 - [[ CORE | /m/01cytd ]]
+ENTITY2 - [[ Bill Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ James Farmer | /m/01w9r1 ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB -> left_VERB
+Object Path: OBJECT_NOUN -> left_VERB
+Lowest common ancestor: left_VERB
+
+
+ENTITY1 presents OBJECT with the   SUBJECT   and a cracking pair of 38DD implants to play with whenever he visits.
+ENTITY1 - [[ George Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Tony Blair | /m/0948xk ]]
+Subject Path: SUBJECT_PROPN -> with_ADP -> OBJECT_NOUN -> presents_VERB
+Object Path: OBJECT_NOUN -> presents_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+On September 14, 1964, ENTITY1 received the SUBJECT , the ENTITY2 ' highest civilian honor, from President OBJECT
+ENTITY1 - [[ Walt Disney | /m/081nh ]]
+ENTITY2 - [[ United States | /m/09c7w0 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Lyndon B. Johnson | /m/0f7fy ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_PROPN -> from_ADP -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+He survived it and received the SUBJECT from fellow ENTITY1 veteran OBJECT
+ENTITY1 - [[ WWII | /m/081pw ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ John F. Kennedy | /m/0d3k14 ]]
+Subject Path: SUBJECT_NOUN -> received_VERB -> survived_VERB
+Object Path: OBJECT_NOUN -> from_ADP -> SUBJECT_NOUN -> received_VERB -> survived_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+On January 13, 2009, ENTITY1 presented OBJECT with the SUBJECT
+ENTITY1 - [[ George Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Álvaro Uribe | /m/01kb1b ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> presented_VERB
+Object Path: OBJECT_NOUN -> presented_VERB
+Lowest common ancestor: presented_VERB
+
+
+Does OBJECT deserve the SUBJECT ?
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Tony Blair | /m/0948xk ]]
+Subject Path: SUBJECT_NOUN -> deserve_VERB
+Object Path: OBJECT_NOUN -> deserve_VERB
+Lowest common ancestor: deserve_VERB
+
+
+In nineteen-seventy-six, President OBJECT awarded ENTITY1 the SUBJECT .
+ENTITY1 - [[ Jesse Owens | /m/05wb1dp ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gerald Ford | /m/0c_md_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+These characteristics were also the reasons why President OBJECT awarded ENTITY1 the SUBJECT , posthumously
+ENTITY1 - [[ Mead | /m/04ysr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Jimmy Carter | /m/042kg ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB -> reasons_NOUN -> were_AUX
+Object Path: OBJECT_PROPN -> awarded_VERB -> reasons_NOUN -> were_AUX
+Lowest common ancestor: awarded_VERB
+
+
+Ms. OBJECT was awarded the SUBJECT by President ENTITY1 last year.
+ENTITY1 - [[ Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Audrey Hepburn | /m/0dqcm ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+OBJECT also received the SUBJECT on 14 September 1964
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Walt Disney | /m/081nh ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+To his credit, Mr OBJECT struck a mildly hangdog look as the SUBJECT was placed around his neck
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Tony Blair | /m/0948xk ]]
+Subject Path: SUBJECT_NOUN -> placed_VERB -> look_NOUN -> struck_VERB
+Object Path: OBJECT_PROPN -> struck_VERB
+Lowest common ancestor: struck_VERB
+
+
+This film is considerably better than OBJECT 's last film, ENTITY1 , a SUBJECT nominee from 2006
+ENTITY1 - [[ Letters From Iwo Jima | /m/0gy0l_ ]]
+SUBJECT - [[ Academy Award for Best Picture | /m/0gq9h ]]
+OBJECT - [[ Clint Eastwood | /m/0bwh6 ]]
+Subject Path: SUBJECT_ADJ -> nominee_NOUN -> ENTITY1_PROPN -> film_NOUN -> than_SCONJ -> better_ADJ -> is_AUX
+Object Path: OBJECT_NOUN -> film_NOUN -> than_SCONJ -> better_ADJ -> is_AUX
+Lowest common ancestor: film_NOUN
+
+
+Winner of two Pulitzer Prizezs for his biographies of W.E.B. DuBois, OBJECT also won the SUBJECT and the ENTITY1
+ENTITY1 - [[ Francis Parkman Prize | /m/0f2346 ]]
+SUBJECT - [[ Bancroft Prize | /m/0223xd ]]
+OBJECT - [[ David Levering Lewis | /m/0cqt6z ]]
+Subject Path: SUBJECT_NOUN -> won_VERB
+Object Path: OBJECT_PROPN -> won_VERB
+Lowest common ancestor: won_VERB
+
+
+In 1999, President ENTITY1 awarded OBJECT the SUBJECT
+ENTITY1 - [[ Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gerald Ford | /m/0c_md_ ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+On 27 November 1930 OBJECT was awarded the SUBJECT for negotiating the ENTITY1 of 1928, which outlawed war
+ENTITY1 - [[ Kellogg-Briand Pact | /m/04bq9 ]]
+SUBJECT - [[ Nobel Peace Prize | /m/05f3q ]]
+OBJECT - [[ Frank B. Kellogg | /m/01l8vs ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1964, ENTITY1 was awarded the SUBJECT by President OBJECT .
+ENTITY1 - [[ Steinbeck | /m/04107 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Lyndon B. Johnson | /m/0f7fy ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> by_ADP -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+ENTITY1 and OBJECT were honored with the SUBJECT on November 9, 2005 for their contribution to ENTITY2 culture
+ENTITY1 - [[ Kahn | /m/01_z5v ]]
+ENTITY2 - [[ American | /m/09c7w0 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Vint Cerf | /m/07z23 ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> honored_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> honored_VERB
+Lowest common ancestor: honored_VERB
+
+
+About the Authors OBJECT is the author of the SUBJECT -winning The Free Women of Petersburg.
+SUBJECT - [[ Bancroft Prize | /m/0223xd ]]
+OBJECT - [[ Suzanne Lebsock | /m/028b_rp ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> author_NOUN -> is_AUX
+Object Path: OBJECT_PROPN -> About_ADP -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT was awarded an SUBJECT in 1937  for his lasting contribution to the comedy technique of the screen.
+SUBJECT - [[ Academy Honorary Award | /m/018v4d ]]
+OBJECT - [[ Mack Sennett | /m/04rg6 ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In June, 2008, OBJECT was awarded the SUBJECT , the highest civil honor a President can bestow
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Peter Pace | /m/028dny ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1998 President ENTITY1 awarded OBJECT the nation's highest civilian honor, the SUBJECT
+ENTITY1 - [[ Bill Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ James Farmer | /m/01w9r1 ]]
+Subject Path: SUBJECT_NOUN -> honor_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+: President and Mrs. OBJECT receive the SUBJECT from President ENTITY1 , Aug. 9, 1999
+ENTITY1 - [[ Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Rosalynn Carter | /m/01k0k7 ]]
+Subject Path: SUBJECT_NOUN -> receive_VERB
+Object Path: OBJECT_PROPN -> President_PROPN -> receive_VERB
+Lowest common ancestor: receive_VERB
+
+
+OBJECT received the SUBJECT in 1977 from President ENTITY1
+ENTITY1 - [[ Gerald Ford | /m/0c_md_ ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Will Durant | /m/01p8sj ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+OBJECT was awarded the SUBJECT by ENTITY1 in 1980
+ENTITY1 - [[ Jimmy Carter | /m/042kg ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Ansel Adams | /m/0lgx0 ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 2007, President ENTITY1 awarded OBJECT the SUBJECT which is the highest civilian award
+ENTITY1 - [[ George W. Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Harper Lee | /m/01bq7x ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+President OBJECT also recognized ENTITY1 ?s writing with a SUBJECT in 1963
+ENTITY1 - [[ White | /m/02nj6 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ John F. Kennedy | /m/0d3k14 ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> writing_NOUN
+Object Path: OBJECT_PROPN -> recognized_VERB
+Lowest common ancestor: 
+
+
+In 1994, OBJECT received the SUBJECT , the highest civilian honor in the ENTITY1
+ENTITY1 - [[ United States | /m/09c7w0 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Sargent Shriver | /m/01j29r ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+OBJECT was awarded the SUBJECT in 1988 and received the ENTITY1 the same year.
+ENTITY1 - [[ National Medal of Science | /m/0pk4h ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Milton Friedman | /m/04z0g ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+The OBJECT was established to perpetuate the legacy of 1996 SUBJECT winner OBJECT .
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Ginetta Sagan | /m/0h_c3y5 ]]
+Subject Path: SUBJECT_NOUN -> winner_NOUN -> OBJECT_NOUN -> of_ADP -> legacy_NOUN -> perpetuate_VERB -> established_VERB
+Object Path: OBJECT_NOUN -> established_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> legacy_NOUN -> perpetuate_VERB -> established_VERB
+Lowest common ancestor: OBJECT_NOUN, established_VERB
+
+
+In 1995, OBJECT was awarded the SUBJECT in recognition of his efforts to establish an ENTITY1
+ENTITY1 - [[ Earth Day | /m/014xqm ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gaylord Nelson | /m/01dpb_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In September 1996, former President ENTITY1 awarded OBJECT the SUBJECT , the nation?s highest civilian honor.
+ENTITY1 - [[ Bill Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Millard Fuller | /m/0bvrmr ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+OBJECT was awarded the SUBJECT , presented by President ENTITY1 in 1996
+ENTITY1 - [[ Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Rosa Parks | /m/06lfd ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1995, OBJECT was awarded the SUBJECT , the highest honor given to civilians in the ENTITY1
+ENTITY1 - [[ United States | /m/09c7w0 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gaylord Nelson | /m/01dpb_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+OBJECT received the SUBJECT in 1979, as well as many other honors, including the ENTITY1 in 1985.
+ENTITY1 - [[ Medal of Freedom | /m/05qck ]]
+SUBJECT - [[ Nobel Peace Prize | /m/05f3q ]]
+OBJECT - [[ Mother Teresa | /m/01yv6p ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+OBJECT is in ENTITY1 to receive the SUBJECT
+ENTITY1 - [[ DC | /m/0rh6k ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Tony Blair | /m/0948xk ]]
+Subject Path: SUBJECT_NOUN -> receive_VERB -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Honors OBJECT received SUBJECT in 1998 and the ENTITY1 in 2002
+ENTITY1 - [[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT - [[ Kennedy Center Honors | /m/025j12 ]]
+OBJECT - [[ Bill Cosby | /m/014zfs ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_PROPN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+Mr OBJECT will be awarded the SUBJECT by ENTITY1 President ENTITY2 next week
+ENTITY1 - [[ US | /m/09c7w0 ]]
+ENTITY2 - [[ George W Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ John Howard | /m/0chh05 ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+ENTITY1 is a novel by OBJECT that was awarded the SUBJECT in 1979.
+ENTITY1 - [[ The Westing Game | /m/0kv479 ]]
+SUBJECT - [[ John Newbery Medal | /m/01cd7p ]]
+OBJECT - [[ Ellen Raskin | /m/0556s_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB -> OBJECT_NOUN -> by_ADP -> novel_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> by_ADP -> novel_NOUN -> is_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+Also, right after the incident, ENTITY1 awarded OBJECT the SUBJECT .
+ENTITY1 - [[ Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Wesley Clark | /m/01l64q ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+President OBJECT formally established the SUBJECT honor by executive order in 1963.
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ John F. Kennedy | /m/0d3k14 ]]
+Subject Path: SUBJECT_ADJ -> honor_NOUN -> established_VERB
+Object Path: OBJECT_PROPN -> established_VERB
+Lowest common ancestor: established_VERB
+
+
+In 2004, under OBJECT ' leadership, ENTITY1 earned an SUBJECT nomination at the ENTITY2 .
+ENTITY1 - [[ All My Children | /m/0gj50 ]]
+ENTITY2 - [[ Daytime Emmys | /m/035nn3 ]]
+SUBJECT - [[ Daytime Emmy Award for Outstanding Drama Series | /m/027qq9b ]]
+OBJECT - [[ Julie Hanan Carruthers | /m/02608mt ]]
+Subject Path: SUBJECT_NOUN -> nomination_NOUN -> earned_VERB
+Object Path: OBJECT_NOUN -> leadership_NOUN -> under_ADP -> earned_VERB
+Lowest common ancestor: earned_VERB
+
+
+In November 2005, President ENTITY1 awarded OBJECT and ENTITY2 the SUBJECT for their work
+ENTITY1 - [[ George W. Bush | /m/09b6zr ]]
+ENTITY2 - [[ Kahn | /m/01_z5v ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Vint Cerf | /m/07z23 ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+Also separate portraits of Ariel and OBJECT receiving the SUBJECT from President ENTITY1
+ENTITY1 - [[ Gerald Ford | /m/0c_md_ ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Will Durant | /m/01p8sj ]]
+Subject Path: SUBJECT_NOUN -> receiving_VERB -> portraits_NOUN
+Object Path: OBJECT_NOUN -> Ariel_PROPN -> of_ADP -> portraits_NOUN
+Lowest common ancestor: portraits_NOUN
+
+
+In 1976, President OBJECT awarded ENTITY1 the prestigious SUBJECT .
+ENTITY1 - [[ Owens | /m/0cmr3 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gerald Ford | /m/0c_md_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1963 ENTITY1 was awarded the SUBJECT by President OBJECT
+ENTITY1 - [[ Conant | /m/01zrjk ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ John F. Kennedy | /m/0d3k14 ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> by_ADP -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+Guggenheim Fellow ENTITY1 , MacArthur Fellow Olufunmilayo Falusi Olopade, and 2007 SUBJECT winner OBJECT .
+ENTITY1 - [[ Shadi Bartsch | /m/051zlyb ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gary Becker | /m/0d71m ]]
+Subject Path: SUBJECT_NOUN -> winner_NOUN -> OBJECT_NOUN -> Olopade_PROPN -> ENTITY1_PROPN
+Object Path: OBJECT_NOUN -> Olopade_PROPN -> ENTITY1_PROPN
+Lowest common ancestor: OBJECT_NOUN
+
+
+ENTITY1 defensive end OBJECT made the team as the SUBJECT winner
+ENTITY1 - [[ Louisville | /m/03tzky ]]
+SUBJECT - [[ Bronko Nagurski Trophy | /m/022tpt ]]
+OBJECT - [[ Elvis Dumervil | /m/0cx098 ]]
+Subject Path: SUBJECT_NOUN -> winner_NOUN -> as_SCONJ -> made_VERB
+Object Path: OBJECT_NOUN -> made_VERB
+Lowest common ancestor: made_VERB
+
+
+4. Unforgiven This is OBJECT SUBJECT winning ENTITY1 .
+ENTITY1 - [[ Western | /m/0hfjk ]]
+SUBJECT - [[ Academy Award for Best Picture | /m/0gq9h ]]
+OBJECT - [[ Clint Eastwood | /m/0bwh6 ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> SUBJECT_NOUN -> is_AUX
+Lowest common ancestor: SUBJECT_NOUN
+
+
+In addition, OBJECT is a recipient of the SUBJECT , and the ENTITY1
+ENTITY1 - [[ Presidential Medal of Freedom | /m/05qck ]]
+SUBJECT - [[ Albert Schweitzer Prize for Humanitarianism | /m/026ynd_ ]]
+OBJECT - [[ Jimmy Carter | /m/042kg ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> recipient_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+When OBJECT was awarded the SUBJECT , ENTITY1 ran a series on the singer's mob ties
+ENTITY1 - [[ Trudeau | /m/037w1 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Frank Sinatra | /m/02_fj ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB -> ran_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB -> ran_VERB
+Lowest common ancestor: awarded_VERB
+
+
+Posthumously, Dr. OBJECT was awarded the ENTITY1 by President ENTITY2 in 1977 and the SUBJECT in 2004
+ENTITY1 - [[ Presidential Medal of Freedom | /m/05qck ]]
+ENTITY2 - [[ Carter | /m/042kg ]]
+SUBJECT - [[ Congressional Gold Medal | /m/03vs1b ]]
+OBJECT - [[ Martin Luther King, Jr. | /m/051cc ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+ENTITY1 awarded OBJECT the SUBJECT in November 2007 for his fight against tyranny and oppression
+ENTITY1 - [[ Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Óscar Elías Biscet | /m/04r3kd ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1995, Senator OBJECT was awarded the SUBJECT in recognition of a lifetime of public service
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gaylord Nelson | /m/01dpb_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1964, ENTITY1 was awarded the SUBJECT , the nation?s highest civilian award, by President OBJECT .
+ENTITY1 - [[ Helen | /m/03ppx ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Lyndon B. Johnson | /m/0f7fy ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> by_ADP -> award_NOUN -> SUBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+OBJECT was presented the SUBJECT at this event
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Rosa Parks | /m/06lfd ]]
+Subject Path: SUBJECT_NOUN -> presented_VERB
+Object Path: OBJECT_NOUN -> presented_VERB
+Lowest common ancestor: presented_VERB
+
+
+When I watched the film with a friend, he laughed when seeing OBJECT presenting the SUBJECT to ENTITY1
+ENTITY1 - [[ McNamara | /m/0ksjc ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Lyndon B. Johnson | /m/0f7fy ]]
+Subject Path: SUBJECT_NOUN -> presenting_VERB -> seeing_VERB -> laughed_VERB
+Object Path: OBJECT_NOUN -> presenting_VERB -> seeing_VERB -> laughed_VERB
+Lowest common ancestor: presenting_VERB
+
+
+OBJECT is the third president of ENTITY1 to be honored with the SUBJECT
+ENTITY1 - [[ Carnegie Corporation of New York | /m/069d85 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Vartan Gregorian | /m/06b_g_ ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> honored_VERB -> president_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+In 1980 OBJECT was posthumously awarded the SUBJECT , the highest civilian award in ENTITY1 .
+ENTITY1 - [[ America | /m/09c7w0 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Rachel Carson | /m/0kzfp ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> In_ADP -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1999, President ENTITY1 awarded OBJECT the SUBJECT
+ENTITY1 - [[ Bill Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gerald Ford | /m/0c_md_ ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Mrs. OBJECT was a true OBJECT and a recipient of the SUBJECT
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Clare Boothe Luce | /m/0177y3 ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> recipient_NOUN -> OBJECT_NOUN -> was_AUX
+Object Path: OBJECT_PROPN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX, OBJECT_NOUN
+
+
+SUBJECT awarded to OBJECT .
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Fred Korematsu | /m/05bn6v ]]
+
+Object Path: OBJECT_NOUN -> to_ADP -> awarded_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+In 1994, OBJECT was awarded the SUBJECT posthumously
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Cesar Chavez | /m/0hw9z ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+President ENTITY1 awarded the SUBJECT to Dr. OBJECT yesterday.
+ENTITY1 - [[ Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Óscar Elías Biscet | /m/04r3kd ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> to_ADP -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 1985, he was posthumously given the SUBJECT by ENTITY1 president OBJECT
+ENTITY1 - [[ United States | /m/09c7w0 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Ronald Reagan | /m/06c0j ]]
+Subject Path: SUBJECT_NOUN -> given_VERB
+Object Path: OBJECT_NOUN -> by_ADP -> SUBJECT_NOUN -> given_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+ENTITY1 was awarded the SUBJECT ? the nation's highest civilian honor ? by President OBJECT in 1985.
+ENTITY1 - [[ Kirkpatrick | /m/01g7hs ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Ronald Reagan | /m/06c0j ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> by_ADP
+Lowest common ancestor: 
+
+
+On January 10, 1977, ENTITY1 was awarded the SUBJECT by OBJECT
+ENTITY1 - [[ Michener | /m/01h320 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gerald Ford | /m/0c_md_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> by_ADP -> SUBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+On December 15, 2006, President ENTITY1 awarded OBJECT the SUBJECT
+ENTITY1 - [[ George W. Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ B.B. King | /m/01w60_p ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Next week, Mr OBJECT will be presented with the SUBJECT by ENTITY1 at the ENTITY2 .
+ENTITY1 - [[ George Bush | /m/09b6zr ]]
+ENTITY2 - [[ White House | /m/081sq ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Tony Blair | /m/0948xk ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> presented_VERB
+Object Path: OBJECT_PROPN -> presented_VERB
+Lowest common ancestor: presented_VERB
+
+
+President ENTITY1 awarded OBJECT the SUBJECT
+ENTITY1 - [[ Bill Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Fred Korematsu | /m/05bn6v ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+After all, the SUBJECT is the ENTITY1 's highest civilian award, and OBJECT , along with former ENTITY2
+ENTITY1 - [[ US | /m/09c7w0 ]]
+ENTITY2 - [[ British | /m/07ssc ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ John Howard | /m/0chh05 ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> award_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+In December 1992, one month before her death, OBJECT received the SUBJECT for her work with ENTITY1
+ENTITY1 - [[ UNICEF | /m/0fxc0 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Audrey Hepburn | /m/0dqcm ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+In 2000, OBJECT was awarded the SUBJECT , the highest civilian award for distinguished ENTITY1 , by President ENTITY2
+ENTITY1 - [[ Americans | /m/09c7w0 ]]
+ENTITY2 - [[ Bill Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Wesley Clark | /m/01l64q ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+The SUBJECT awarded to ENTITY1 by President OBJECT
+ENTITY1 - [[ Cagney | /m/0432b ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Ronald Reagan | /m/06c0j ]]
+
+Object Path: OBJECT_PROPN -> by_ADP -> awarded_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+OBJECT received the SUBJECT for his lifetime of humanitarian work
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gregory Peck | /m/0k9j_ ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+Sh-K-Boom/ ENTITY1 president ENTITY2 and SUBJECT winner OBJECT are producing the recording
+ENTITY1 - [[ Ghostlight Records | /m/02qxzrg ]]
+ENTITY2 - [[ Kurt Deutsch | /m/0gb2nc ]]
+SUBJECT - [[ Grammy Award for Best Musical Theater Album | /m/02h3d1 ]]
+OBJECT - [[ Joel Moss | /m/01v7zv3 ]]
+Subject Path: SUBJECT_PROPN -> winner_NOUN -> OBJECT_NOUN -> ENTITY2_PROPN -> producing_VERB
+Object Path: OBJECT_NOUN -> ENTITY2_PROPN -> producing_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+How grateful I am that OBJECT received the SUBJECT last year from President ENTITY1 .
+ENTITY1 - [[ Bush | /m/09b6zr ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Fred Rogers | /m/010q36 ]]
+Subject Path: SUBJECT_NOUN -> received_VERB -> am_AUX
+Object Path: OBJECT_NOUN -> received_VERB -> am_AUX
+Lowest common ancestor: received_VERB
+
+
+His teacher, the late ENTITY1 economist OBJECT , also received the SUBJECT
+ENTITY1 - [[ University of Chicago | /m/02sjd2 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Milton Friedman | /m/04z0g ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> teacher_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+TV host OBJECT  accepts the SUBJECT award for ..
+SUBJECT - [[ Primetime Emmy Award for Outstanding Variety Series - Musical | /m/0fc9js ]]
+OBJECT - [[ Jon Stewart | /m/01j7rd ]]
+Subject Path: SUBJECT_ADJ -> award_NOUN -> accepts_VERB
+Object Path: OBJECT_NOUN -> accepts_VERB
+Lowest common ancestor: accepts_VERB
+
+
+OBJECT earned the SUBJECT
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Rosa Parks | /m/06lfd ]]
+Subject Path: SUBJECT_NOUN -> earned_VERB
+Object Path: OBJECT_NOUN -> earned_VERB
+Lowest common ancestor: earned_VERB
+
+
+Did ENTITY1 actually wear a ENTITY2 campaign button when he received the SUBJECT from President OBJECT
+ENTITY1 - [[ Walt Disney | /m/081nh ]]
+ENTITY2 - [[ Goldwater | /m/01j6t ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Lyndon B. Johnson | /m/0f7fy ]]
+Subject Path: SUBJECT_NOUN -> received_VERB -> wear_VERB
+Object Path: OBJECT_PROPN -> from_ADP -> SUBJECT_NOUN -> received_VERB -> wear_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT awarded posthumously to OBJECT , witness to the threat of ENTITY1 in ENTITY2
+ENTITY1 - [[ Communism | /m/01m59 ]]
+ENTITY2 - [[ America | /m/0x67 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Whittaker Chambers | /m/018l4f ]]
+
+Object Path: OBJECT_NOUN -> to_ADP -> awarded_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+OBJECT won the SUBJECT for ? ENTITY1 ?! ENTITY2 directed the award winning video.
+ENTITY1 - [[ No More Drama | /m/094_jq ]]
+ENTITY2 - [[ Sanji | /m/08qhn_ ]]
+SUBJECT - [[ MTV Video Music Award for Best R&B Video | /m/02f764 ]]
+OBJECT - [[ Mary J. Blige | /m/01vvyvk ]]
+Subject Path: SUBJECT_NOUN -> won_VERB
+Object Path: OBJECT_NOUN -> won_VERB
+Lowest common ancestor: won_VERB
+
+
+Does OBJECT deserve the SUBJECT
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Tony Blair | /m/0948xk ]]
+Subject Path: SUBJECT_NOUN -> deserve_VERB
+Object Path: OBJECT_NOUN -> deserve_VERB
+Lowest common ancestor: deserve_VERB
+
+
+Popular home & about a world, OBJECT received the SUBJECT in 1981 and the ENTITY1 in 1985
+ENTITY1 - [[ French Legion of Honor | /m/0154yf ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Kirk Douglas | /m/0j582 ]]
+Subject Path: SUBJECT_NOUN -> received_VERB -> home_PROPN
+Object Path: OBJECT_NOUN -> received_VERB -> home_PROPN
+Lowest common ancestor: received_VERB
+
+
+2005: ENTITY1 and OBJECT share the SUBJECT for   ENTITY2 .
+ENTITY1 - [[ Clint Eastwood | /m/0bwh6 ]]
+ENTITY2 - [[ Million Dollar Baby | /m/04q827 ]]
+SUBJECT - [[ Academy Award for Best Picture | /m/0gq9h ]]
+OBJECT - [[ Albert S. Ruddy | /m/05bdqt ]]
+Subject Path: SUBJECT_NOUN -> share_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> share_VERB
+Lowest common ancestor: share_VERB
+
+
+OBJECT was awarded the SUBJECT in August 2000, the nations highest civilian honor
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Wesley Clark | /m/01l64q ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+Dr. OBJECT ?is the recipient of the ENTITY1 and the SUBJECT , the nation?s highest civilian honor
+ENTITY1 - [[ National Humanities Medal | /m/04hyh7 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Vartan Gregorian | /m/06b_g_ ]]
+Subject Path: SUBJECT_NOUN -> ENTITY1_PROPN -> of_ADP -> recipient_NOUN -> is_AUX
+
+Lowest common ancestor: 
+
+
+In 1977, the SUBJECT was awarded posthumously to ENTITY1 by OBJECT
+ENTITY1 - [[ King | /m/04_wtm ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Jimmy Carter | /m/042kg ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> by_ADP -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+ENTITY1 was awarded the ENTITY2 for literature in 1962 and received the SUBJECT from President OBJECT in 1964
+ENTITY1 - [[ Steinbeck | /m/04107 ]]
+ENTITY2 - [[ Nobel Prize | /m/059x1 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Lyndon B. Johnson | /m/0f7fy ]]
+Subject Path: SUBJECT_NOUN -> received_VERB -> awarded_VERB
+Object Path: OBJECT_PROPN -> from_ADP -> SUBJECT_NOUN -> received_VERB -> awarded_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+His teacher, the late ENTITY1 economist OBJECT , also received a SUBJECT
+ENTITY1 - [[ University of Chicago | /m/07wrz ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Milton Friedman | /m/04z0g ]]
+Subject Path: SUBJECT_NOUN -> received_VERB
+Object Path: OBJECT_NOUN -> teacher_NOUN -> received_VERB
+Lowest common ancestor: received_VERB
+
+
+In the last decade, Mrs. OBJECT was awarded the SUBJECT and the ENTITY1
+ENTITY1 - [[ Congressional Gold Medal | /m/03vs1b ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Rosa Parks | /m/06lfd ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+In 2003, OBJECT was awarded the SUBJECT , the country's highest civilian award
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Jacques Barzun | /m/01n2pn ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+OBJECT won the ENTITY1 and SUBJECT before being assassinated in 1968.
+ENTITY1 - [[ Nobel Peace Prize | /m/05f3q ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Martin Luther King, Jr. | /m/051cc ]]
+Subject Path: SUBJECT_NOUN -> ENTITY1_PROPN -> won_VERB
+Object Path: OBJECT_NOUN -> won_VERB
+Lowest common ancestor: won_VERB
+
+
+President OBJECT awarded ENTITY1 the SUBJECT in 1980 for his lifetime battle for civil rights.
+ENTITY1 - [[ Mitchell | /m/0x67 ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Jimmy Carter | /m/042kg ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_PROPN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+The ENTITY1 was OBJECT 's directorial debut, and won five ENTITY2 including SUBJECT and Best Director
+ENTITY1 - [[ Deer Hunter | /m/0jqj5 ]]
+ENTITY2 - [[ Academy Awards | /m/0g_w ]]
+SUBJECT - [[ Academy Award for Best Picture | /m/0gq9h ]]
+OBJECT - [[ Michael Cimino | /m/02l5rm ]]
+Subject Path: SUBJECT_NOUN -> including_VERB -> ENTITY2_PROPN -> won_VERB -> was_AUX
+Object Path: OBJECT_NOUN -> debut_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+In 1995 President ENTITY1 awarded OBJECT the SUBJECT , the nation?s highest civilian honor
+ENTITY1 - [[ Bill Clinton | /m/0157m ]]
+SUBJECT - [[ Presidential Medal of Freedom | /m/05qck ]]
+OBJECT - [[ Gaylord Nelson | /m/01dpb_ ]]
+Subject Path: SUBJECT_NOUN -> awarded_VERB
+Object Path: OBJECT_NOUN -> awarded_VERB
+Lowest common ancestor: awarded_VERB
+
+
+At the Grammy awards in February 1986,   ENTITY1   earned OBJECT two awards, for   SUBJECT   and   ENTITY2 .
+ENTITY1 - [[ Miami Vice Theme | /m/047gln ]]
+ENTITY2 - [[ Best Instrumental Composition | /m/025m98 ]]
+SUBJECT - [[ Grammy Award for Best Pop Instrumental Performance | /m/02gdjb ]]
+OBJECT - [[ Jan Hammer | /m/02kts3 ]]
+Subject Path: SUBJECT_NOUN -> for_ADP -> earned_VERB
+Object Path: OBJECT_NOUN -> earned_VERB
+Lowest common ancestor: earned_VERB

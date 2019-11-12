@@ -1,0 +1,901 @@
+While SUBJECT was recovering in ENTITY1 after his first stroke, his sons OBJECT and ENTITY2 managed the business affairs
+ENTITY1 - [[ San Diego | /m/071vr ]]
+ENTITY2 - [[ Anil Ambani | /m/04jr74 ]]
+SUBJECT - [[ Dhirubhai Ambani | /m/034kdq ]]
+OBJECT - [[ Mukesh Ambani | /m/04gsrg ]]
+Subject Path: SUBJECT_NOUN -> recovering_VERB -> managed_VERB
+Object Path: OBJECT_VERB -> stroke_NOUN -> managed_VERB
+Lowest common ancestor: managed_VERB
+
+
+22 The sons of SUBJECT were ENTITY1 and ENTITY2 and Arpachshad and OBJECT and Aram
+ENTITY1 - [[ Elam | /m/0dlj_ ]]
+ENTITY2 - [[ Asshur | /m/025wtx ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Lud | /m/0260mk ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> sons_NOUN -> were_AUX
+Object Path: OBJECT_PROPN -> ENTITY1_PROPN -> were_AUX
+Lowest common ancestor: were_AUX
+
+
+( OBJECT was a son of SUBJECT , see ENTITY1 10:22.)
+ENTITY1 - [[ Genesis | /m/03b5d ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Ashur | /m/025wtx ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> was_AUX -> see_VERB
+Object Path: OBJECT_NOUN -> was_AUX -> see_VERB
+Lowest common ancestor: was_AUX
+
+
+OBJECT is the daughter of the late ENTITY1 television executive SUBJECT and Desir?e Hawkins Ingles, a ENTITY2 actress
+ENTITY1 - [[ NBC | /m/05gnf ]]
+ENTITY2 - [[ British | /m/07ssc ]]
+SUBJECT - [[ Sylvester Weaver | /m/026tk4 ]]
+OBJECT - [[ Sigourney Weaver | /m/0h96g ]]
+Subject Path: SUBJECT_NOUN -> executive_NOUN -> of_ADP -> daughter_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT , successor to ENTITY1 and OBJECT , initially proposed marriage to ENTITY2 , but she refused
+ENTITY1 - [[ Ferdinand | /m/0jd7g ]]
+ENTITY2 - [[ Elizabeth | /m/011yr9 ]]
+SUBJECT - [[ Philip II of Spain | /m/0f6fz ]]
+OBJECT - [[ Isabella Clara Eugenia | /m/02pwv6 ]]
+Subject Path: SUBJECT_NOUN -> proposed_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> to_ADP -> successor_NOUN -> SUBJECT_NOUN -> proposed_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+The land was named after ENTITY1 , son of OBJECT , a descendant of SUBJECT
+ENTITY1 - [[ Uz | /m/0266b3x ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Aram | /m/03c96p_ ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> descendant_NOUN -> ENTITY1_PROPN -> after_ADP -> named_VERB
+Object Path: OBJECT_PROPN -> of_ADP -> son_NOUN -> ENTITY1_PROPN -> after_ADP -> named_VERB
+Lowest common ancestor: ENTITY1_PROPN
+
+
+OBJECT 's eldest daughter by ENTITY1 , named SUBJECT
+ENTITY1 - [[ Elisabeth | /m/03t5k3 ]]
+SUBJECT - [[ Isabella of Portugal | /m/0f9kp7 ]]
+OBJECT - [[ Philip II of Spain | /m/0f6fz ]]
+Subject Path: SUBJECT_NOUN -> named_VERB -> daughter_NOUN
+Object Path: OBJECT_PROPN -> daughter_NOUN
+Lowest common ancestor: daughter_NOUN
+
+
+One of my wife's great aunts who lived in ENTITY1 used to go out with OBJECT 's father, SUBJECT
+ENTITY1 - [[ Southern California | /m/0gx1l ]]
+SUBJECT - [[ John Carradine | /m/021mlp ]]
+OBJECT - [[ David Carradine | /m/02p5hf ]]
+Subject Path: SUBJECT_NOUN -> go_VERB -> used_VERB
+Object Path: OBJECT_PROPN -> father_NOUN -> with_ADP -> go_VERB -> used_VERB
+Lowest common ancestor: go_VERB
+
+
+The baby was reportedly named after SUBJECT 's late mother OBJECT and ENTITY1 's Aunt Milly.[153
+ENTITY1 - [[ Paul | /m/03j24kf ]]
+SUBJECT - [[ Heather Mills | /m/01f761 ]]
+OBJECT - [[ Beatrice McCartney | /m/09pm1zj ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_PROPN -> after_ADP -> named_VERB
+Object Path: OBJECT_PROPN -> after_ADP -> named_VERB
+Lowest common ancestor: OBJECT_PROPN
+
+
+OBJECT , son of SUBJECT
+SUBJECT - [[ James Mill | /m/017h4t ]]
+OBJECT - [[ John Stuart Mill | /m/03_hd ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT focused on OBJECT as  a precious gift  from ENTITY1
+ENTITY1 - [[ God | /m/0d05l6 ]]
+SUBJECT - [[ Leah | /m/01x2ts ]]
+OBJECT - [[ Zebulun | /m/05nbj0 ]]
+Subject Path: SUBJECT_NOUN -> focused_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> focused_VERB
+Lowest common ancestor: focused_VERB
+
+
+So, for example, SUBJECT , mother of OBJECT & I, would receive the number 9
+SUBJECT - [[ Mary, Queen of Scots | /m/055l1 ]]
+OBJECT - [[ James VI and I | /m/01nq16 ]]
+Subject Path: SUBJECT_NOUN -> receive_VERB
+Object Path: OBJECT_PROPN -> of_ADP -> mother_NOUN -> SUBJECT_NOUN -> receive_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+OBJECT was born in ENTITY1 in 1959 to parents Major SUBJECT and his wife Susan
+ENTITY1 - [[ London | /m/04jpl ]]
+SUBJECT - [[ Ronald Ferguson | /m/01dlny ]]
+OBJECT - [[ Sarah, Duchess of York | /m/0xnjb ]]
+Subject Path: SUBJECT_PROPN -> parents_NOUN -> born_VERB
+Object Path: OBJECT_NOUN -> born_VERB
+Lowest common ancestor: born_VERB
+
+
+First marriage to OBJECT , daughter of ENTITY1 and SUBJECT
+ENTITY1 - [[ Reginald Denham | /m/03hnx72 ]]
+SUBJECT - [[ Moyna Macgill | /m/0h1gw0 ]]
+OBJECT - [[ Isolde Denham | /m/0j6d55b ]]
+Subject Path: SUBJECT_NOUN -> daughter_NOUN -> OBJECT_NOUN -> to_PART -> marriage_NOUN
+Object Path: OBJECT_NOUN -> to_PART -> marriage_NOUN
+Lowest common ancestor: OBJECT_NOUN
+
+
+In this case, for OBJECT , son of SUBJECT , who built of ENTITY1 and ENTITY2
+ENTITY1 - [[ Pre Rup | /m/077grb ]]
+ENTITY2 - [[ East Mebon | /m/07815z ]]
+SUBJECT - [[ Rajendravarman II | /m/04grgh2 ]]
+OBJECT - [[ Jayavarman V | /m/02qkc03 ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> OBJECT_NOUN -> for_ADP -> ,_PUNCT -> built_VERB
+Object Path: OBJECT_NOUN -> for_ADP -> ,_PUNCT -> built_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT , the son of SUBJECT and Mary Wentworth , was born in about 1595.
+SUBJECT - [[ William Brewster | /m/03p_9k ]]
+OBJECT - [[ Love Brewster | /m/0bhc7qc ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> OBJECT_NOUN -> born_VERB
+Object Path: OBJECT_NOUN -> born_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Unfortunately, the plan didn't quite come together for OBJECT , son of ENTITY1 native SUBJECT ,
+ENTITY1 - [[ Detroit | /m/02dtg ]]
+SUBJECT - [[ George Peppard | /m/0391v ]]
+OBJECT - [[ Christian Peppard | /m/0j2d9lt ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN -> for_ADP -> come_VERB
+Object Path: OBJECT_NOUN -> for_ADP -> come_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+ENTITY1 was named for SUBJECT , the father of OBJECT , a past president of the ENTITY2 .
+ENTITY1 - [[ Morgan County | /m/0jcfy ]]
+ENTITY2 - [[ Church of Jesus Christ of Latter Day Saints | /m/0g5llry ]]
+SUBJECT - [[ Jedediah M. Grant | /m/06gx6m ]]
+OBJECT - [[ Heber J. Grant | /m/027r4j ]]
+Subject Path: SUBJECT_NOUN -> for_ADP -> named_VERB
+Object Path: OBJECT_PROPN -> of_ADP -> father_NOUN -> named_VERB
+Lowest common ancestor: named_VERB
+
+
+OBJECT ?s father is 32 year old ENTITY1 model SUBJECT
+ENTITY1 - [[ French Canadian | /m/012c1l ]]
+SUBJECT - [[ Gabriel Aubry | /m/02z6p5f ]]
+OBJECT - [[ Nahla Ariela Aubry | /m/04328wb ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+
+Lowest common ancestor: 
+
+
+Prominent amongst the ENTITY1 was SUBJECT , the father of OBJECT
+ENTITY1 - [[ Radicals | /m/02mvz1 ]]
+SUBJECT - [[ James Mill | /m/017h4t ]]
+OBJECT - [[ John Stuart Mill | /m/03_hd ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_PROPN -> of_ADP -> father_NOUN -> Prominent_ADJ -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+OBJECT was the son of ENTITY1 the Elder and SUBJECT
+ENTITY1 - [[ Marcus Junius Brutus | /m/08z_2r ]]
+SUBJECT - [[ Servilia Caepionis | /m/01syrn ]]
+OBJECT - [[ Marcus Junius Brutus the Younger | /m/099hy ]]
+Subject Path: SUBJECT_NOUN -> Elder_NOUN -> son_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+OBJECT , SUBJECT 's successor concluded the peace treaty when he married the daughter of the ENTITY1 king, ENTITY2
+ENTITY1 - [[ Mitanni | /m/011hsf ]]
+ENTITY2 - [[ Artatama | /m/02qhqb6 ]]
+SUBJECT - [[ Amenhotep II | /m/02npr1 ]]
+OBJECT - [[ Thutmose IV | /m/02n_ls ]]
+Subject Path: SUBJECT_PROPN -> successor_NOUN -> OBJECT_NOUN -> concluded_VERB
+Object Path: OBJECT_NOUN -> concluded_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+The likely progenitor of ENTITY1 is OBJECT , second named son of SUBJECT according to the ENTITY2
+ENTITY1 - [[ Assyria | /m/0wmn ]]
+ENTITY2 - [[ Table of Nations | /m/0jdw8 ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Ashur | /m/025wtx ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> named_VERB -> OBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+Andante Composer: SUBJECT  SUBJECT 's son, OBJECT conducts ENTITY1 in F major which is performed by Maxim&#
+ENTITY1 - [[ Piano Concerto No. 2 | /m/0gb77hy ]]
+SUBJECT - [[ Dmitri Shostakovich | /m/02ck1 ]]
+OBJECT - [[ Maxim Shostakovich | /m/03hzg8r ]]
+Subject Path: SUBJECT_NOUN -> Composer_PROPN -> conducts_VERB
+Subject Path: SUBJECT_PROPN -> son_NOUN -> SUBJECT_NOUN -> Composer_PROPN -> conducts_VERB
+Object Path: OBJECT_NOUN -> conducts_VERB
+Lowest common ancestor: conducts_VERB
+
+
+ENTITY1 , nephew of OBJECT of Northwoodside, summed it up best in a letter to SUBJECT in Aug. 1766
+ENTITY1 - [[ James Stirling | /m/01_ld0 ]]
+SUBJECT - [[ Archie Stirling | /m/027hgy7 ]]
+OBJECT - [[ William Stirling | /m/0kbtp__ ]]
+Subject Path: SUBJECT_NOUN -> to_ADP -> letter_NOUN -> in_ADP -> summed_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> nephew_NOUN -> ENTITY1_PROPN -> summed_VERB
+Lowest common ancestor: summed_VERB
+
+
+While SUBJECT was recovering in ENTITY1 , his sons OBJECT and ENTITY2 managed the affairs
+ENTITY1 - [[ San Diego | /m/071vr ]]
+ENTITY2 - [[ Anil Ambani | /m/04jr74 ]]
+SUBJECT - [[ Dhirubhai Ambani | /m/034kdq ]]
+OBJECT - [[ Mukesh Ambani | /m/04gsrg ]]
+Subject Path: SUBJECT_NOUN -> recovering_VERB -> managed_VERB
+Object Path: OBJECT_VERB -> sons_NOUN -> managed_VERB
+Lowest common ancestor: managed_VERB
+
+
+OBJECT , son of SUBJECT , was born here
+SUBJECT - [[ Mary, Queen of Scots | /m/055l1 ]]
+OBJECT - [[ James VI and I | /m/01nq16 ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> OBJECT_NOUN -> born_VERB
+Object Path: OBJECT_NOUN -> born_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+If SUBJECT begat OBJECT two years after the ENTITY1 , then he should have been 102 years old.
+ENTITY1 - [[ Flood | /m/0dbtv ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Arpachshad | /m/029k5m ]]
+Subject Path: SUBJECT_NOUN -> begat_NOUN -> been_AUX
+Object Path: OBJECT_VERB -> begat_NOUN -> been_AUX
+Lowest common ancestor: begat_NOUN
+
+
+Han ? r son till sk? despelaren SUBJECT , bror till ENTITY1 och halvbror till OBJECT .
+ENTITY1 - [[ Robert Carradine | /m/026qxz ]]
+SUBJECT - [[ John Carradine | /m/021mlp ]]
+OBJECT - [[ David Carradine | /m/02p5hf ]]
+
+Object Path: OBJECT_NOUN -> till_SCONJ -> halvbror_PROPN -> till_SCONJ -> bror_PROPN -> SUBJECT_PROPN
+Lowest common ancestor: SUBJECT_PROPN
+
+
+SUBJECT gives birth to OBJECT , then to ENTITY1 , followed by a daughter, ENTITY2
+ENTITY1 - [[ Zebulun | /m/05nbj0 ]]
+ENTITY2 - [[ Dinah | /m/034m0j ]]
+SUBJECT - [[ Leah | /m/01x2ts ]]
+OBJECT - [[ Issachar | /m/02cm3b ]]
+Subject Path: SUBJECT_NOUN -> gives_VERB
+Object Path: OBJECT_NOUN -> to_ADP -> gives_VERB
+Lowest common ancestor: gives_VERB
+
+
+SUBJECT 's daughter, OBJECT , laid into dad over his failed marriage to Heather,
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Mary McCartney | /m/0bkgvn ]]
+Subject Path: SUBJECT_NOUN -> daughter_NOUN
+Object Path: OBJECT_NOUN -> daughter_NOUN
+Lowest common ancestor: daughter_NOUN
+
+
+He was the brother of ENTITY1 executive SUBJECT and the uncle of actress OBJECT .
+ENTITY1 - [[ NBC-TV | /m/05gnf ]]
+SUBJECT - [[ Sylvester Weaver | /m/026tk4 ]]
+OBJECT - [[ Sigourney Weaver | /m/0h96g ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> brother_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> of_ADP -> uncle_NOUN -> brother_NOUN -> was_AUX
+Lowest common ancestor: brother_NOUN
+
+
+On the 10th anniversary of OBJECT 's kidnap/murder, SUBJECT 's mood remains as intense as back then.
+SUBJECT - [[ Pai Ping-ping | /m/043qnkh ]]
+OBJECT - [[ Pai Hsiao-yen | /m/03hhcly ]]
+Subject Path: SUBJECT_NOUN -> mood_NOUN -> remains_VERB
+Object Path: OBJECT_NOUN -> murder_NOUN -> of_ADP -> anniversary_NOUN -> On_ADP -> remains_VERB
+Lowest common ancestor: remains_VERB
+
+
+Thanks to the efforts of OBJECT , the art work of SUBJECT lives on today
+SUBJECT - [[ Chuck Jones | /m/0250f ]]
+OBJECT - [[ Linda Jones Clough | /m/0j2_nhh ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> work_NOUN -> lives_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> efforts_NOUN -> to_ADP -> Thanks_NOUN -> lives_VERB
+Lowest common ancestor: lives_VERB
+
+
+SUBJECT was followed by OBJECT , who ruled for ten years
+SUBJECT - [[ Amenhotep II | /m/02npr1 ]]
+OBJECT - [[ Thutmose IV | /m/02n_ls ]]
+Subject Path: SUBJECT_NOUN -> followed_VERB
+Object Path: OBJECT_NOUN -> by_ADP -> followed_VERB
+Lowest common ancestor: followed_VERB
+
+
+One of the last medieval ladies to be honoured was ENTITY1 , mother of SUBJECT and grandmother of OBJECT
+ENTITY1 - [[ Lady Margaret Beaufort | /m/0j711 ]]
+SUBJECT - [[ Henry VII of England | /m/03p6r ]]
+OBJECT - [[ Henry VIII of England | /m/03p77 ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> mother_NOUN -> ENTITY1_PROPN -> was_AUX
+Object Path: OBJECT_NOUN -> of_ADP -> SUBJECT_NOUN -> of_ADP -> mother_NOUN -> ENTITY1_PROPN -> was_AUX
+Lowest common ancestor: SUBJECT_NOUN
+
+
+Dr. SUBJECT ?s son, OBJECT , died from an overdose of heroin and morphine, the ENTITY1 ?..
+ENTITY1 - [[ Los Angeles County | /m/0kpys ]]
+SUBJECT - [[ Dr. Dre | /m/01vvydl ]]
+OBJECT - [[ Andre Young Jr. | /m/04j6q_q ]]
+
+Object Path: OBJECT_PROPN -> son_NOUN -> s_X -> died_VERB
+Lowest common ancestor: 
+
+
+OBJECT  is the daughter of SUBJECT
+SUBJECT - [[ Martin Landau | /m/01mqnr ]]
+OBJECT - [[ Juliet Landau | /m/01yps3 ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> daughter_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT was born in ENTITY1 , son of ENTITY2 and SUBJECT
+ENTITY1 - [[ Valladolid | /m/0124xk ]]
+ENTITY2 - [[ Carlos I | /m/0j9gg ]]
+SUBJECT - [[ Isabella of Portugal | /m/0f9kp7 ]]
+OBJECT - [[ Philip II of Spain | /m/0f6fz ]]
+Subject Path: SUBJECT_PROPN -> son_NOUN -> ENTITY1_PROPN -> in_ADP -> born_VERB
+Object Path: OBJECT_NOUN -> born_VERB
+Lowest common ancestor: born_VERB
+
+
+OBJECT provided SUBJECT with his first grandchild, ENTITY1 , in 1997
+ENTITY1 - [[ Dashiell Quinn Connery | /m/0gc02v2 ]]
+SUBJECT - [[ Sean Connery | /m/06mr6 ]]
+OBJECT - [[ Jason Connery | /m/02_sm0 ]]
+Subject Path: SUBJECT_NOUN -> provided_VERB
+Object Path: OBJECT_NOUN -> provided_VERB
+Lowest common ancestor: provided_VERB
+
+
+Dr. SUBJECT 's son, OBJECT , was unresponsive when discovered by his mother on Aug. 23rd.
+SUBJECT - [[ Dr. Dre | /m/01vvydl ]]
+OBJECT - [[ Andre Young Jr. | /m/04j6q_q ]]
+Subject Path: SUBJECT_PROPN -> son_NOUN -> was_AUX
+Object Path: OBJECT_PROPN -> son_NOUN -> was_AUX
+Lowest common ancestor: son_NOUN
+
+
+On 21 May, Prince SUBJECT  is born to ENTITY1 and his queen, the OBJECT of ENTITY2
+ENTITY1 - [[ Charles I | /m/01lg_s ]]
+ENTITY2 - [[ Portugal | /m/05r4w ]]
+SUBJECT - [[ Philip II of Spain | /m/0f6fz ]]
+OBJECT - [[ Isabella Clara Eugenia | /m/02pwv6 ]]
+Subject Path: SUBJECT_PROPN -> born_VERB
+Object Path: OBJECT_NOUN -> queen_NOUN -> ENTITY1_PROPN -> to_ADP -> born_VERB
+Lowest common ancestor: born_VERB
+
+
+He is the son of legendary horror movie actor SUBJECT and half-brother of ENTITY1 star OBJECT
+ENTITY1 - [[ Kung Fu | /m/02fqgf ]]
+SUBJECT - [[ John Carradine | /m/021mlp ]]
+OBJECT - [[ David Carradine | /m/02p5hf ]]
+Subject Path: SUBJECT_NOUN -> actor_NOUN -> of_ADP -> son_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> of_ADP -> brother_NOUN -> SUBJECT_NOUN -> actor_NOUN -> of_ADP -> son_NOUN -> is_AUX
+Lowest common ancestor: SUBJECT_NOUN
+
+
+A historian and diarist, OBJECT was the daughter of SUBJECT , emperor of ENTITY1
+ENTITY1 - [[ Byzantium | /m/017dc ]]
+SUBJECT - [[ Alexios I Komnenos | /m/0rj7 ]]
+OBJECT - [[ Anna Komnene | /m/014r5w ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> daughter_NOUN -> was_AUX
+Object Path: OBJECT_PROPN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+... OBJECT was born in ENTITY1 in 1959 to parents Major SUBJECT and his wife Susan.
+ENTITY1 - [[ London | /m/04jpl ]]
+SUBJECT - [[ Ronald Ferguson | /m/01dlny ]]
+OBJECT - [[ Sarah, Duchess of York | /m/0xnjb ]]
+Subject Path: SUBJECT_PROPN -> parents_NOUN -> born_VERB
+Object Path: OBJECT_NOUN -> born_VERB
+Lowest common ancestor: born_VERB
+
+
+SUBJECT 's daughter, OBJECT , is an advice columnist as well
+SUBJECT - [[ Eppie Lederer | /m/06w7vdx ]]
+OBJECT - [[ Margo Howard | /m/0g40g ]]
+Subject Path: SUBJECT_NOUN -> daughter_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> daughter_NOUN -> is_AUX
+Lowest common ancestor: daughter_NOUN
+
+
+One of these is SUBJECT , mother of OBJECT
+SUBJECT - [[ Lady Margaret Beaufort | /m/0j711 ]]
+OBJECT - [[ Henry VII of England | /m/03p6r ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> of_ADP -> mother_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT succeeds SUBJECT in ENTITY1
+ENTITY1 - [[ Kiev | /m/02sn34 ]]
+SUBJECT - [[ Sviatoslav I of Kiev | /m/0b3s_ ]]
+OBJECT - [[ Yaropolk I of Kiev | /m/014x3c ]]
+Subject Path: SUBJECT_NOUN -> succeeds_VERB
+Object Path: OBJECT_NOUN -> succeeds_VERB
+Lowest common ancestor: succeeds_VERB
+
+
+SUBJECT was father of OBJECT and ENTITY1 - the erstwhile and present heads of ENTITY2 respectively
+ENTITY1 - [[ Anil Ambani | /m/04jr74 ]]
+ENTITY2 - [[ Reliance Communications | /m/02w5t5 ]]
+SUBJECT - [[ Dhirubhai Ambani | /m/034kdq ]]
+OBJECT - [[ Mukesh Ambani | /m/04gsrg ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_PROPN -> of_ADP -> father_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+OBJECT was born in ENTITY1 on 12 August, 1566, the daughter of ENTITY2 and his third wife SUBJECT
+ENTITY1 - [[ Segovia | /m/0jg2n ]]
+ENTITY2 - [[ Philip II of Spain | /m/0f6fz ]]
+SUBJECT - [[ Elisabeth of Valois | /m/03t5k3 ]]
+OBJECT - [[ Isabella Clara Eugenia | /m/02pwv6 ]]
+Subject Path: SUBJECT_NOUN -> wife_NOUN -> daughter_NOUN -> August_PROPN -> on_ADP -> born_VERB
+Object Path: OBJECT_NOUN -> born_VERB
+Lowest common ancestor: born_VERB
+
+
+It was signed by SUBJECT ?s son, OBJECT
+SUBJECT - [[ Max Fleischer | /m/019r_1 ]]
+OBJECT - [[ Richard Fleischer | /m/04v048 ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> signed_VERB
+
+Lowest common ancestor: 
+
+
+OBJECT is the President and CEO of Linda Jones Enterprises and daughter of ENTITY1 director SUBJECT
+ENTITY1 - [[ WB | /m/086k8 ]]
+SUBJECT - [[ Chuck Jones | /m/0250f ]]
+OBJECT - [[ Linda Jones Clough | /m/0j2_nhh ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> daughter_NOUN -> Enterprises_PROPN -> of_ADP -> President_PROPN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT 's mother, SUBJECT , learned ENTITY1 from either her hubby & worked professionally as a translator
+ENTITY1 - [[ English | /m/02jx1 ]]
+SUBJECT - [[ Leonor Acevedo Suárez | /m/02nrcmz ]]
+OBJECT - [[ Jorge Luis Borges | /m/040db ]]
+Subject Path: SUBJECT_PROPN -> mother_NOUN -> learned_VERB
+Object Path: OBJECT_PROPN -> mother_NOUN -> learned_VERB
+Lowest common ancestor: mother_NOUN
+
+
+The state legislature then elected SUBJECT 's son, OBJECT , to the office of Governor
+SUBJECT - [[ Eugene Talmadge | /m/03sqrp ]]
+OBJECT - [[ Herman Talmadge | /m/03sqj7 ]]
+Subject Path: SUBJECT_PROPN -> son_NOUN -> elected_VERB
+Object Path: OBJECT_PROPN -> son_NOUN -> elected_VERB
+Lowest common ancestor: son_NOUN
+
+
+SUBJECT was a son of ENTITY1 ; OBJECT was a son of SUBJECT
+ENTITY1 - [[ Noah | /m/05fzm ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Ashur | /m/025wtx ]]
+Subject Path: SUBJECT_NOUN -> was_AUX -> was_AUX
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+OBJECT was born to SUBJECT & his third wife ENTITY1 .
+ENTITY1 - [[ Veronica Porsche Ali | /m/0cjwq3 ]]
+SUBJECT - [[ Muhammad Ali | /m/0h353 ]]
+OBJECT - [[ Laila Ali | /m/012gr9 ]]
+Subject Path: SUBJECT_NOUN -> to_ADP -> born_VERB
+Object Path: OBJECT_NOUN -> born_VERB
+Lowest common ancestor: born_VERB
+
+
+OBJECT  was the only son of ENTITY1 and SUBJECT
+ENTITY1 - [[ Charles V | /m/0j9gg ]]
+SUBJECT - [[ Isabella of Portugal | /m/0f9kp7 ]]
+OBJECT - [[ Philip II of Spain | /m/0f6fz ]]
+Subject Path: SUBJECT_NOUN -> son_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+OBJECT would join SUBJECT and ENTITY1 to be the third SUBJECT family member on the board
+ENTITY1 - [[ Jim Walton | /m/03mzc7 ]]
+SUBJECT - [[ S. Robson Walton | /m/03lp9t ]]
+OBJECT - [[ Greg Penner | /m/04685b7 ]]
+Subject Path: SUBJECT_NOUN -> join_VERB
+Subject Path: SUBJECT_PROPN -> member_NOUN -> be_AUX -> join_VERB
+Object Path: OBJECT_NOUN -> join_VERB
+Lowest common ancestor: join_VERB
+
+
+That's the exciting word circulating in fashion circles since OBJECT , daughter of SUBJECT , who rules the? ENTITY1
+ENTITY1 - [[ LVMH | /m/03p3mc_ ]]
+SUBJECT - [[ Bernard Arnault | /m/03lgx_ ]]
+OBJECT - [[ Delphine Arnault | /m/08tx3s ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> daughter_NOUN -> OBJECT_NOUN -> since_SCONJ -> circulating_VERB -> word_NOUN -> 's_AUX
+Object Path: OBJECT_NOUN -> since_SCONJ -> circulating_VERB -> word_NOUN -> 's_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT , son of SUBJECT became the first King of both ENTITY1 and ENTITY2 .
+ENTITY1 - [[ England | /m/02jx1 ]]
+ENTITY2 - [[ Scotland | /m/06q1r ]]
+SUBJECT - [[ Mary, Queen of Scots | /m/055l1 ]]
+OBJECT - [[ James VI and I | /m/01nq16 ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> OBJECT_NOUN -> became_VERB
+Object Path: OBJECT_NOUN -> became_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+The invitation came from none other than Sir SUBJECT 's fashion queen daughter, OBJECT .
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Stella McCartney | /m/03j437 ]]
+Subject Path: SUBJECT_PROPN -> daughter_NOUN -> than_SCONJ -> other_ADJ -> none_NOUN -> from_ADP -> came_VERB
+Object Path: OBJECT_NOUN -> daughter_NOUN -> than_SCONJ -> other_ADJ -> none_NOUN -> from_ADP -> came_VERB
+Lowest common ancestor: daughter_NOUN
+
+
+Incidentally, we named the college after Mrs. OBJECT 's father, SUBJECT
+SUBJECT - [[ C. W. Post | /m/015ylh ]]
+OBJECT - [[ Marjorie Merriweather Post | /m/015ykr ]]
+Subject Path: SUBJECT_NOUN -> named_VERB
+Object Path: OBJECT_PROPN -> father_NOUN -> SUBJECT_NOUN -> named_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+The following year, ENTITY1 officially adopts SUBJECT 's seven-year-old daughter, OBJECT , from her previous marriage
+ENTITY1 - [[ McCartney | /m/03j24kf ]]
+SUBJECT - [[ Linda McCartney | /m/01wk4d2 ]]
+OBJECT - [[ Heather McCartney | /m/05bm10 ]]
+Subject Path: SUBJECT_NOUN -> daughter_NOUN -> adopts_VERB
+Object Path: OBJECT_NOUN -> daughter_NOUN -> adopts_VERB
+Lowest common ancestor: daughter_NOUN
+
+
+For the director?s job, ENTITY1 selected OBJECT , the son of his greatest animation rival in the 1930s, SUBJECT
+ENTITY1 - [[ Disney | /m/081nh ]]
+SUBJECT - [[ Max Fleischer | /m/019r_1 ]]
+OBJECT - [[ Richard Fleischer | /m/04v048 ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_PROPN -> selected_VERB
+Object Path: OBJECT_PROPN -> selected_VERB
+Lowest common ancestor: OBJECT_PROPN
+
+
+ENTITY1 actress SUBJECT has spoken out about the terrible loss of her son OBJECT .
+ENTITY1 - [[ Coronation Street | /m/01_2n ]]
+SUBJECT - [[ Kym Marsh | /m/01nx93s ]]
+OBJECT - [[ Archie Jay Lomas | /m/0gfp9ns ]]
+Subject Path: SUBJECT_NOUN -> spoken_VERB
+Object Path: OBJECT_PROPN -> son_NOUN -> of_ADP -> loss_NOUN -> about_ADP -> spoken_VERB
+Lowest common ancestor: spoken_VERB
+
+
+It was also promoted by ENTITY1 's disciple SUBJECT and by his son OBJECT .
+ENTITY1 - [[ Bentham | /m/0cgwf ]]
+SUBJECT - [[ James Mill | /m/017h4t ]]
+OBJECT - [[ John Stuart Mill | /m/03_hd ]]
+Subject Path: SUBJECT_NOUN -> promoted_VERB
+Object Path: OBJECT_PROPN -> son_NOUN -> by_ADP -> promoted_VERB
+Lowest common ancestor: promoted_VERB
+
+
+OBJECT  is the daughter of SUBJECT and his third wife ENTITY1 .
+ENTITY1 - [[ Veronica Porsche Ali | /m/0cjwq3 ]]
+SUBJECT - [[ Muhammad Ali | /m/0h353 ]]
+OBJECT - [[ Laila Ali | /m/012gr9 ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> daughter_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+A source told ENTITY1 's ENTITY2 newspaper   OBJECT doesn't like the idea of SUBJECT being lonely
+ENTITY1 - [[ Britain | /m/07ssc ]]
+ENTITY2 - [[ News of the World | /m/01hjf3 ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Stella McCartney | /m/03j437 ]]
+Subject Path: SUBJECT_NOUN -> being_AUX -> of_ADP -> idea_NOUN -> like_VERB -> told_VERB
+Object Path: OBJECT_NOUN -> like_VERB -> told_VERB
+Lowest common ancestor: like_VERB
+
+
+SUBJECT 's marriage to OBJECT brought eight years of peaceful relations in ENTITY1 .
+ENTITY1 - [[ Virginia | /m/07z1m ]]
+SUBJECT - [[ Pocahontas | /m/01jggg ]]
+OBJECT - [[ Thomas Rolfe | /m/03q33y ]]
+Subject Path: SUBJECT_NOUN -> marriage_NOUN -> brought_VERB
+Object Path: OBJECT_NOUN -> to_PART -> marriage_NOUN -> brought_VERB
+Lowest common ancestor: marriage_NOUN
+
+
+SUBJECT and his son, the future OBJECT visited ENTITY1 in ENTITY2 's reign
+ENTITY1 - [[ Rome | /m/06c62 ]]
+ENTITY2 - [[ Benedict | /m/05_b1 ]]
+SUBJECT - [[ Æthelwulf of Wessex | /m/0c_9s ]]
+OBJECT - [[ Alfred the Great | /m/0rsj ]]
+
+Object Path: OBJECT_NOUN -> visited_VERB
+Lowest common ancestor: 
+
+
+King SUBJECT , father of OBJECT , was born in ENTITY1 during ENTITY2 's rule
+ENTITY1 - [[ Aachen | /m/0qjd ]]
+ENTITY2 - [[ Charlemagne | /m/01mhc ]]
+SUBJECT - [[ Æthelwulf of Wessex | /m/0c_9s ]]
+OBJECT - [[ Alfred the Great | /m/0rsj ]]
+Subject Path: SUBJECT_PROPN -> born_VERB
+Object Path: OBJECT_PROPN -> of_ADP -> father_NOUN -> SUBJECT_PROPN -> born_VERB
+Lowest common ancestor: SUBJECT_PROPN
+
+
+SUBJECT , Prince of ENTITY1  representing OBJECT and his family
+ENTITY1 - [[ Kiev | /m/02sn34 ]]
+SUBJECT - [[ Sviatoslav I of Kiev | /m/0b3s_ ]]
+OBJECT - [[ Vladimir the Great | /m/0b3jc ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT bore ENTITY1 two daughters, OBJECT  and Catherine Micaela
+ENTITY1 - [[ Philip | /m/0f6fz ]]
+SUBJECT - [[ Elisabeth of Valois | /m/03t5k3 ]]
+OBJECT - [[ Isabella Clara Eugenia | /m/02pwv6 ]]
+Subject Path: SUBJECT_NOUN -> bore_NOUN -> ENTITY1_PROPN
+Object Path: OBJECT_NOUN -> daughters_NOUN -> ENTITY1_PROPN
+Lowest common ancestor: ENTITY1_PROPN
+
+
+OBJECT was a son of SUBJECT and ENTITY1 .
+ENTITY1 - [[ Leah | /m/01x2ts ]]
+SUBJECT - [[ Jacob | /m/0jt0lm_ ]]
+OBJECT - [[ Simeon | /m/0d60p3 ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+The number, 57, stands for OBJECT , the sixth son of ENTITY1 and SUBJECT .
+ENTITY1 - [[ Leah | /m/01x2ts ]]
+SUBJECT - [[ Jacob | /m/0jt0lm_ ]]
+OBJECT - [[ Zebulun | /m/05nbj0 ]]
+Subject Path: SUBJECT_NOUN -> son_NOUN -> OBJECT_NOUN -> for_ADP -> stands_VERB
+Object Path: OBJECT_NOUN -> for_ADP -> stands_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Dr. SUBJECT 's son, OBJECT , died from an overdose of heroin and morphine
+SUBJECT - [[ Dr. Dre | /m/01vvydl ]]
+OBJECT - [[ Andre Young Jr. | /m/04j6q_q ]]
+Subject Path: SUBJECT_PROPN -> son_NOUN -> died_VERB
+Object Path: OBJECT_PROPN -> son_NOUN -> died_VERB
+Lowest common ancestor: son_NOUN
+
+
+Even after the ENTITY1 empire was carved up in January 2006, the SUBJECT brothers  OBJECT and ENTITY2
+ENTITY1 - [[ Reliance | /m/0242c6 ]]
+ENTITY2 - [[ Anil | /m/0hh8vjk ]]
+SUBJECT - [[ Dhirubhai Ambani | /m/034kdq ]]
+OBJECT - [[ Mukesh Ambani | /m/04gsrg ]]
+Subject Path: SUBJECT_ADJ -> brothers_NOUN -> empire_NOUN -> carved_VERB
+
+Lowest common ancestor: 
+
+
+But, these 4 were actually born after SUBJECT produced ENTITY1 , but before she bore OBJECT and then ENTITY2
+ENTITY1 - [[ Judah | /m/01db4k ]]
+ENTITY2 - [[ Zevulun | /m/0h_40 ]]
+SUBJECT - [[ Leah | /m/01x2ts ]]
+OBJECT - [[ Issachar | /m/02cm3b ]]
+Subject Path: SUBJECT_NOUN -> produced_VERB -> after_ADP -> born_VERB
+Object Path: OBJECT_NOUN -> bore_VERB -> born_VERB
+Lowest common ancestor: born_VERB
+
+
+ENTITY1 ?s friendship with SUBJECT ?s fashion designer daughter, OBJECT has been undergoing serious stress lately
+ENTITY1 - [[ Madonna | /m/01vs_v8 ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Stella McCartney | /m/03j437 ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> friendship_NOUN
+Object Path: OBJECT_NOUN -> undergoing_VERB
+Lowest common ancestor: 
+
+
+In 1604, ENTITY1  and SUBJECT 's son OBJECT sent representatives to negotiate the ENTITY2 .
+ENTITY1 - [[ James I | /m/01nq16 ]]
+ENTITY2 - [[ Treaty of London | /m/021wg1 ]]
+SUBJECT - [[ Philip II of Spain | /m/0f6fz ]]
+OBJECT - [[ Philip III of Spain | /m/012rkn ]]
+Subject Path: SUBJECT_PROPN -> ENTITY1_PROPN -> son_NOUN -> OBJECT_PROPN -> sent_VERB
+Object Path: OBJECT_PROPN -> sent_VERB
+Lowest common ancestor: OBJECT_PROPN
+
+
+After SUBJECT 's death OBJECT vied with his two brothers, Yaropolk and Oleg, for the succession
+SUBJECT - [[ Sviatoslav I of Kiev | /m/0b3s_ ]]
+OBJECT - [[ Vladimir the Great | /m/0b3jc ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> vied_VERB
+Object Path: OBJECT_NOUN -> vied_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT ?s mother, SUBJECT , came from an old ENTITY1 family
+ENTITY1 - [[ Uruguayan | /m/02qcl8j ]]
+SUBJECT - [[ Leonor Acevedo Suárez | /m/02nrcmz ]]
+OBJECT - [[ Jorge Luis Borges | /m/040db ]]
+Subject Path: SUBJECT_PROPN -> mother_NOUN -> came_VERB
+
+Lowest common ancestor: 
+
+
+OBJECT -  The fourth son of SUBJECT , ancestor of the ENTITY1 probably
+ENTITY1 - [[ Lydians | /m/057xmqk ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Lud | /m/0260mk ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN
+
+Lowest common ancestor: 
+
+
+But being grown hasn't stopped SUBJECT 's daughter OBJECT from disliking ENTITY1 , for example.
+ENTITY1 - [[ Heather Mills | /m/01f761 ]]
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Stella McCartney | /m/03j437 ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> stopped_VERB
+Object Path: OBJECT_NOUN -> stopped_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+SUBJECT 's son, OBJECT , stayed here as well.
+SUBJECT - [[ Mary, Queen of Scots | /m/055l1 ]]
+OBJECT - [[ James VI and I | /m/01nq16 ]]
+Subject Path: SUBJECT_NOUN -> son_NOUN -> stayed_VERB
+Object Path: OBJECT_PROPN -> son_NOUN -> stayed_VERB
+Lowest common ancestor: son_NOUN
+
+
+ENTITY1 would later remarry to OBJECT , daughter of ENTITY2 's SUBJECT .
+ENTITY1 - [[ Isaac | /m/08sptb ]]
+ENTITY2 - [[ Plymouth | /m/02qbpcw ]]
+SUBJECT - [[ William Brewster | /m/03p_9k ]]
+OBJECT - [[ Fear Brewster | /m/03gx9mk ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> daughter_NOUN -> OBJECT_NOUN -> to_ADP -> remarry_VERB
+Object Path: OBJECT_NOUN -> to_ADP -> remarry_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+On the 10th anniversary of OBJECT ?s kidnap/murder, SUBJECT ?s mood remains as intense as back then.
+SUBJECT - [[ Pai Ping-ping | /m/043qnkh ]]
+OBJECT - [[ Pai Hsiao-yen | /m/03hhcly ]]
+
+Object Path: OBJECT_NOUN -> of_ADP -> anniversary_NOUN -> On_ADP
+Lowest common ancestor: 
+
+
+In 1505 it was re-founded as ENTITY1 by the SUBJECT , mother of OBJECT .
+ENTITY1 - [[ Christ's College | /m/07tl0 ]]
+SUBJECT - [[ Lady Margaret Beaufort | /m/0j711 ]]
+OBJECT - [[ Henry VII of England | /m/03p6r ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> founded_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> mother_NOUN -> founded_VERB
+Lowest common ancestor: founded_VERB
+
+
+But ENTITY1 , husband of SUBJECT and OBJECT 's stepfather, simply looked on as the king's situation worsened critically
+ENTITY1 - [[ Stanley | /m/0j1038f ]]
+SUBJECT - [[ Lady Margaret Beaufort | /m/0j711 ]]
+OBJECT - [[ Henry VII of England | /m/03p6r ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> husband_NOUN -> ENTITY1_PROPN -> looked_VERB
+Object Path: OBJECT_PROPN -> stepfather_NOUN -> SUBJECT_NOUN -> of_ADP -> husband_NOUN -> ENTITY1_PROPN -> looked_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT shares a child with ENTITY1 , 5-year-old OBJECT
+ENTITY1 - [[ McCartney | /m/03j24kf ]]
+SUBJECT - [[ Heather Mills | /m/01f761 ]]
+OBJECT - [[ Beatrice McCartney | /m/09pm1zj ]]
+Subject Path: SUBJECT_NOUN -> shares_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> with_ADP -> shares_VERB
+Lowest common ancestor: shares_VERB
+
+
+SUBJECT regarded the birth of OBJECT as a reward .
+SUBJECT - [[ Leah | /m/01x2ts ]]
+OBJECT - [[ Issachar | /m/02cm3b ]]
+Subject Path: SUBJECT_NOUN -> regarded_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> birth_NOUN -> regarded_VERB
+Lowest common ancestor: regarded_VERB
+
+
+SUBJECT 's daughter, OBJECT , is a historian, musician, community activist and actor
+SUBJECT - [[ Helen Garner | /m/01qv78 ]]
+OBJECT - [[ Alice Garner | /m/08s3gh ]]
+Subject Path: SUBJECT_NOUN -> daughter_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> daughter_NOUN -> is_AUX
+Lowest common ancestor: daughter_NOUN
+
+
+One of SUBJECT ?s daughter, OBJECT telling her, ?I hope you lose your other fucking leg!?
+SUBJECT - [[ Paul McCartney | /m/03j24kf ]]
+OBJECT - [[ Stella McCartney | /m/03j437 ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> One_NUM
+Object Path: OBJECT_NOUN -> daughter_NOUN -> telling_VERB
+Lowest common ancestor: 
+
+
+ENTITY1 and SUBJECT 's daughter OBJECT has apologised after she was photographed smoking cannabis
+ENTITY1 - [[ Richard Madeley | /m/0gjc7l0 ]]
+SUBJECT - [[ Judy Finnigan | /m/0gjc6m0 ]]
+OBJECT - [[ Chloe Madeley | /m/064k8n9 ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> ENTITY1_PROPN -> apologised_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> apologised_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT , son of SUBJECT , succeeded the supreme throne after his father in 968 AD
+SUBJECT - [[ Rajendravarman II | /m/04grgh2 ]]
+OBJECT - [[ Jayavarman V | /m/02qkc03 ]]
+Subject Path: SUBJECT_PROPN -> of_ADP -> son_NOUN -> OBJECT_NOUN -> succeeded_VERB
+Object Path: OBJECT_NOUN -> succeeded_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Their son OBJECT had been appointed by SUBJECT to several leadership positions within the Unification Movemenet.[55
+SUBJECT - [[ Sun Myung Moon | /m/07692 ]]
+OBJECT - [[ Hyun Jin Moon | /m/0f3mxd ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> appointed_VERB
+Object Path: OBJECT_PROPN -> son_NOUN -> appointed_VERB
+Lowest common ancestor: appointed_VERB
+
+
+The names of SUBJECT sons, ENTITY1 and OBJECT , are obviously eponymous of the ENTITY2 and the ENTITY3
+ENTITY1 - [[ Elam | /m/01d96c ]]
+ENTITY2 - [[ Elamites | /m/01d96c ]]
+ENTITY3 - [[ Assyrians | /m/01nft3 ]]
+SUBJECT - [[ Shem | /m/0788r ]]
+OBJECT - [[ Ashur | /m/025wtx ]]
+Subject Path: SUBJECT_ADJ -> sons_NOUN -> of_ADP -> names_NOUN -> are_AUX
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> sons_NOUN -> of_ADP -> names_NOUN -> are_AUX
+Lowest common ancestor: sons_NOUN
+
+
+OBJECT was given ENTITY1 by his father SUBJECT , who left on a military campaign against the Danube Bulgars
+ENTITY1 - [[ Kiev | /m/0c81v ]]
+SUBJECT - [[ Sviatoslav I of Kiev | /m/0b3s_ ]]
+OBJECT - [[ Yaropolk I of Kiev | /m/014x3c ]]
+Subject Path: SUBJECT_PROPN -> father_NOUN -> by_ADP -> given_VERB
+Object Path: OBJECT_NOUN -> given_VERB
+Lowest common ancestor: given_VERB
+
+
+OBJECT is the son of noted ENTITY1 actor SUBJECT
+ENTITY1 - [[ American | /m/09c7w0 ]]
+SUBJECT - [[ John Carradine | /m/021mlp ]]
+OBJECT - [[ David Carradine | /m/02p5hf ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> son_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT , who played ENTITY1 , appeared in the 1994 film ENTITY2 with her father SUBJECT
+ENTITY1 - [[ Drusilla | /m/01510h ]]
+ENTITY2 - [[ Ed Wood | /m/02lxrv ]]
+SUBJECT - [[ Martin Landau | /m/01mqnr ]]
+OBJECT - [[ Juliet Landau | /m/01yps3 ]]
+Subject Path: SUBJECT_NOUN -> father_NOUN -> with_ADP -> film_NOUN -> in_ADP -> appeared_VERB
+Object Path: OBJECT_NOUN -> appeared_VERB
+Lowest common ancestor: appeared_VERB

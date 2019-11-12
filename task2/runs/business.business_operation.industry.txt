@@ -1,0 +1,887 @@
+ENTITY1 : How is OBJECT security such as ENTITY2 functions addressed by SUBJECT ?
+ENTITY1 - [[ Q | /m/02k1sj ]]
+ENTITY2 - [[ Session Border Controller | /m/055j59 ]]
+SUBJECT - [[ AudioCodes | /m/02wbgvc ]]
+OBJECT - [[ Voice over IP | /m/0jzgd ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> addressed_VERB -> functions_NOUN -> as_SCONJ -> security_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> security_NOUN -> is_AUX
+Lowest common ancestor: security_NOUN
+
+
+... SUBJECT und ENTITY1 ... Forum   MOVIES &amp; more   OBJECT &amp; more Spam   Bester ... Forensoftware: Burning Board 2.3.6,
+ENTITY1 - [[ Film Forum | /m/08wt2l ]]
+SUBJECT - [[ Kino International | /m/04ln_1 ]]
+OBJECT - [[ Film | /m/02vxn ]]
+
+Object Path: OBJECT_PROPN -> MOVIES_PROPN
+Lowest common ancestor: 
+
+
+SUBJECT  offers a comprehensive range of OBJECT solutions to more than 500 clients across five continents
+SUBJECT - [[ IGATE | /m/04q9gc ]]
+OBJECT - [[ Information technology | /m/03ytc ]]
+Subject Path: SUBJECT_NOUN -> offers_VERB
+Object Path: OBJECT_NOUN -> solutions_NOUN -> of_ADP -> range_NOUN -> offers_VERB
+Lowest common ancestor: offers_VERB
+
+
+All you need to know about OBJECT was SUBJECT and ENTITY1 .
+ENTITY1 - [[ DNDN | /m/0kqkf3 ]]
+SUBJECT - [[ Amgen | /m/03r820 ]]
+OBJECT - [[ Biotechnology | /m/01ftz ]]
+Subject Path: SUBJECT_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> about_ADP -> know_VERB -> need_VERB -> All_DET -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+SUBJECT provides best-in-class OBJECT solutions for secure information sharing and compliance, targeting small and medium size organizations.
+SUBJECT - [[ Computhink | /m/04169xn ]]
+OBJECT - [[ Enterprise content management | /m/05k6fj ]]
+Subject Path: SUBJECT_NOUN -> provides_VERB
+Object Path: OBJECT_NOUN -> solutions_NOUN -> provides_VERB
+Lowest common ancestor: provides_VERB
+
+
+OBJECT were developed at SUBJECT by executive producer James Razzall, producer Michael Stanish, VFX supervisor ENTITY1 .
+ENTITY1 - [[ Mike McGee | /m/0bczksh ]]
+SUBJECT - [[ Framestore | /m/0c86n ]]
+OBJECT - [[ Visual Effects | /m/01vx2h ]]
+Subject Path: SUBJECT_NOUN -> at_ADP -> developed_VERB
+Object Path: OBJECT_NOUN -> developed_VERB
+Lowest common ancestor: developed_VERB
+
+
+SUBJECT says that OBJECT can help organisations address both of these concerns.
+SUBJECT - [[ Infor | /m/026c3z3 ]]
+OBJECT - [[ Enterprise software | /m/0727xx ]]
+Subject Path: SUBJECT_NOUN -> says_VERB
+Object Path: OBJECT_NOUN -> help_VERB -> says_VERB
+Lowest common ancestor: says_VERB
+
+
+SUBJECT 's approach to OBJECT may be unique, but it is certainly not the only exception
+SUBJECT - [[ Zoom Telephonics | /m/02pvhdw ]]
+OBJECT - [[ Voice over IP | /m/0jzgd ]]
+Subject Path: SUBJECT_NOUN -> approach_NOUN -> be_AUX
+Object Path: OBJECT_NOUN -> to_ADP -> approach_NOUN -> be_AUX
+Lowest common ancestor: approach_NOUN
+
+
+A leading figure in the OBJECT , ENTITY1 founded SUBJECT  in the early eighties.
+ENTITY1 - [[ Jez | /m/046dg1 ]]
+SUBJECT - [[ Argonaut Games | /m/04630n ]]
+OBJECT - [[ Video game industry | /m/020mfr ]]
+Subject Path: SUBJECT_NOUN -> founded_VERB
+Object Path: OBJECT_NOUN -> in_ADP -> figure_NOUN -> founded_VERB
+Lowest common ancestor: founded_VERB
+
+
+His career in the OBJECT started with SUBJECT in the late 1980s
+SUBJECT - [[ Virgin Interactive | /m/03_kl4 ]]
+OBJECT - [[ Video game industry | /m/020mfr ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> started_VERB
+Object Path: OBJECT_NOUN -> in_ADP -> career_NOUN -> started_VERB
+Lowest common ancestor: started_VERB
+
+
+The ENTITY1 is presented by SUBJECT on OBJECT , a 501 organization
+ENTITY1 - [[ Green Mountain Film Festival | /m/0gsx_6 ]]
+SUBJECT - [[ Focus Features | /m/024rbz ]]
+OBJECT - [[ Film | /m/02vxn ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> presented_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> SUBJECT_NOUN -> by_ADP -> presented_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT provides ENTITY1 language services centered around OBJECT content, community, and e-commerce
+ENTITY1 - [[ Chinese | /m/0d05w3 ]]
+SUBJECT - [[ NetEase | /m/07xm8h ]]
+OBJECT - [[ The Internet | /m/03rlt ]]
+Subject Path: SUBJECT_NOUN -> provides_VERB
+Object Path: OBJECT_NOUN -> content_NOUN -> around_ADP -> centered_VERB -> services_NOUN -> provides_VERB
+Lowest common ancestor: provides_VERB
+
+
+Which is why the OBJECT stumped up the money for SUBJECT in the end, moral hazard notwithstanding.
+SUBJECT - [[ Northern Rock | /m/02ht4w ]]
+OBJECT - [[ Bank | /m/017ql ]]
+Subject Path: SUBJECT_NOUN -> for_ADP -> stumped_VERB -> is_AUX
+Object Path: OBJECT_NOUN -> stumped_VERB -> is_AUX
+Lowest common ancestor: stumped_VERB
+
+
+SUBJECT is who ENTITY1 goes through, ENTITY2 goes through OBJECT , not sure who Sprint uses
+ENTITY1 - [[ Alltel | /m/05sfff ]]
+ENTITY2 - [[ Nextel | /m/077w0b ]]
+SUBJECT - [[ Asurion | /m/0765wf ]]
+OBJECT - [[ Telecommunications | /m/029g_vk ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> through_ADP -> goes_VERB -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+@Mac-nugget and CD: That's why I say that SUBJECT is a OBJECT company disguised as a ENTITY1 company
+ENTITY1 - [[ HARDware | /m/01mfj ]]
+SUBJECT - [[ Apple Inc. | /m/0k8z ]]
+OBJECT - [[ Software | /m/01mf0 ]]
+Subject Path: SUBJECT_NOUN -> is_AUX -> say_VERB -> 's_AUX
+Object Path: OBJECT_NOUN -> company_NOUN -> is_AUX -> say_VERB -> 's_AUX
+Lowest common ancestor: is_AUX
+
+
+The OBJECT became part of the ENTITY1 in 1924 and SUBJECT  in 1948
+ENTITY1 - [[ London, Midland & Scottish Railway | /m/019m_g ]]
+SUBJECT - [[ British Rail | /m/01dqc ]]
+OBJECT - [[ Rail transport | /m/06d_3 ]]
+Subject Path: SUBJECT_NOUN -> became_VERB
+Object Path: OBJECT_NOUN -> became_VERB
+Lowest common ancestor: became_VERB
+
+
+The great advantage of SUBJECT regarding other companies of OBJECT , was to create Innovative Products - new category!
+SUBJECT - [[ Agel Enterprises | /m/03whxl_ ]]
+OBJECT - [[ Multi-level marketing | /m/056bx ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> advantage_NOUN -> was_AUX
+Object Path: OBJECT_NOUN -> of_ADP -> companies_NOUN -> regarding_VERB -> advantage_NOUN -> was_AUX
+Lowest common ancestor: advantage_NOUN
+
+
+Make an informed decision on SUBJECT xbox video games OBJECT before you buy.
+SUBJECT - [[ Rare Ltd | /m/01qvcr ]]
+OBJECT - [[ Video game | /m/01mw1 ]]
+Subject Path: SUBJECT_PROPN -> games_NOUN -> OBJECT_NOUN -> on_ADP -> decision_NOUN -> Make_VERB
+Object Path: OBJECT_NOUN -> on_ADP -> decision_NOUN -> Make_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+Description: SUBJECT provide OBJECT and a wide variety of other insurance services.
+SUBJECT - [[ InsureandGo | /m/0drxhxm ]]
+OBJECT - [[ Travel insurance | /m/08jvtd ]]
+Subject Path: SUBJECT_NOUN -> provide_VERB -> Description_NOUN
+Object Path: OBJECT_NOUN -> provide_VERB -> Description_NOUN
+Lowest common ancestor: provide_VERB
+
+
+www.robotron-2084.co.uk - Preserving Williams, SUBJECT and ENTITY1 1980's OBJECT and ENTITY2 for the future!
+ENTITY1 - [[ Taito | /m/07rfp ]]
+ENTITY2 - [[ Pinball Machines | /m/0gfk5 ]]
+SUBJECT - [[ Atari Games | /m/01scmq ]]
+OBJECT - [[ Video game | /m/01mw1 ]]
+Subject Path: SUBJECT_NOUN -> Williams_PROPN -> Preserving_VERB
+
+Lowest common ancestor: 
+
+
+Newspapers: Television: Marketplace: CanWest Countries: 2005 - 2008 SUBJECT squinting OBJECT , a division of SUBJECT .
+SUBJECT - [[ Canwest | /m/02tbg7 ]]
+OBJECT - [[ Mass media | /m/04z0z ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN
+Subject Path: SUBJECT_NOUN -> of_ADP -> division_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+Welcome to SUBJECT 's online resource for OBJECT education!
+SUBJECT - [[ American Medical Response | /m/044trm ]]
+OBJECT - [[ Emergency medical services | /m/0dxh1 ]]
+Subject Path: SUBJECT_PROPN -> resource_NOUN -> to_ADP -> Welcome_VERB
+Object Path: OBJECT_NOUN -> education_NOUN -> for_ADP -> resource_NOUN -> to_ADP -> Welcome_VERB
+Lowest common ancestor: resource_NOUN
+
+
+OBJECT  company SUBJECT
+SUBJECT - [[ Dimension Data Holdings | /m/02qk4zq ]]
+OBJECT - [[ Information technology | /m/03ytc ]]
+
+Object Path: OBJECT_NOUN -> company_NOUN -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+For major repair work, the OBJECT coordinates with SUBJECT and other repair stations
+SUBJECT - [[ Ethiopian Airlines | /m/02351x ]]
+OBJECT - [[ Airline | /m/0vg8 ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> coordinates_VERB
+Object Path: OBJECT_NOUN -> coordinates_VERB
+Lowest common ancestor: coordinates_VERB
+
+
+For 2007, the SUBJECT expects a further favorable development of both OBJECT and ENTITY1 economics
+ENTITY1 - [[ Public Access | /m/027cx0 ]]
+SUBJECT - [[ Kudelski Group | /m/02x8rcw ]]
+OBJECT - [[ Digital television | /m/029j1 ]]
+Subject Path: SUBJECT_NOUN -> expects_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> development_NOUN -> expects_VERB
+Lowest common ancestor: expects_VERB
+
+
+OBJECT firm SUBJECT has named ENTITY1
+ENTITY1 - [[ Fortinet | /m/06lqbt ]]
+SUBJECT - [[ International Data Corporation | /m/07r6pq ]]
+OBJECT - [[ Market research | /m/01jxhc ]]
+Subject Path: SUBJECT_PROPN -> named_VERB
+Object Path: OBJECT_NOUN -> firm_NOUN -> SUBJECT_PROPN -> named_VERB
+Lowest common ancestor: SUBJECT_PROPN
+
+
+Long-haul OBJECT regularly used include scheduled flights on ENTITY1 , SUBJECT and ENTITY2 .
+ENTITY1 - [[ British Airways | /m/0198z ]]
+ENTITY2 - [[ Emirates | /m/011_65 ]]
+SUBJECT - [[ Air India | /m/0k670 ]]
+OBJECT - [[ Airline | /m/0vg8 ]]
+Subject Path: SUBJECT_NOUN -> ENTITY1_PROPN -> on_ADP -> flights_NOUN -> include_VERB -> used_VERB
+Object Path: OBJECT_NOUN -> used_VERB
+Lowest common ancestor: used_VERB
+
+
+SUBJECT provides OBJECT application lifecycle management, business process management and data management solutions for OBJECT customers and and?partners.
+SUBJECT - [[ IntelliCorp | /m/0c683q ]]
+OBJECT - [[ SAP ERP | /m/0dvl8x ]]
+Subject Path: SUBJECT_NOUN -> provides_VERB
+Object Path: OBJECT_NOUN -> management_NOUN -> provides_VERB
+Object Path: OBJECT_NOUN -> customers_NOUN -> for_ADP -> solutions_NOUN -> management_NOUN -> provides_VERB
+Lowest common ancestor: provides_VERB
+
+
+OBJECT is available at the ENTITY1 with ENTITY2 and SUBJECT , and with Europe Car, off site.
+ENTITY1 - [[ Airport | /m/09cjl ]]
+ENTITY2 - [[ Hertz | /m/03nsh ]]
+SUBJECT - [[ Avis Rent a Car System | /m/07l3qb ]]
+OBJECT - [[ Car rental | /m/0drl1t ]]
+Subject Path: SUBJECT_PROPN -> ENTITY2_PROPN -> with_ADP -> ENTITY1_PROPN -> at_ADP -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+OBJECT and theme park operator SUBJECT will merge its film production business with ENTITY1 record company ENTITY2
+ENTITY1 - [[ US | /m/09c7w0 ]]
+ENTITY2 - [[ Concord Music | /m/025twry ]]
+SUBJECT - [[ Village Roadshow | /m/03vr6l ]]
+OBJECT - [[ Film | /m/02vxn ]]
+Subject Path: SUBJECT_PROPN -> merge_VERB
+Object Path: OBJECT_NOUN -> operator_NOUN -> SUBJECT_PROPN -> merge_VERB
+Lowest common ancestor: SUBJECT_PROPN
+
+
+OBJECT OBJECT , operated by the ENTITY1 cargo company SUBJECT
+ENTITY1 - [[ Italian | /m/03rjj ]]
+SUBJECT - [[ Mistral Air | /m/05xpcb ]]
+OBJECT - [[ Airline | /m/0vg8 ]]
+
+Object Path: OBJECT_PROPN -> OBJECT_PROPN -> SUBJECT_NOUN
+Object Path: OBJECT_PROPN -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+She?s no less the oilwoman than OBJECT was the OBJECT , her husband being a SUBJECT employee
+SUBJECT - [[ BP | /m/0k5b5 ]]
+OBJECT - [[ Petroleum industry | /m/03xm3m ]]
+Subject Path: SUBJECT_PROPN -> employee_NOUN -> being_AUX -> was_AUX
+Object Path: OBJECT_PROPN -> than_SCONJ -> oilwoman_PROPN -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+Third edition OBJECT icon ENTITY1 comes to SUBJECT with a new print edition of his popular ENTITY2 !
+ENTITY1 - [[ Monte Cook | /m/01kzlf ]]
+ENTITY2 - [[ Books of Experimental Might | /m/0djzlym ]]
+SUBJECT - [[ Paizo Publishing | /m/0f8dhq ]]
+OBJECT - [[ Role-playing game | /m/06c9r ]]
+Subject Path: SUBJECT_NOUN -> to_ADP -> comes_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> comes_VERB
+Lowest common ancestor: comes_VERB
+
+
+With specialized coatings designed for OBJECT  specifically catering to SUBJECT , Oman Refineries and Petrochemicals Company and various Ministries.
+SUBJECT - [[ Petroleum Development Oman | /m/03k9gm ]]
+OBJECT - [[ Petroleum industry | /m/03xm3m ]]
+Subject Path: SUBJECT_PROPN -> to_ADP -> catering_VERB -> With_ADP
+Object Path: OBJECT_NOUN -> for_ADP -> designed_VERB -> coatings_NOUN -> catering_VERB -> With_ADP
+Lowest common ancestor: catering_VERB
+
+
+- ENTITY1 and SUBJECT respond to the ENTITY2 / ENTITY3 threat...there's more than OBJECT at stake here
+ENTITY1 - [[ Comcast | /m/01s73z ]]
+ENTITY2 - [[ Google | /m/045c7b ]]
+ENTITY3 - [[ Yahoo | /m/045c7b ]]
+SUBJECT - [[ News Corporation | /m/0sxdg ]]
+OBJECT - [[ Publishing | /m/0hz28 ]]
+Subject Path: SUBJECT_NOUN -> ENTITY1_PROPN -> respond_VERB
+Object Path: OBJECT_NOUN -> than_SCONJ -> more_ADJ -> 's_AUX
+Lowest common ancestor: 
+
+
+Uplink connects ENTITY1 protocol OBJECT calls to the proprietary SUBJECT phone network
+ENTITY1 - [[ SIP | /m/07362 ]]
+SUBJECT - [[ Skype Technologies | /m/06whf7 ]]
+OBJECT - [[ Voice over IP | /m/0jzgd ]]
+Subject Path: SUBJECT_PROPN -> network_NOUN -> to_ADP -> calls_VERB -> connects_VERB
+Object Path: OBJECT_NOUN -> calls_VERB -> connects_VERB
+Lowest common ancestor: calls_VERB
+
+
+Its Volunteer OBJECT was  leased by the SUBJECT in 1899.
+SUBJECT - [[ Cleveland-Cliffs Inc. | /m/03p1tnt ]]
+OBJECT - [[ Mining | /m/053rd ]]
+Subject Path: SUBJECT_NOUN -> by_ADP -> leased_VERB -> was_AUX
+Object Path: OBJECT_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+I find them at Super WalMarts with big Grocery stores and a OBJECT called SUBJECT
+SUBJECT - [[ Publix Super Markets | /m/03p3081 ]]
+OBJECT - [[ Grocery store | /m/01jpn4 ]]
+Subject Path: SUBJECT_NOUN -> called_VERB -> OBJECT_NOUN -> stores_NOUN -> with_ADP -> find_VERB
+Object Path: OBJECT_NOUN -> stores_NOUN -> with_ADP -> find_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+The ENTITY1 SUBJECT branch recently organised a fruitful seminar on OBJECT 's future in ENTITY2
+ENTITY1 - [[ Victorian | /m/0chgr2 ]]
+ENTITY2 - [[ Australia | /m/0chghy ]]
+SUBJECT - [[ Affiliated Computer Services | /m/07k24g ]]
+OBJECT - [[ Information technology | /m/03ytc ]]
+Subject Path: SUBJECT_NOUN -> branch_NOUN -> organised_VERB
+Object Path: OBJECT_PROPN -> future_NOUN -> on_ADP -> seminar_NOUN -> organised_VERB
+Lowest common ancestor: organised_VERB
+
+
+OBJECT is available through SUBJECT , telephone 885-3757.
+SUBJECT - [[ Cox Communications | /m/03lvmp ]]
+OBJECT - [[ Cable television | /m/024bm ]]
+Subject Path: SUBJECT_NOUN -> through_ADP -> available_ADJ -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Have lunch or dinner at the SUBJECT or ENTITY1 each neighbouring the OBJECT
+ENTITY1 - [[ Planet Hollywood | /m/043j11 ]]
+SUBJECT - [[ Hard Rock Cafe | /m/01lc9r ]]
+OBJECT - [[ Casino | /m/01lq3 ]]
+Subject Path: SUBJECT_NOUN -> at_ADP -> Have_AUX
+Object Path: OBJECT_NOUN -> neighbouring_VERB
+Lowest common ancestor: 
+
+
+At times, they have done better volumes than SUBJECT , a giant in OBJECT .
+SUBJECT - [[ Singtel | /m/020zfl ]]
+OBJECT - [[ Telecommunications | /m/029g_vk ]]
+Subject Path: SUBJECT_NOUN -> than_SCONJ -> volumes_NOUN -> done_VERB
+Object Path: OBJECT_NOUN -> in_ADP -> giant_NOUN -> done_VERB
+Lowest common ancestor: done_VERB
+
+
+Best prices on SUBJECT , M  in OBJECT .
+SUBJECT - [[ Atlus | /m/0260p2 ]]
+OBJECT - [[ Video game | /m/01mw1 ]]
+Subject Path: SUBJECT_PROPN -> on_ADP -> prices_NOUN -> M_PROPN
+Object Path: OBJECT_NOUN -> in_ADP -> M_PROPN
+Lowest common ancestor: M_PROPN
+
+
+SUBJECT provided most of the OBJECT panels, while Gestamp Asetym provided management and design engineering for the project.
+SUBJECT - [[ Trina Solar | /m/047p93n ]]
+OBJECT - [[ Photovoltaics | /m/02_spr ]]
+Subject Path: SUBJECT_NOUN -> provided_VERB
+Object Path: OBJECT_NOUN -> panels_NOUN -> of_ADP -> most_ADJ -> provided_VERB
+Lowest common ancestor: provided_VERB
+
+
+(cargo shipping company that among other things ran a dedicated cold chain set up for OBJECT company SUBJECT ).
+SUBJECT - [[ Ranbaxy Laboratories | /m/0243xw ]]
+OBJECT - [[ Pharmaceutical industry | /m/02q3wl ]]
+Subject Path: SUBJECT_NOUN -> set_VERB -> chain_NOUN -> ran_VERB -> company_NOUN
+Object Path: OBJECT_NOUN -> company_NOUN -> for_ADP -> set_VERB -> chain_NOUN -> ran_VERB -> company_NOUN
+Lowest common ancestor: set_VERB
+
+
+SUBJECT a division of SUBJECT is a leader in the OBJECT service industry.
+SUBJECT - [[ Baker Hughes | /m/02yd0p ]]
+OBJECT - [[ Petroleum industry | /m/03xm3m ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Subject Path: SUBJECT_NOUN -> of_ADP -> division_NOUN -> SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> industry_NOUN -> in_ADP -> leader_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+I think that SUBJECT should make a ENTITY1 type of OBJECT .
+ENTITY1 - [[ Harry Potter | /m/078ffw ]]
+SUBJECT - [[ Wizards of the Coast | /m/012pjw ]]
+OBJECT - [[ Role-playing game | /m/06c9r ]]
+Subject Path: SUBJECT_NOUN -> make_VERB -> think_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> type_NOUN -> make_VERB -> think_VERB
+Lowest common ancestor: make_VERB
+
+
+The SUBJECT has been operating in ENTITY1 , ENTITY2 since 1986, and has recently expanded into OBJECT
+ENTITY1 - [[ Tokyo | /m/07dfk ]]
+ENTITY2 - [[ Japan | /m/03_3d ]]
+SUBJECT - [[ Commonwealth Bank | /m/02rndw ]]
+OBJECT - [[ Retail banking | /m/0ccf7n ]]
+Subject Path: SUBJECT_NOUN -> operating_VERB
+Object Path: OBJECT_NOUN -> into_ADP -> expanded_VERB -> operating_VERB
+Lowest common ancestor: operating_VERB
+
+
+SUBJECT manufactures a range of OBJECT products, primarily on the basis of open-standard ENTITY1
+ENTITY1 - [[ SIP | /m/07362 ]]
+SUBJECT - [[ snom | /m/02vrbjb ]]
+OBJECT - [[ Voice over IP | /m/0jzgd ]]
+Subject Path: SUBJECT_NOUN -> manufactures_VERB
+Object Path: OBJECT_NOUN -> products_NOUN -> of_ADP -> range_NOUN -> manufactures_VERB
+Lowest common ancestor: manufactures_VERB
+
+
+Every time I walk into SUBJECT it reminds me of the OBJECT owned by the ENTITY1
+ENTITY1 - [[ Communist States | /m/01fkst ]]
+SUBJECT - [[ Walmart | /m/0841v ]]
+OBJECT - [[ Department store | /m/01k_mv ]]
+Subject Path: SUBJECT_NOUN -> into_ADP -> walk_VERB -> time_NOUN -> reminds_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> reminds_VERB
+Lowest common ancestor: reminds_VERB
+
+
+Tags: 250-c20, SUBJECT engines, OBJECT , ENTITY1 , Aircraft engines...
+ENTITY1 - [[ Airbus | /m/015zfz ]]
+SUBJECT - [[ Aero Vodochody | /m/02h381 ]]
+OBJECT - [[ Aerospace | /m/0147gr ]]
+Subject Path: SUBJECT_NOUN -> engines_NOUN -> 250-c20_NUM -> Tags_NOUN
+Object Path: OBJECT_NOUN -> engines_NOUN -> 250-c20_NUM -> Tags_NOUN
+Lowest common ancestor: engines_NOUN
+
+
+ENTITY1 was bought by ENTITY2 and OBJECT form SUBJECT last last year for £ 1.2 billion
+ENTITY1 - [[ Emap | /m/03vv73 ]]
+ENTITY2 - [[ Guardian Media Group | /m/01b3s6 ]]
+SUBJECT - [[ Apax Partners | /m/071ydh ]]
+OBJECT - [[ Private equity | /m/01b4x4 ]]
+Subject Path: SUBJECT_NOUN -> bought_VERB
+Object Path: OBJECT_PROPN -> ENTITY2_PROPN -> by_ADP -> bought_VERB
+Lowest common ancestor: bought_VERB
+
+
+SUBJECT is the largest ENTITY1 life and OBJECT and serves s...
+ENTITY1 - [[ Canadian | /m/0d060g ]]
+SUBJECT - [[ Great-West Lifeco | /m/09j6vn ]]
+OBJECT - [[ Health insurance | /m/02gqxg ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> life_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+EastEnders pips Dr Who on SUBJECT news story, ENTITY1 GETS A MAKEOVER FOR OBJECT
+ENTITY1 - [[ GI JOE | /m/01gm69 ]]
+SUBJECT - [[ Paramount Pictures | /m/05qd_ ]]
+OBJECT - [[ Film | /m/02vxn ]]
+Subject Path: SUBJECT_NOUN -> story_NOUN -> on_ADP -> Who_PROPN -> GETS_VERB
+Object Path: OBJECT_NOUN -> FOR_ADP -> MAKEOVER_NOUN -> GETS_VERB
+Lowest common ancestor: GETS_VERB
+
+
+This text link will ... the major OBJECT including SUBJECT and Yahoo.
+SUBJECT - [[ Google | /m/045c7b ]]
+OBJECT - [[ Search engine | /m/06xw2 ]]
+Subject Path: SUBJECT_NOUN -> including_VERB -> OBJECT_NOUN -> will_AUX
+Object Path: OBJECT_NOUN -> will_AUX
+Lowest common ancestor: OBJECT_NOUN
+
+
+OBJECT is more than ENTITY1 and SUBJECT
+ENTITY1 - [[ KFC | /m/09b6t ]]
+SUBJECT - [[ McDonald's | /m/07gyp7 ]]
+OBJECT - [[ Fast food | /m/01_bhs ]]
+Subject Path: SUBJECT_NOUN -> ENTITY1_PROPN -> than_SCONJ -> more_ADJ -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+SUBJECT is a OBJECT company in ENTITY1
+ENTITY1 - [[ India | /m/03rk0 ]]
+SUBJECT - [[ Genpact | /m/0bwgw7 ]]
+OBJECT - [[ Business process outsourcing | /m/04fm00 ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> company_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+The price was a Stressless chair, produced by the ENTITY1 company SUBJECT and donated by Macys OBJECT .
+ENTITY1 - [[ Norwegian | /m/05b4w ]]
+SUBJECT - [[ Ekornes | /m/07069n ]]
+OBJECT - [[ Furniture | /m/0c_jw ]]
+
+Object Path: OBJECT_PROPN -> by_ADP -> donated_VERB -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+I had an interesting meeting today with the senior leadership of social networking OBJECT vendor SUBJECT .
+SUBJECT - [[ INgage Networks | /m/02vzsj8 ]]
+OBJECT - [[ Software as a service | /m/06_4c_ ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> leadership_NOUN -> with_ADP -> meeting_NOUN -> had_AUX
+Object Path: OBJECT_PROPN -> vendor_NOUN -> SUBJECT_NOUN -> of_ADP -> leadership_NOUN -> with_ADP -> meeting_NOUN -> had_AUX
+Lowest common ancestor: SUBJECT_NOUN
+
+
+The Holiday Inn Group of OBJECT is part of the famed SUBJECT .
+SUBJECT - [[ InterContinental Hotels Group | /m/0496hl ]]
+OBJECT - [[ Hotel | /m/03pty ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> part_NOUN -> is_AUX
+Object Path: OBJECT_PROPN -> of_ADP -> Group_PROPN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+ENTITY1 and OBJECT giant SUBJECT signed an exclusive cooperation agreement, to bring ENTITY1 's technologies to your TV screen.
+ENTITY1 - [[ Nemesysco | /m/05f6hb3 ]]
+ENTITY2 - [[ Nemesysco | /m/05f6hb3 ]]
+SUBJECT - [[ Endemol | /m/025504 ]]
+OBJECT - [[ Television | /m/07c52 ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> ENTITY1_PROPN -> signed_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> signed_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+According to the SUBJECT s study, ENTITY1 's top OBJECT firm, ENTITY2 KPOs will formulate almost 280,000 jobs &
+ENTITY1 - [[ India | /m/03rk0 ]]
+ENTITY2 - [[ Indian | /m/03rk0 ]]
+SUBJECT - [[ Evalueserve | /m/09yjx1 ]]
+OBJECT - [[ Knowledge process outsourcing | /m/07r27z ]]
+Subject Path: SUBJECT_NOUN -> to_ADP -> According_VERB
+Object Path: OBJECT_NOUN -> firm_NOUN -> formulate_VERB
+Lowest common ancestor: 
+
+
+The OBJECT is now part of SUBJECT .
+SUBJECT - [[ Beacon Press | /m/02ky_x ]]
+OBJECT - [[ Publishing | /m/0hz28 ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> part_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Consequently, we are further leveraging on SUBJECT ?s capabilities in ENTITY1 and OBJECT .
+ENTITY1 - [[ Global Markets | /m/05xysy ]]
+SUBJECT - [[ Fortis | /m/04s31b ]]
+OBJECT - [[ Investment banking | /m/015p1m ]]
+Subject Path: SUBJECT_NOUN -> on_ADP -> leveraging_VERB
+Object Path: OBJECT_NOUN -> ENTITY1_PROPN -> in_ADP -> capabilities_NOUN
+Lowest common ancestor: 
+
+
+You'll find the best prices on ENTITY1 video games, SUBJECT in OBJECT when you shop online at ENTITY2 .
+ENTITY1 - [[ Arcade | /m/0d76r ]]
+ENTITY2 - [[ BizRate | /m/0fb122 ]]
+SUBJECT - [[ Midway Games | /m/027lf1 ]]
+OBJECT - [[ Video game | /m/01mw1 ]]
+Subject Path: SUBJECT_NOUN -> prices_NOUN -> find_VERB
+Object Path: OBJECT_NOUN -> in_ADP -> SUBJECT_NOUN -> prices_NOUN -> find_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+SUBJECT has completed various types of OBJECT for a number of key sequences.
+SUBJECT - [[ Moving Picture Company | /m/089630 ]]
+OBJECT - [[ Visual Effects | /m/01vx2h ]]
+Subject Path: SUBJECT_NOUN -> completed_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> types_NOUN -> completed_VERB
+Lowest common ancestor: completed_VERB
+
+
+SUBJECT operates an  Internet within the OBJECT   that accelerates the performance of widely distributed online applications.
+SUBJECT - [[ Akamai Technologies | /m/02fqbt ]]
+OBJECT - [[ The Internet | /m/03rlt ]]
+Subject Path: SUBJECT_NOUN -> operates_VERB
+Object Path: OBJECT_NOUN -> within_ADP -> Internet_NOUN -> operates_VERB
+Lowest common ancestor: operates_VERB
+
+
+ENTITY1 partner of SUBJECT , a swedish based company known for its patented in-memory OBJECT platform, ENTITY2 .
+ENTITY1 - [[ South East Asia | /m/073q1 ]]
+ENTITY2 - [[ QlikView | /m/0bs82_g ]]
+SUBJECT - [[ Qlik | /m/0bqs19 ]]
+OBJECT - [[ Business intelligence | /m/016jq3 ]]
+Subject Path: SUBJECT_NOUN -> of_ADP -> partner_NOUN
+Object Path: OBJECT_NOUN -> platform_NOUN -> for_ADP -> known_VERB -> company_NOUN -> partner_NOUN
+Lowest common ancestor: partner_NOUN
+
+
+On the ENTITY1 retail front OBJECT 's SUBJECT reported sales in December down 21% compared with a year earlier
+ENTITY1 - [[ US | /m/09c7w0 ]]
+SUBJECT - [[ Tiffany & Co. | /m/04g3zy ]]
+OBJECT - [[ Jewellery | /m/0404d ]]
+Subject Path: SUBJECT_NOUN -> reported_VERB
+Object Path: OBJECT_NOUN -> SUBJECT_NOUN -> reported_VERB
+Lowest common ancestor: SUBJECT_NOUN
+
+
+Tuesdays at SUBJECT s OBJECT , 31920 Gateway Center Blvd
+SUBJECT - [[ Marie Callender's | /m/02nwj3 ]]
+OBJECT - [[ Restaurant | /m/06l8d ]]
+Subject Path: SUBJECT_NOUN -> at_ADP -> Tuesdays_NOUN
+
+Lowest common ancestor: 
+
+
+My favourite OBJECT places SUBJECT
+SUBJECT - [[ Fatburger | /m/03_6pl ]]
+OBJECT - [[ Fast food | /m/01_bhs ]]
+
+Object Path: OBJECT_NOUN -> places_VERB
+Lowest common ancestor: 
+
+
+ENTITY1 OBJECT provider SUBJECT announced an open ENTITY2 to their OBJECT
+ENTITY1 - [[ German | /m/0345h ]]
+ENTITY2 - [[ API | /m/0z5n ]]
+SUBJECT - [[ sipgate | /m/0b12tb ]]
+OBJECT - [[ Voice over IP | /m/0jzgd ]]
+Subject Path: SUBJECT_NOUN -> announced_VERB
+Object Path: OBJECT_NOUN -> provider_NOUN -> SUBJECT_NOUN -> announced_VERB
+Object Path: OBJECT_NOUN -> to_ADP -> announced_VERB
+Lowest common ancestor: SUBJECT_NOUN, announced_VERB
+
+
+The first time I have worked for OBJECT was for SUBJECT compagnie.
+SUBJECT - [[ BUF Compagnie | /m/027y57f ]]
+OBJECT - [[ Visual Effects | /m/01vx2h ]]
+Subject Path: SUBJECT_PROPN -> compagnie_PROPN -> for_ADP -> was_AUX
+Object Path: OBJECT_NOUN -> for_ADP -> worked_VERB -> time_NOUN -> was_AUX
+Lowest common ancestor: was_AUX
+
+
+OBJECT company SUBJECT
+SUBJECT - [[ Dubai International Capital | /m/07mc9j ]]
+OBJECT - [[ Investment | /m/0g_fl ]]
+
+Object Path: OBJECT_NOUN -> company_NOUN -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+facility recently selected OBJECT leader SUBJECT .
+SUBJECT - [[ BatchMaster Software | /m/02vkvkr ]]
+OBJECT - [[ Enterprise resource planning | /m/02jv7 ]]
+
+Object Path: OBJECT_PROPN -> leader_NOUN -> SUBJECT_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+The world of OBJECT is heating up with the   ENTITY1   between ENTITY2 and SUBJECT
+ENTITY1 - [[ Monday Night Wars | /m/05trr2 ]]
+ENTITY2 - [[ World Wrestling Entertainment | /m/0gy1_ ]]
+SUBJECT - [[ World Championship Wrestling | /m/019jdn ]]
+OBJECT - [[ Sports entertainment | /m/02tb6v ]]
+Subject Path: SUBJECT_PROPN -> ENTITY2_PROPN -> between_ADP -> the_DET -> with_ADP -> heating_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> world_NOUN -> heating_VERB
+Lowest common ancestor: heating_VERB
+
+
+Call of Duty 2 Once again SUBJECT concocted with the new OBJECT and ENTITY1 competitions
+ENTITY1 - [[ Electronic Sports | /m/02qh79 ]]
+SUBJECT - [[ Infinity Ward | /m/035tgr ]]
+OBJECT - [[ Video game | /m/01mw1 ]]
+
+Object Path: OBJECT_NOUN -> competitions_NOUN -> with_ADP -> concocted_VERB -> SUBJECT_PROPN
+Lowest common ancestor: SUBJECT_PROPN
+
+
+SUBJECT CLAIMS THE OBJECT CONTAINED IN THIS VIDEO IS INFRINGING.THEREFORE THE MUSIC HAS BEEN MUTED BY UMG.
+SUBJECT - [[ Universal Music Group | /m/01dtcb ]]
+OBJECT - [[ Music | /m/04rlf ]]
+Subject Path: SUBJECT_NOUN -> CLAIMS_VERB
+Object Path: OBJECT_NOUN -> CONTAINED_VERB -> CLAIMS_VERB
+Lowest common ancestor: CLAIMS_VERB
+
+
+SUBJECT , the digital production studio behind ENTITY1 , did OBJECT for this movie
+ENTITY1 - [[ Happy Feet | /m/05650n ]]
+SUBJECT - [[ Animal Logic | /m/0565b7 ]]
+OBJECT - [[ Visual Effects | /m/01vx2h ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+Best prices on ENTITY1 games, SUBJECT in OBJECT
+ENTITY1 - [[ Ps2 | /m/066kp ]]
+SUBJECT - [[ Sega | /m/06p8m ]]
+OBJECT - [[ Video game | /m/01mw1 ]]
+Subject Path: SUBJECT_NOUN -> prices_NOUN
+Object Path: OBJECT_NOUN -> in_ADP -> SUBJECT_NOUN -> prices_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+OBJECT operator SUBJECT has confirmed that high-speed broadband communication will be available in ENTITY1 from May 14.??more..
+ENTITY1 - [[ Thirsk | /m/02chp9 ]]
+SUBJECT - [[ BT Group | /m/01g_3 ]]
+OBJECT - [[ Telecommunications | /m/029g_vk ]]
+Subject Path: SUBJECT_PROPN -> confirmed_VERB
+Object Path: OBJECT_NOUN -> operator_NOUN -> SUBJECT_PROPN -> confirmed_VERB
+Lowest common ancestor: SUBJECT_PROPN
+
+
+OBJECT will be processed securely through SUBJECT , an ENTITY1 company.
+ENTITY1 - [[ eBay | /m/0z90c ]]
+SUBJECT - [[ PayPal | /m/01btsf ]]
+OBJECT - [[ Online shopping | /m/047m52 ]]
+Subject Path: SUBJECT_NOUN -> through_ADP -> processed_VERB
+Object Path: OBJECT_NOUN -> processed_VERB
+Lowest common ancestor: processed_VERB
+
+
+ENTITY1  is an ENTITY2 actor and former OBJECT with SUBJECT .
+ENTITY1 - [[ David Arquette | /m/02v60l ]]
+ENTITY2 - [[ American | /m/09c7w0 ]]
+SUBJECT - [[ World Championship Wrestling | /m/019jdn ]]
+OBJECT - [[ Professional wrestling | /m/066wd ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> actor_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> actor_NOUN -> is_AUX
+Lowest common ancestor: actor_NOUN
+
+
+ENTITY1 has performed for SUBJECT OBJECT 's annual Feast of Sharing Holiday Dinners throughout the state of ENTITY2 .
+ENTITY1 - [[ Gary | /m/01syq9_ ]]
+ENTITY2 - [[ Texas | /m/07b_l ]]
+SUBJECT - [[ H-E-B | /m/06g7cb ]]
+OBJECT - [[ Grocery store | /m/01jpn4 ]]
+Subject Path: SUBJECT_PROPN -> OBJECT_NOUN -> Feast_NOUN -> for_ADP -> performed_VERB
+Object Path: OBJECT_NOUN -> Feast_NOUN -> for_ADP -> performed_VERB
+Lowest common ancestor: OBJECT_NOUN
+
+
+I joined SUBJECT s ENTITY1 office as Systems Integration & Technology Consulting analyst, aligned with the OBJECT workgroup.
+ENTITY1 - [[ New York | /m/02_286 ]]
+SUBJECT - [[ Accenture | /m/01rp2c ]]
+OBJECT - [[ Information technology consulting | /m/07k6dg ]]
+Subject Path: SUBJECT_PROPN -> office_NOUN -> joined_VERB
+Object Path: OBJECT_NOUN -> workgroup_NOUN -> with_ADP -> aligned_VERB -> analyst_NOUN -> as_SCONJ -> joined_VERB
+Lowest common ancestor: joined_VERB
+
+
+Stewart A. Gollmer ? Director ENTITY1 is a senior vice president in OBJECT and a partner in SUBJECT .
+ENTITY1 - [[ Stewart A. Gollmer | /m/02_rj7d ]]
+SUBJECT - [[ Tenaya Capital | /m/05z_1d9 ]]
+OBJECT - [[ Private equity | /m/01b4x4 ]]
+Subject Path: SUBJECT_NOUN -> in_ADP -> partner_NOUN -> president_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> in_ADP -> president_NOUN -> is_AUX
+Lowest common ancestor: president_NOUN
+
+
+Now it is for Project B.Box! SUBJECT is distributing the next generation of this innovative OBJECT .
+SUBJECT - [[ Steinberg | /m/0236y5 ]]
+OBJECT - [[ Software | /m/01mf0 ]]
+Subject Path: SUBJECT_NOUN -> distributing_VERB
+Object Path: OBJECT_NOUN -> of_ADP -> generation_NOUN -> distributing_VERB
+Lowest common ancestor: distributing_VERB
+
+
+Dan King of SUBJECT 's ENTITY1 writes that SUBJECT is   ENTITY2 's leading high-tech OBJECT institute.
+ENTITY1 - [[ Human Resources | /m/0cgz_ ]]
+ENTITY2 - [[ Taiwan | /m/06f32 ]]
+SUBJECT - [[ Industrial Technology Research Institute | /m/0d_9m_ ]]
+OBJECT - [[ Research and development | /m/01lr_q ]]
+Subject Path: SUBJECT_PROPN -> ENTITY1_PROPN -> of_ADP -> King_PROPN -> writes_VERB
+Subject Path: SUBJECT_NOUN -> is_AUX -> writes_VERB
+Object Path: OBJECT_PROPN -> institute_NOUN -> is_AUX -> writes_VERB
+Lowest common ancestor: writes_VERB, is_AUX
+
+
+SUBJECT   Half Jacket  OBJECT  at ENTITY1 's
+ENTITY1 - [[ Cabela | /m/06d7g1 ]]
+SUBJECT - [[ Oakley, Inc. | /m/028tf_ ]]
+OBJECT - [[ Sunglasses | /m/017ftj ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_NOUN
+
+Lowest common ancestor: OBJECT_NOUN
+
+
+Adopt this artifact for $50 5. Once upon a time, SUBJECT s OBJECT was the only place to shop.
+SUBJECT - [[ Hudson's | /m/04pv0h ]]
+OBJECT - [[ Department store | /m/01k_mv ]]
+Subject Path: SUBJECT_NOUN -> OBJECT_PROPN -> was_AUX
+Object Path: OBJECT_PROPN -> was_AUX
+Lowest common ancestor: OBJECT_PROPN
+
+
+SUBJECT was voted ENTITY1 s Leading OBJECT .
+ENTITY1 - [[ Caribbean | /m/0261m ]]
+SUBJECT - [[ Air Jamaica | /m/015pml ]]
+OBJECT - [[ Airline | /m/0vg8 ]]
+Subject Path: SUBJECT_NOUN -> voted_VERB
+Object Path: OBJECT_NOUN -> voted_VERB
+Lowest common ancestor: voted_VERB
+
+
+SUBJECT is a OBJECT solution .
+SUBJECT - [[ Vonage | /m/0296t1 ]]
+OBJECT - [[ Voice over IP | /m/0jzgd ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> solution_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Besides losing internal studio SUBJECT , the company lost OBJECT vice president ENTITY1 to ENTITY2 in July
+ENTITY1 - [[ Peter Moore | /m/09s5wx ]]
+ENTITY2 - [[ Electronic Arts | /m/01n073 ]]
+SUBJECT - [[ Bungie | /m/09h57 ]]
+OBJECT - [[ Interactive entertainment | /m/02p71tm ]]
+Subject Path: SUBJECT_NOUN -> losing_VERB -> Besides_SCONJ -> lost_VERB
+Object Path: OBJECT_NOUN -> president_NOUN -> ENTITY1_PROPN -> lost_VERB
+Lowest common ancestor: lost_VERB
+
+
+OBJECT is taken to SUBJECT in ENTITY1 to be baled.
+ENTITY1 - [[ Cambridge | /m/0978r ]]
+SUBJECT - [[ Svenska Cellulosa Aktiebolaget | /m/01qxy3 ]]
+OBJECT - [[ Paper | /m/0641k ]]
+Subject Path: SUBJECT_NOUN -> to_ADP -> taken_VERB
+Object Path: OBJECT_NOUN -> taken_VERB
+Lowest common ancestor: taken_VERB
+
+
+SUBJECT is a world leader in ENTITY1 -critical information systems for the OBJECT , defence and security markets.
+ENTITY1 - [[ Mission | /m/0f6fc1 ]]
+SUBJECT - [[ Thales Group | /m/01phj4 ]]
+OBJECT - [[ Aerospace | /m/0147gr ]]
+Subject Path: SUBJECT_NOUN -> is_AUX
+Object Path: OBJECT_NOUN -> markets_NOUN -> for_ADP -> systems_NOUN -> in_ADP -> leader_NOUN -> is_AUX
+Lowest common ancestor: is_AUX
+
+
+Best prices on ENTITY1 video games, SUBJECT in OBJECT .
+ENTITY1 - [[ Budget | /m/02144t ]]
+SUBJECT - [[ DreamCatcher Interactive | /m/04zlmb ]]
+OBJECT - [[ Video game | /m/01mw1 ]]
+Subject Path: SUBJECT_NOUN -> prices_NOUN
+Object Path: OBJECT_NOUN -> in_ADP -> SUBJECT_NOUN -> prices_NOUN
+Lowest common ancestor: SUBJECT_NOUN
+
+
+OBJECT only began at SUBJECT in April 2007, when Watt and ENTITY1 were 24 years old.
+ENTITY1 - [[ Dickie | /m/0b68k4y ]]
+SUBJECT - [[ BrewDog | /m/04zyn8j ]]
+OBJECT - [[ Brewing | /m/01d_x ]]
+Subject Path: SUBJECT_NOUN -> at_ADP -> began_VERB
+Object Path: OBJECT_NOUN -> began_VERB
+Lowest common ancestor: began_VERB
+
+
+SUBJECT can be used as OBJECT and mobile VOIP option.
+SUBJECT - [[ Vyke | /m/02rg1yy ]]
+OBJECT - [[ Voice over IP | /m/0jzgd ]]
+Subject Path: SUBJECT_NOUN -> used_VERB
+Object Path: OBJECT_NOUN -> as_SCONJ -> used_VERB
+Lowest common ancestor: used_VERB
+
+
+In cooperation with SUBJECT , ENTITY1 supports greater use of sophisticated OBJECT  technology.
+ENTITY1 - [[ Roots of Peace | /m/0201y3 ]]
+SUBJECT - [[ Autodesk | /m/018nm3 ]]
+OBJECT - [[ Geographic information system | /m/03821 ]]
+Subject Path: SUBJECT_NOUN -> with_ADP -> cooperation_NOUN -> In_ADP -> supports_VERB
+Object Path: OBJECT_NOUN -> technology_NOUN -> of_ADP -> use_NOUN -> supports_VERB
+Lowest common ancestor: supports_VERB
+
+
+On the Sunday after the storm we received a call through SUBJECT requesting OBJECT assistance to ENTITY1 .
+ENTITY1 - [[ Galveston County | /m/0mrq3 ]]
+SUBJECT - [[ Texas Natural Resources Information System | /m/0260hng ]]
+OBJECT - [[ Geographic information system | /m/03821 ]]
+Subject Path: SUBJECT_NOUN -> through_ADP -> received_VERB
+Object Path: OBJECT_NOUN -> assistance_NOUN -> requesting_VERB -> received_VERB
+Lowest common ancestor: received_VERB
