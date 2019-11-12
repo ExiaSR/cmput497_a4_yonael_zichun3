@@ -33,19 +33,25 @@ def main():
                 ]
             )
 
-            # count by LCA VERB tense
+            # count by LCA VERB stem
             words_list = [
                 r["lowest_common_ancestor"] for r in relations if r["lowest_common_ancestor"]
             ]
             verbs_list = [w.split("_")[0] for w in words_list if w.split("_")[1] == "VERB"]
+            verbs_doc = [nlp(v)[0] for v in verbs_list]
             lca_verb_stems = set([nlp(v)[0].lemma_ for v in verbs_list])
+            # count by LCA verb tense
+            lca_verb_tense = [nlp.vocab.morphology.tag_map[v.tag_] for v in verbs_doc]
+            lca_verb_tense_count = Counter(['Tense_past' if v.get('Tense_past', False) else 'Tense_pres' for v in lca_verb_tense])
 
             print(relation_name)
-            print(lca_counter)
-            print(lca_verb)
-            print(lca_verb_stems)
+            print("All LCA: {}".format(lca_counter))
+            print("LCA verbs: {}".format(lca_verb))
+            print("Number of LCA that are verb: {}".format(sum(lca_verb.values())))
+            print("LCA verbs stems: {}".format(lca_verb_stems))
             print("Number of unique verb stems: {}".format(len(lca_verb_stems)))
-            print(pos_counter)
+            print("LCA verbs tense count: {}".format(lca_verb_tense_count))
+            print("LCA POS tag count: {}".format(pos_counter))
             print("\n")
 
 
